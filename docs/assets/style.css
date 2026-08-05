@@ -233,7 +233,8 @@ button.secondary, .view-tabs button { background: var(--accent-bg); color: var(-
 .pill {
   display: inline-flex; align-items: center; border-radius: 999px;
   background: var(--accent-bg); padding: 0.25rem 0.55rem; font-size: 0.72rem;
-  font-weight: 700; color: var(--accent-dark); white-space: nowrap;
+  font-weight: 700; color: var(--accent-dark); white-space: normal;
+  max-width: 100%; overflow-wrap: break-word; min-width: 0;
 }
 .pill.score { background: var(--teal); }
 .pill.warn { background: var(--amber); color: var(--amber-fg); }
