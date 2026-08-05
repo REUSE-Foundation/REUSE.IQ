@@ -9,7 +9,7 @@ Sri Lankan circular-economy company operating "Trash2Cash" reverse-vending machi
 | Official Name | ChakraSuthra |
 | Country / HQ | Sri Lanka — Colombo |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.chakrasuthra.lk/ |
 | Primary Category | Reverse Logistics |

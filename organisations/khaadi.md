@@ -9,7 +9,7 @@ Major Pakistani fashion retailer whose sustainability efforts include recycled s
 | Official Name | Khaadi |
 | Country / HQ | Pakistan (with UK and US retail presence) |
 | Year Founded | Not confirmed in this research pass |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.khaadi.com/ |
 | Primary Category | Retailer |

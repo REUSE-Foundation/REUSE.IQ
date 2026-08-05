@@ -9,7 +9,7 @@ Luxury Brazilian-inspired beauty brand founded by former Calvin Klein designer F
 | Official Name | Costa Brazil |
 | Country / HQ | United States (brand headquartered in the US; sources sustainable ingredients from Brazil) |
 | Year Founded | 2016 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://livecostabrazil.com/ |
 | Primary Category | Consumer Brand |

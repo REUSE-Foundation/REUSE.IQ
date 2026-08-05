@@ -9,7 +9,7 @@ US natural-deodorant brand built around proprietary "MICROBIOMIX" prebiotic/post
 | Official Name | Kinkō |
 | Country / HQ | United States |
 | Year Founded | 2019 (per site copyright notice) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.kinko.care/ |
 | Primary Category | Consumer Brand |

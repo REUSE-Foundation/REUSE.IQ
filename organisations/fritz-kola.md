@@ -9,7 +9,7 @@ Hamburg-founded soft drink brand (2002/2003) distributing cola and other beverag
 | Official Name | fritz-kola (Mio-Mio Getränke GmbH & Co. KG, per general company records) |
 | Country / HQ | Germany — Hamburg |
 | Year Founded | 2002 (founded in a Hamburg student dorm; some sources cite 2003) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://fritz-kola.com/ |
 | Primary Category | Consumer Brand |

@@ -9,7 +9,7 @@ Israeli developer of water-based, cellulose-derived barrier coatings that make p
 | Official Name | Melodea |
 | Country / HQ | Israel (European operations/domain suggest EU presence as well) |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (startup) |
 | Website | https://melodea.eu/ |
 | Primary Category | Packaging Manufacturer |

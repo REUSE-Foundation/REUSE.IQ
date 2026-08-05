@@ -9,7 +9,7 @@ New York-founded plant-based cleaning brand operating 100+ in-store refill stati
 | Official Name | Common Good (The Common Good Cleaning Company) |
 | Country / HQ | United States — New York/Brooklyn |
 | Year Founded | 2010 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founder-led, Sacha Dunn) |
 | Website | https://www.commongoodandco.com/ |
 | Primary Category | Refill Operator |

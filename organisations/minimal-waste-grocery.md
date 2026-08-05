@@ -9,7 +9,7 @@ Irish zero-waste grocery delivery service (founded autumn 2019) supplying plasti
 | Official Name | Minimal Waste Grocery |
 | Country / HQ | Ireland |
 | Year Founded | 2019 (autumn) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founders Craig, Merschon, Jennie) |
 | Website | https://minimalwastegrocery.com/ |
 | Primary Category | Refill Operator |

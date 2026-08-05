@@ -9,7 +9,7 @@ Singapore homegrown retailer selling reusable kitchen, bathroom, and period-care
 | Official Name | Jolly Eco |
 | Country / HQ | Singapore |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.jollyeco.sg/ |
 | Primary Category | Retailer |

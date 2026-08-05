@@ -9,7 +9,7 @@ New York-founded direct-to-consumer beauty brand marketed as the first fully reu
 | Official Name | Izzy Zero Waste Beauty |
 | Country / HQ | United States — New York City |
 | Year Founded | Product development began 2019; company launch year not independently confirmed |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://yourizzy.com/ |
 | Primary Category | Consumer Brand |

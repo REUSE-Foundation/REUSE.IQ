@@ -9,7 +9,7 @@ Melbourne-founded creator of the world's first "barista-standard" reusable coffe
 | Official Name | KeepCup |
 | Country / HQ | Australia — Melbourne |
 | Year Founded | 2009 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://au.keepcup.com/ |
 | Primary Category | Consumer Brand |

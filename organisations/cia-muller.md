@@ -9,7 +9,7 @@ Brazilian spirits producer (Cachaça 51) operating a large-scale returnable-glas
 | Official Name | Companhia Müller de Bebidas (CNPJ 03.485.775/0001-92) |
 | Country / HQ | Brazil — Pirassununga/Porto Ferreira region, São Paulo state |
 | Year Founded | Not publicly available (long-established producer of the Cachaça 51 brand) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.ciamuller.com.br/ |
 | Primary Category | Reverse Logistics |

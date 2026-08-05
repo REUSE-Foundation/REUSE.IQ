@@ -9,7 +9,7 @@ French initiative operating automated water-fountain-style dispensers that distr
 | Official Name | CleanCup |
 | Country / HQ | France |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Not publicly available |
 | Website | Not publicly available (seed data's LinkedIn/Facebook links found, no dedicated working website confirmed) |
 | Primary Category | Reuse Operator |

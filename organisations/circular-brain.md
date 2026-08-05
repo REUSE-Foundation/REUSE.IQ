@@ -9,7 +9,7 @@ Brazilian digital platform coordinating reverse logistics, trade-in, and traceab
 | Official Name | Circular Brain (Circularbrain) |
 | Country / HQ | Brazil — Jundiaí, São Paulo state |
 | Year Founded | 2022 (per site copyright notice) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://circularbrain.io/ |
 | Primary Category | Reverse Logistics |

@@ -9,7 +9,7 @@ Brooklyn-founded (2009) vegan personal-care brand, first to popularize the zero-
 | Official Name | Meow Meow Tweet LLC |
 | Country / HQ | United States — Brooklyn, New York |
 | Year Founded | 2009 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (Certified B Corporation) |
 | Website | https://meowmeowtweet.com/ |
 | Primary Category | Consumer Brand |

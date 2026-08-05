@@ -9,7 +9,7 @@ Japanese minimalist retailer (Ryohin Keikaku, founded 1980) offering weight-base
 | Official Name | Mujirushi Ryōhin (Ryohin Keikaku Co., Ltd., TSE: 7453) |
 | Country / HQ | Japan |
 | Year Founded | 1980 (originated as a Seiyu supermarket product brand) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Public listed (Tokyo Stock Exchange: 7453) |
 | Website | https://www.muji.com/ |
 | Primary Category | Retailer |

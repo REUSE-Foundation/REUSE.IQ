@@ -9,7 +9,7 @@ Ontario, Canada deposit-return reusable food-container system with 200+ partner 
 | Official Name | Friendlier |
 | Country / HQ | Canada — Guelph, Ontario |
 | Year Founded | 2019 (founded); 2020 (business launched, per differing sources) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.friendlier.com/ |
 | Primary Category | Reuse Operator |

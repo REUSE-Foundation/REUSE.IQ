@@ -9,7 +9,7 @@ Subang Jaya, Malaysia refillable/eco-friendly products retailer, founded 2021 by
 | Official Name | MINIMIZE (Registration No. 202103023410, IP0550689-V) |
 | Country / HQ | Malaysia — Subang Jaya, Selangor |
 | Year Founded | 2021 (per business registration date) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founders Jayne and Tan) |
 | Website | https://www.minimizezerowaste.com/ |
 | Primary Category | Retailer |

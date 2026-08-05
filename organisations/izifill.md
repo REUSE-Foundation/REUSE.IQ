@@ -9,7 +9,7 @@ Indonesian IoT-based, touchless water refill station startup founded 2020, targe
 | Official Name | Izifill |
 | Country / HQ | Indonesia |
 | Year Founded | 2 February 2020 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (startup, incubated via LPIK ITB — Institut Teknologi Bandung) |
 | Website | https://izifill.id/ |
 | Primary Category | Refill Operator |

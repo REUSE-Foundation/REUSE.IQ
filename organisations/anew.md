@@ -9,7 +9,7 @@ New Zealand-founded brand producing plant-based, reusable/recyclable water bottl
 | Official Name | Anew (chooseanew.com) — exact registered legal entity name not publicly available |
 | Country / HQ | New Zealand — Waiheke Island (founder-based); products distributed in NZ, Australia, USA |
 | Year Founded | 2015 (per official About page); founder Jayden Klinac |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.chooseanew.com/ |
 | Primary Category | Consumer Brand |

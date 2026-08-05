@@ -9,7 +9,7 @@ France's first bulk-grocery franchise network, founded 2011 (stores from 2013), 
 | Official Name | day by day (brand of My Retail Box, founded by Didier Onraita and David Sutrat) |
 | Country / HQ | France |
 | Year Founded | Company founded 2011; first store opened May 2013 in Meudon |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (franchise network) |
 | Website | https://daybyday-shop.com/ |
 | Primary Category | Retailer |

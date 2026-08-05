@@ -9,7 +9,7 @@ Austrian multi-channel sustainability retailer (Salzburg-founded, franchise-expa
 | Official Name | DAMN PLASTIC |
 | Country / HQ | Austria — Salzburg |
 | Year Founded | Not publicly available (specific year not found; founded by "Victoria and Steph") |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founder-led, franchise system) |
 | Website | https://damnplastic.com/en |
 | Primary Category | Retailer |

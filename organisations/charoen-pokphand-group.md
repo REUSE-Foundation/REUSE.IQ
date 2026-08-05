@@ -9,7 +9,7 @@ Thai multinational conglomerate that signed a February 2025 MOU with Mitsubishi 
 | Official Name | Charoen Pokphand Group Co., Ltd. |
 | Country / HQ | Thailand — Bangkok |
 | Year Founded | Not verified in this research pass (widely reported elsewhere as 1921, not independently confirmed here) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (conglomerate) |
 | Website | https://www.cpgroupglobal.com/en/home |
 | Primary Category | Other (diversified conglomerate; circular-economy activity is one MOU-level initiative, not the core business) |

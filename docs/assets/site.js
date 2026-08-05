@@ -68,7 +68,7 @@ function priorityClass(priority) {
 
 function statusClass(status) {
   const s = String(status || '').toLowerCase();
-  if (s.includes('inactive') || s.includes('closed') || s.includes('defunct') || s.includes('ceased')) return 'pill bad';
+  if (s.includes('inactive') || s.includes('closed') || s.includes('defunct') || s.includes('ceased') || s.includes('liquidation')) return 'pill bad';
   if (s.includes('uncertain') || s.includes('unclear') || s.includes('unverified')) return 'pill warn';
   return 'pill';
 }

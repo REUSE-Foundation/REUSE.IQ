@@ -9,7 +9,7 @@ Gdańsk municipal waste-management programme running a "Less Waste" education in
 | Official Name | Czyste Miasto Gdańsk (municipal waste management company/programme) |
 | Country / HQ | Poland — Gdańsk |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Government (municipal) |
 | Website | https://czystemiasto.gdansk.pl/en/ |
 | Primary Category | Government |

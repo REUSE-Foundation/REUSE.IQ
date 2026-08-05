@@ -9,7 +9,7 @@ Luxembourg's first "bio, sustainable and zero-waste" e-shop, delivering organic 
 | Official Name | Kilogram S.I.S. |
 | Country / HQ | Luxembourg |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://kilogram.lu/ |
 | Primary Category | Refill Operator |

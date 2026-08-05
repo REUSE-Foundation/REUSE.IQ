@@ -9,7 +9,7 @@ Tokyo-founded umbrella-sharing service with 1,600+ locations and ~600,000 member
 | Official Name | iKasa (Nature Innovation Group) |
 | Country / HQ | Japan — Tokyo |
 | Year Founded | 2018 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.i-kasa.com/ |
 | Primary Category | Sharing |

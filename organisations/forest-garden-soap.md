@@ -9,7 +9,7 @@ Family-owned off-grid soap maker in the Shuswap region of British Columbia, Cana
 | Official Name | Forest Garden Soap & Sundry |
 | Country / HQ | Canada — Shuswap region, British Columbia |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (family-owned) |
 | Website | https://www.forestgardensoap.com |
 | Primary Category | Consumer Brand |

@@ -9,7 +9,7 @@ Women-led Singapore retailer of sustainable, plantable stationery (including the
 | Official Name | The First Green Store |
 | Country / HQ | Singapore |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (women-led) |
 | Website | https://thefirstgreenstore.com/ |
 | Primary Category | Retailer |

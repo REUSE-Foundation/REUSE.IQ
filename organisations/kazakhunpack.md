@@ -9,7 +9,7 @@ Kazakhstani manufacturer (Shymkent, since 2003) of durable polymer buckets and c
 | Official Name | KazakhUpack |
 | Country / HQ | Kazakhstan — Shymkent |
 | Year Founded | 2003 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://kazakhupack.kz/en |
 | Primary Category | Packaging Manufacturer |

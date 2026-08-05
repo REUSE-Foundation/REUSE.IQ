@@ -9,7 +9,7 @@ Chicago-founded (2013) woman-owned B Corp making fully-disclosed-ingredient clea
 | Official Name | Meliora K, LLC |
 | Country / HQ | United States — Chicago, Illinois |
 | Year Founded | 2013 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (woman-owned B Corp; founders Kate Jakubas and Mike Mayer are beneficial owners) |
 | Website | https://meliorameansbetter.com/ |
 | Primary Category | Refill Operator |

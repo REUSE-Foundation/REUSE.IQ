@@ -9,7 +9,7 @@ Independent zero-waste bulk store in Kuala Lumpur where customers bring their ow
 | Official Name | A Bit Less Bulk Store (also referred to as A Bit Less Zero Waste Bulk Store) |
 | Country / HQ | Malaysia — Kepong Baru, Kuala Lumpur |
 | Year Founded | 2018 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (independent small business) |
 | Website | https://www.facebook.com/abitlessbulkstore/ (no independent company website found) |
 | Primary Category | Reuse Operator |

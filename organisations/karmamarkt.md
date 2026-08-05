@@ -9,7 +9,7 @@ Independently owned packaging-free retail store in Bruges, Belgium, combining bu
 | Official Name | KarmaMarkt |
 | Country / HQ | Belgium — Bruges |
 | Year Founded | Not publicly available (website copyright range suggests operating since at least 2022) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (independently owned by founder Isabelle) |
 | Website | https://karmamarkt.be/ |
 | Primary Category | Reuse Operator |

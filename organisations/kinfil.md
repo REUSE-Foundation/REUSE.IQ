@@ -9,7 +9,7 @@ Dutch (not Norwegian) cleaning-concentrate brand, founded 2020 in Rotterdam, sel
 | Official Name | Kinfill (Kinfill Care) |
 | Country / HQ | Netherlands — Rotterdam |
 | Year Founded | 2020 (following ~4 years of development) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founder-led, Reda Jouahri) |
 | Website | https://kinfill.com/ |
 | Primary Category | Refill Operator |

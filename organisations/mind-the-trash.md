@@ -9,7 +9,7 @@ Portugal's first online zero-waste store (founded 2017, Lisbon), running on 100%
 | Official Name | Mind the Trash Consulting Lda |
 | Country / HQ | Portugal — Lisbon |
 | Year Founded | 2017 (Instagram presence began 2016 in London) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founders Catarina Matos and Christian Andersen) |
 | Website | https://mindthetrash.pt/ |
 | Primary Category | Retailer |

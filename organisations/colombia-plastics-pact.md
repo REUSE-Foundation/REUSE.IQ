@@ -9,7 +9,7 @@ Colombia's national multi-stakeholder plastics pact (launched 2023) targeting 10
 | Official Name | Colombia Plastics Pact (Pacto de Plásticos de Colombia) |
 | Country / HQ | Colombia |
 | Year Founded | Launched 2023 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Non-profit / Multi-stakeholder initiative (CEMPRE and WRAP, with UKRI support) |
 | Website | https://cempre.org.co/pacto-plasticos/ |
 | Primary Category | Industry Association |

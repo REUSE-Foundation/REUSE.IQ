@@ -9,7 +9,7 @@ Milan-based B2B reusable packaging-as-a-service platform (Movopack SB Srl) servi
 | Official Name | Movopack SB Srl |
 | Country / HQ | Italy — Milan |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://movopack.com |
 | Primary Category | Packaging-as-a-Service |

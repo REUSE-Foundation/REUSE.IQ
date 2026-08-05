@@ -9,7 +9,7 @@ Estonian company (Tallinn) operating RFID-based smart return kiosks for reusable
 | Official Name | Cuploop |
 | Country / HQ | Estonia — Tallinn |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founder-led) |
 | Website | https://cuploop.com |
 | Primary Category | Deposit Return |

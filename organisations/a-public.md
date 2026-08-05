@@ -9,7 +9,7 @@ Seattle refill shop offering weigh-and-fill household, laundry, and personal-car
 | Official Name | PUBLIC (trading as "PUBLIC: Sustainable Goods and Refills"; legal entity not independently confirmed) |
 | Country / HQ | United States — West Seattle, Washington (3836 California Ave SW, Seattle, WA 98116) |
 | Year Founded | 2018 (refilling home and personal care products since 2018, per company account) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private — independently owned; founder Kyleigh Turk-Polifko |
 | Website | https://apublicshop.com/ |
 | Primary Category | Consumer Goods / Refill Retail |

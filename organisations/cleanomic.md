@@ -9,7 +9,7 @@ US brand selling concentrated cleaning tablets designed to dissolve in a reusabl
 | Official Name | Cleanomic |
 | Country / HQ | United States |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://cleanomic.com/ |
 | Primary Category | Refill Operator |

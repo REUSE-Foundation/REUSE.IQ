@@ -9,7 +9,7 @@ Yorkshire, UK "garage start-up" refill brand with 1,000,000+ customers and 500+ 
 | Official Name | Miniml |
 | Country / HQ | United Kingdom — Yorkshire |
 | Year Founded | 2019 (per seed data; not independently re-confirmed in this pass, but not contradicted) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Limited Company (founder: Emma) |
 | Website | https://minimlrefills.co.uk |
 | Primary Category | Refill Operator |

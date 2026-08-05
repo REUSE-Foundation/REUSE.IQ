@@ -9,7 +9,7 @@ Phnom Penh, Cambodia refill shop selling refillable personal and home care produ
 | Official Name | Just Good Refills |
 | Country / HQ | Cambodia — Phnom Penh |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.justgoodrefills.com/ |
 | Primary Category | Refill Operator |

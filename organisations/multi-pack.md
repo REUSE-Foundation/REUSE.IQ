@@ -9,7 +9,7 @@ Pakistani industrial plastics manufacturer (established 2007) producing durable,
 | Official Name | Multi Pack (Pakistan) |
 | Country / HQ | Pakistan |
 | Year Founded | 2007 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://multipackpk.com/ |
 | Primary Category | Packaging Manufacturer |

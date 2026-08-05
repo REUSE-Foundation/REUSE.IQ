@@ -9,7 +9,7 @@ World's largest pallet and container pooling company, operating a share-and-reus
 | Official Name | CHEP (Commonwealth Handling Equipment Pool) |
 | Country / HQ | Australia (global operations; Brambles parent dual-headquartered Australia/UK) |
 | Year Founded | 1945 (pallet pool originated); 1946 formally established; acquired by Brambles in 1958 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Subsidiary (Brambles Limited, ASX: BXB) |
 | Website | https://www.chep.com/ |
 | Primary Category | Reverse Logistics |

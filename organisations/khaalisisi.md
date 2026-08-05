@@ -9,7 +9,7 @@ Nepali digital waste-management platform (launched 2017) connecting households w
 | Official Name | Khaalisisi |
 | Country / HQ | Nepal — Kathmandu |
 | Year Founded | Registered February 2017; platform launched June 2017 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founder-led, Aayushi KC) |
 | Website | https://www.khaalisisi.com/ |
 | Primary Category | Waste Management |

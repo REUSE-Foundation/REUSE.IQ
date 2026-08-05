@@ -9,7 +9,7 @@ Vietnamese manufacturer turning wild Mekong Delta grass into compostable straws 
 | Official Name | Greenjoy Company Limited |
 | Country / HQ | Vietnam — Long An, Mekong Delta (registered office: Ho Chi Minh City) |
 | Year Founded | 2018 (Business Registration Certificate, Tax Code 0315318999, issued 10 Oct 2018); Equator Initiative/UNDP profile cites 2019 — see Verification Notes |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://greenjoystraw.com/en |
 | Primary Category | Consumer Brand (secondary: Packaging Manufacturer) |

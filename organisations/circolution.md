@@ -9,7 +9,7 @@ German "packaging-as-a-service" startup providing rented, tracked, stainless-ste
 | Official Name | circolution GmbH |
 | Country / HQ | Germany — Frankfurt |
 | Year Founded | Idea developed late 2019; formally incorporated 2021 (sources conflict, both noted) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (startup) |
 | Website | https://circolution.com/ |
 | Primary Category | Packaging-as-a-Service |

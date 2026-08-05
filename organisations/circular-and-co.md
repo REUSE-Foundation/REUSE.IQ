@@ -9,7 +9,7 @@ UK reusable-drinkware brand making cups and bottles from recycled disposable cof
 | Official Name | Circular&Co. (also styled Circular & Co) |
 | Country / HQ | United Kingdom — Cornwall |
 | Year Founded | 2003 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://circularandco.com/ |
 | Primary Category | Consumer Brand |

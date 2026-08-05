@@ -9,7 +9,7 @@ Small vegan meal-delivery catering service in Gdynia, Poland, delivering meals i
 | Official Name | Chełpliwe Pudeła (translates roughly as "vegan boxes") |
 | Country / HQ | Poland — Gdynia |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (run by Olga Borkowska) |
 | Website | https://www.chelpliwepudela.pl |
 | Primary Category | Reuse Operator |

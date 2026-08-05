@@ -9,7 +9,7 @@ Lebanon's first certified organic store, operating in Beirut since 2009 as a gen
 | Official Name | A New Earth (trading name; legal entity not independently confirmed) |
 | Country / HQ | Lebanon — Achrafieh, Beirut (65 Zahret El Ihsan Street) |
 | Year Founded | 2009 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private (independently owned) |
 | Website | https://www.anewearth.net/ |
 | Primary Category | Consumer Goods / Organic & Eco-Living Retail |

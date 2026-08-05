@@ -9,7 +9,7 @@ Israeli startup turning used liquid containers into interlocking, fillable modul
 | Official Name | Clicko-Brick |
 | Country / HQ | Israel |
 | Year Founded | 2015 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (startup) |
 | Website | https://www.clicko-brick.com/ |
 | Primary Category | Industrial Reuse |

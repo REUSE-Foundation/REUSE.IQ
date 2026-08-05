@@ -9,7 +9,7 @@ Balikpapan, Indonesia zero-waste refill store and waste-education initiative, fo
 | Official Name | Dari Hulu (Dari Hulu Bulk Store) |
 | Country / HQ | Indonesia — Balikpapan |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (founder-led, Ronald and Oda) |
 | Website | https://www.instagram.com/darihulu.store/ (no independent primary website confirmed) |
 | Primary Category | Reuse Operator |

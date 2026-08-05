@@ -9,7 +9,7 @@ Canadian direct-to-consumer skincare brand for midlife/menopause customers — v
 | Official Name | Clean Kiss Lifestyle |
 | Country / HQ | Canada — Ontario |
 | Year Founded | 2014 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (women-owned, founded by Jodie) |
 | Website | https://www.cleankisslifestyle.com/ |
 | Primary Category | Consumer Brand |

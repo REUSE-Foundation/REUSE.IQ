@@ -9,7 +9,7 @@ Petaling Jaya, Malaysia unpackaged bulk refill store (trading name of Cleancycle
 | Official Name | Cleancycle Enterprise (trading as Kita Refill) |
 | Country / HQ | Malaysia — Petaling Jaya |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://kitarefill.com/ |
 | Primary Category | Refill Operator |

@@ -9,7 +9,7 @@ French cosmetics-applicator specialist (~35 years old) making refillable powder 
 | Official Name | Cosmogen |
 | Country / HQ | France — Paris |
 | Year Founded | Approximately 1990-1991 (reported as "founded 35 years ago" in 2025-2026 trade coverage) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.cosmogen.fr/ |
 | Primary Category | Packaging Manufacturer |

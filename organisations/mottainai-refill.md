@@ -9,7 +9,7 @@ Medellín, Colombia refill startup delivering biodegradable household/personal-c
 | Official Name | Mottainai Refill |
 | Country / HQ | Colombia — Medellín |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.instagram.com/mottainai_refill/ (no independent website found) |
 | Primary Category | Refill Operator |

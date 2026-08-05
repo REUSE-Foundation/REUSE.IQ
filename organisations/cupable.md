@@ -9,7 +9,7 @@ Mumbai-based startup (founded 2019) manufacturing reusable cups and food contain
 | Official Name | Cupable |
 | Country / HQ | India — Mumbai |
 | Year Founded | 2019 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (unfunded, per Tracxn) |
 | Website | https://cupable.in/ |
 | Primary Category | Reuse Operator |

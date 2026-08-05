@@ -9,7 +9,7 @@ Major Japanese household/personal-care manufacturer (founded 1887) whose refill-
 | Official Name | Kao Corporation |
 | Country / HQ | Japan |
 | Year Founded | 1887 (company); refill-pack programme launched 1991 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Public listed (Tokyo Stock Exchange: 4452) |
 | Website | https://www.kao.com/global/en/ |
 | Primary Category | Consumer Brand |

@@ -9,7 +9,7 @@ New Zealand's century-old nationwide refillable glass beer bottle and crate syst
 | Official Name | "Swappa Crate" / ABC (Associated Bottlers/Auckland Bottling Company) refillable bottle scheme — an industry initiative, not a standalone company; overseen within the Glass Packaging Forum (NZ) product stewardship scheme |
 | Country / HQ | New Zealand (nationwide) |
 | Year Founded | 1920 (Auckland Bottling Company established to standardise beer bottles; became Associated Bottlers Co. in 1941) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Owned by scheme members Lion and DB (major NZ brewers); logistics run by Associated Bottlers Co.; promoted/coordinated via the Glass Packaging Forum (industry-funded, accredited product stewardship non-profit, established 2006) |
 | Website | https://www.glassforum.org.nz/glass-heroes-the-humble-swappa-crate-nzs-original-refill-scheme/ |
 | Primary Category | Business Service Provider / Industry Refill Infrastructure |

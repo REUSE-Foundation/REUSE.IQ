@@ -9,7 +9,7 @@ Major Swiss retail cooperative (90,000+ employees) piloting bulk refill dispense
 | Official Name | Coop (Coop Genossenschaft) |
 | Country / HQ | Switzerland — Basel |
 | Year Founded | 1890 (federation of cooperatives, Verband Schweizerischer Konsumvereine); earliest constituent cooperative founded 1864 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Cooperative (non-profit member-owned structure) |
 | Website | https://www.coop.ch/ |
 | Primary Category | Retailer |

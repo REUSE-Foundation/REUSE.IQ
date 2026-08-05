@@ -9,7 +9,7 @@ Singapore's largest beeswax-wrap manufacturer, running an inclusive-employment p
 | Official Name | Minimakers |
 | Country / HQ | Singapore |
 | Year Founded | Not publicly available (2021 marks the start of its Autism Resource Center employment partnership, not necessarily company founding) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (registered member of raiSE, Singapore Centre for Social Enterprise) |
 | Website | https://minimakers.sg/ |
 | Primary Category | Packaging Manufacturer |

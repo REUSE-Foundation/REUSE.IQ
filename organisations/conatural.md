@@ -9,7 +9,7 @@ Pakistan's first 100% natural/organic skincare and haircare brand, founded 2014 
 | Official Name | Conatural (Conatural Beauty Pvt Ltd) |
 | Country / HQ | Pakistan — Lahore |
 | Year Founded | 2014 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://conaturalintl.com/ |
 | Primary Category | Consumer Brand |

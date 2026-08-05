@@ -9,7 +9,7 @@ India's first organised zero-waste organic retail chain, founded in Pune in Sept
 | Official Name | Adrish (trading name; legal entity not independently confirmed — earlier venture "Satvyk" referenced as founders' prior organic-food business) |
 | Country / HQ | India — Pune, Maharashtra (founding location); now multi-city |
 | Year Founded | 2018 (store established September 2018; founders report plastic-pollution concerns crystallising in 2018) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private; co-founded by Akshay Agarwal and Gajendra Choudhary |
 | Website | https://adrish.co/ (adrish.co.in redirects here; the seed URL adrish.co.in/shop/category/zero-waste-essentials/5 returns a 404 — page no longer exists) |
 | Primary Category | Consumer Goods / Zero-Waste Organic Retail |

@@ -9,7 +9,7 @@ US refillable household-cleaning brand known for shipping soap/detergent refills
 | Official Name | Cleancult (one word; seed tracker's "Clean Cult" is a spacing variant) |
 | Country / HQ | United States |
 | Year Founded | R&D began 2016; public launch 2019 (sources note both dates) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (venture-backed) |
 | Website | https://www.cleancult.com/ |
 | Primary Category | Refill Operator |

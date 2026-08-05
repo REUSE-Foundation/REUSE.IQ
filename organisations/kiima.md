@@ -9,7 +9,7 @@ Montreal-founded maker of a 10-year-lifespan refillable deodorant applicator, di
 | Official Name | Kiima |
 | Country / HQ | Canada — Montreal, Quebec |
 | Year Founded | Not precisely dated; Kickstarter campaign and early development activity place origin in the late 2010s/2020 timeframe |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://kiima.co/ |
 | Primary Category | Refill Operator |

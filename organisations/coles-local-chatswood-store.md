@@ -9,7 +9,7 @@ Australian-first refill station for shampoo, conditioner, body wash, and laundry
 | Official Name | Coles Local — Chatswood (Westfield Chatswood, Victor Street, NSW) |
 | Country / HQ | Australia — Sydney, New South Wales |
 | Year Founded | Store opened 11 November 2020 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Subsidiary (Coles Group, ASX: COL) |
 | Website | https://www.colesgroup.com.au/ |
 | Primary Category | Retailer |

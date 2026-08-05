@@ -9,7 +9,7 @@ French multinational hypermarket group piloting bring-your-own-container schemes
 | Official Name | Carrefour SA |
 | Country / HQ | France — Massy |
 | Year Founded | 11 July 1959 (founded by Marcel Fournier, Louis Defforey, Denis Defforey) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Public Company (Euronext Paris: CA) |
 | Website | https://www.carrefour.com/ |
 | Primary Category | Retailer |

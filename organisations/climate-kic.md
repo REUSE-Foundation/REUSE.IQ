@@ -9,7 +9,7 @@ EU-funded innovation community established in 2010, running circular-economy acc
 | Official Name | EIT Climate-KIC |
 | Country / HQ | Netherlands (pan-European network; seed's "Netherlands" HQ is consistent) |
 | Year Founded | 2010 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Non-profit (EIT/EU-funded Knowledge and Innovation Community) |
 | Website | https://www.climate-kic.org/ |
 | Primary Category | Research Organisation |

@@ -107,6 +107,11 @@ INDEX_TEMPLATE = """<!doctype html>
         <select id="status-filter"><option value="">All statuses</option></select>
       </div>
     </div>
+    <div class="status-legend">
+      <span class="legend-row"><span class="legend-dot status-active"></span> Blue/default — Confirmed or presumed active</span>
+      <span class="legend-row"><span class="legend-dot status-warn"></span> Amber — Status uncertain or unverified</span>
+      <span class="legend-row"><span class="legend-dot status-bad"></span> Red — Reported closed, inactive, or in liquidation</span>
+    </div>
     <div class="actions">
       <div class="view-tabs">
         <button id="cardBtn" class="active" onclick="setView('cards')">Card view</button>
@@ -397,6 +402,10 @@ button.secondary, .view-tabs button { background: var(--accent-bg); color: var(-
 .view-tabs { display: flex; gap: 0.5rem; }
 .view-tabs button.active { background: var(--accent); color: #fff; }
 .result-count { color: var(--muted); font-size: 0.85rem; margin-left: auto; white-space: nowrap; }
+.status-legend { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; font-size: 0.78rem; color: var(--muted); margin: 0.7rem 0 0; }
+.legend-dot.status-active { background: var(--accent-bg); border: 1px solid var(--accent-dark); }
+.legend-dot.status-warn { background: var(--amber); }
+.legend-dot.status-bad { background: var(--red); }
 
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; }
 .card {
@@ -537,7 +546,7 @@ function priorityClass(priority) {
 
 function statusClass(status) {
   const s = String(status || '').toLowerCase();
-  if (s.includes('inactive') || s.includes('closed') || s.includes('defunct') || s.includes('ceased')) return 'pill bad';
+  if (s.includes('inactive') || s.includes('closed') || s.includes('defunct') || s.includes('ceased') || s.includes('liquidation')) return 'pill bad';
   if (s.includes('uncertain') || s.includes('unclear') || s.includes('unverified')) return 'pill warn';
   return 'pill';
 }

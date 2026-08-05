@@ -9,7 +9,7 @@ Milan-based luxury sustainable-packaging holding company (formed 2024, uniting 5
 | Official Name | Mosaiq Group S.p.A. |
 | Country / HQ | Italy — Milan |
 | Year Founded | 2024 (as a merged group; constituent companies date 1963-2009) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (majority investor: Arca Space Capital, private equity) |
 | Website | https://www.mosaiqgroup.org/ |
 | Primary Category | Packaging Manufacturer |

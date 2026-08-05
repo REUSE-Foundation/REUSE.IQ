@@ -9,7 +9,7 @@ US per-ounce refill delivery service, part of a broader category of regional US 
 | Official Name | Delivery Refillery |
 | Country / HQ | United States |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://www.deliveryrefillery.com/ |
 | Primary Category | Refill Operator |

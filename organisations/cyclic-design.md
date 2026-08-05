@@ -9,7 +9,7 @@ Leipzig-based German sustainable-design consultancy (founded 2019) creating the 
 | Official Name | Cyclic Design |
 | Country / HQ | Germany — Leipzig |
 | Year Founded | 2019 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (startup/consultancy) |
 | Website | Not confirmed — no dedicated primary domain found in this research pass |
 | Primary Category | Packaging Manufacturer |

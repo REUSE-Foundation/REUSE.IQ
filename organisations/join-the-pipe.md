@@ -9,7 +9,7 @@ Amsterdam-based non-profit foundation combining branded reusable-bottle sales wi
 | Official Name | Join The Pipe (Stichting Jointhepipe International) |
 | Country / HQ | Netherlands — Amsterdam |
 | Year Founded | Not publicly available |
-| Status | Operating |
+| Status | Active |
 | Ownership | Non-profit Foundation (Dutch ANBI charitable status) |
 | Website | https://join-the-pipe.org/ |
 | Primary Category | NGO |

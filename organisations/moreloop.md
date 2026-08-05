@@ -9,7 +9,7 @@ Thai online marketplace (founded 2018) matching garment factories' surplus/deads
 | Official Name | Moreloop |
 | Country / HQ | Thailand |
 | Year Founded | 2018 |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company (co-founders Thamonwan "Amp" Virodchaiyan, Amorpol "Pol" Huvanandana) |
 | Website | https://moreloop.ws/ |
 | Primary Category | Reverse Logistics |

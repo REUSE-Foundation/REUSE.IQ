@@ -9,7 +9,7 @@ US "Pure Water Technology" brand operating stainless-steel purified-water refill
 | Official Name | FloWater |
 | Country / HQ | United States |
 | Year Founded | Not publicly available (company materials reference "seven years ago" without a specific date) |
-| Status | Operating |
+| Status | Active |
 | Ownership | Private Company |
 | Website | https://drinkflowater.com/ |
 | Primary Category | Refill Operator |
