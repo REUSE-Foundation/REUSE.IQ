@@ -23,14 +23,14 @@ PAGE_TEMPLATE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title} — REUSE-IQ</title>
+<title>{title} — REUSE.IQ</title>
 <meta name="description" content="{description}">
 <link rel="icon" href="{favicon_path}" type="image/png">
 <link rel="stylesheet" href="{css_path}">
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="{home_path}"><img class="brand-mark" src="{logo_path}" alt="" width="28" height="24"> REUSE-IQ</a>
+  <a class="brand" href="{home_path}"><img class="brand-mark" src="{logo_path}" alt="" width="28" height="24"> REUSE.IQ</a>
 </header>
 <main class="profile">
 {body}
@@ -47,7 +47,7 @@ INDEX_TEMPLATE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>REUSE-IQ</title>
+<title>REUSE.IQ</title>
 <meta name="description" content="A research-grade, citable database of {count} circular-economy and reuse organisations worldwide.">
 <link rel="icon" href="assets/reuse-logo.png" type="image/png">
 <link rel="stylesheet" href="assets/style.css">
@@ -58,7 +58,7 @@ INDEX_TEMPLATE = """<!doctype html>
 <body>
 <header class="site-header">
   <div class="brand-block">
-    <span class="brand"><img class="brand-mark" src="assets/reuse-logo.png" alt="" width="34" height="29"> REUSE-IQ</span>
+    <span class="brand"><img class="brand-mark" src="assets/reuse-logo.png" alt="" width="34" height="29"> REUSE.IQ</span>
     <p class="tagline">REUSE Foundation’s database of over 700 reuse businesses worldwide helping prevent plastic waste</p>
   </div>
 </header>
@@ -68,7 +68,7 @@ INDEX_TEMPLATE = """<!doctype html>
 <main class="index">
   <div class="hero-row">
     <div class="hero-copy">
-      <p class="subtitle"><b>Welcome to REUSE-IQ</b>, a global database of reuse solutions. Thank you for your interest!</p>
+      <p class="subtitle"><b>Welcome to REUSE.IQ</b>, a global database of reuse solutions. Thank you for your interest!</p>
       <p class="subtitle">It’s currently in beta as we expand its reach and improve the quality of the data it holds - if you see an error or want to suggest a new organisation, please use the links above</p>
       <p class="subtitle">Also, we are actively talking to some organisations to prepare case studies that showcase their work and how they can prevent plastic waste. If you are interested in working with us to prepare one, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3Zk8OCuw2pbU9d_G2XjV2rre8wgEsDIaI64cga7ApmZayXA/viewform">complete this form</a>.</p>
     </div>
