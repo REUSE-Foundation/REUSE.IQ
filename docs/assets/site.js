@@ -11,29 +11,15 @@ function uniqueSorted(values) {
 
 function populateFilters() {
   const countrySel = document.getElementById('country-filter');
-  const prioritySel = document.getElementById('priority-filter');
-  const statusSel = document.getElementById('status-filter');
   uniqueSorted(ORGS.map(o => o.country)).forEach(c => {
     const opt = document.createElement('option');
     opt.value = c; opt.textContent = c;
     countrySel.appendChild(opt);
   });
-  uniqueSorted(ORGS.map(o => o.priority)).forEach(p => {
-    const opt = document.createElement('option');
-    opt.value = p; opt.textContent = p;
-    prioritySel.appendChild(opt);
-  });
-  uniqueSorted(ORGS.map(o => o.status)).forEach(s => {
-    const opt = document.createElement('option');
-    opt.value = s; opt.textContent = s;
-    statusSel.appendChild(opt);
-  });
 }
 
-function matches(org, q, country, priority, status) {
+function matches(org, q, country) {
   if (country && org.country !== country) return false;
-  if (priority && org.priority !== priority) return false;
-  if (status && org.status !== status) return false;
   if (!q) return true;
   const hay = (org.name + ' ' + org.country + ' ' + org.categories + ' ' + org.summary).toLowerCase();
   return hay.includes(q);
@@ -42,9 +28,7 @@ function matches(org, q, country, priority, status) {
 function getFiltered() {
   const q = document.getElementById('search').value.trim().toLowerCase();
   const country = document.getElementById('country-filter').value;
-  const priority = document.getElementById('priority-filter').value;
-  const status = document.getElementById('status-filter').value;
-  let rows = ORGS.filter(o => matches(o, q, country, priority, status));
+  let rows = ORGS.filter(o => matches(o, q, country));
   rows.sort((a, b) => {
     const av = (a[state.sortKey] || '').toString().toLowerCase();
     const bv = (b[state.sortKey] || '').toString().toLowerCase();
@@ -85,7 +69,7 @@ function renderSummary(rows) {
 
 function renderCards(rows) {
   document.getElementById('cards').innerHTML = rows.map(o => `
-    <article class="card">
+    <article class="card" data-slug="${escapeHtml(o.slug)}">
       <div>
         <h2><a href="organisations/${o.slug}.html">${escapeHtml(o.name)}</a></h2>
         <div class="meta">
@@ -138,15 +122,11 @@ function setView(view) {
 function resetFilters() {
   document.getElementById('search').value = '';
   document.getElementById('country-filter').value = '';
-  document.getElementById('priority-filter').value = '';
-  document.getElementById('status-filter').value = '';
   render();
 }
 
 document.getElementById('search').addEventListener('input', render);
 document.getElementById('country-filter').addEventListener('change', render);
-document.getElementById('priority-filter').addEventListener('change', render);
-document.getElementById('status-filter').addEventListener('change', render);
 
 document.querySelectorAll('th.sortable').forEach(th => {
   th.addEventListener('click', () => {

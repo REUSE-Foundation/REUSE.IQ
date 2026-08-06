@@ -45,11 +45,23 @@
   function focusOrgInTable(id) {
     document.getElementById('map-modal').classList.remove('is-open');
     document.body.style.overflow = '';
-    console.log('TODO: wire this up to scroll/filter the main table to organisation id:', id);
-    // Example, if your table view has its own search input:
-    // const tableSearch = document.querySelector('#reuse-table-search');
-    // tableSearch.value = LOCATIONS.find(r => r.id === id).name;
-    // tableSearch.dispatchEvent(new Event('input'));
+
+    if (state.view === 'table') setView('cards');
+
+    const record = LOCATIONS.find(function (r) { return r.id === id; });
+    if (!record) return;
+
+    const searchBox = document.getElementById('search');
+    searchBox.value = record.name;
+    searchBox.dispatchEvent(new Event('input'));
+
+    const orgEntry = ORGS.find(function (o) { return o.name === record.name; });
+    const cardEl = orgEntry ? document.querySelector('.card[data-slug="' + orgEntry.slug + '"]') : null;
+    if (!cardEl) return;
+
+    cardEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    cardEl.classList.add('card-highlight');
+    setTimeout(function () { cardEl.classList.remove('card-highlight'); }, 2000);
   }
   window.focusOrgInTable = focusOrgInTable;
 

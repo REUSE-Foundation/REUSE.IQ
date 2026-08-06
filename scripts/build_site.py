@@ -27,10 +27,13 @@ PAGE_TEMPLATE = """<!doctype html>
 <meta name="description" content="{description}">
 <link rel="icon" href="{favicon_path}" type="image/png">
 <link rel="stylesheet" href="{css_path}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&display=swap" rel="stylesheet">
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="{home_path}"><img class="brand-mark" src="{logo_path}" alt="" width="28" height="24"> REUSE.IQ</a>
+  <a class="brand" href="{home_path}"><span class="brand-reuse">REUSE</span><span class="brand-iq">.IQ</span></a>
 </header>
 <main class="profile">
 {body}
@@ -51,6 +54,9 @@ INDEX_TEMPLATE = """<!doctype html>
 <meta name="description" content="A research-grade, citable database of {count} circular-economy and reuse organisations worldwide.">
 <link rel="icon" href="assets/reuse-logo.png" type="image/png">
 <link rel="stylesheet" href="assets/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
@@ -58,7 +64,7 @@ INDEX_TEMPLATE = """<!doctype html>
 <body>
 <header class="site-header">
   <div class="brand-block">
-    <span class="brand"><img class="brand-mark" src="assets/reuse-logo.png" alt="" width="34" height="29"> REUSE.IQ</span>
+    <span class="brand"><span class="brand-reuse">REUSE</span><span class="brand-iq">.IQ</span></span>
     <p class="tagline">REUSE Foundation’s database of over 800 reuse businesses worldwide helping prevent plastic waste</p>
   </div>
 </header>
@@ -97,14 +103,6 @@ INDEX_TEMPLATE = """<!doctype html>
       <div class="control">
         <label for="country-filter">Country</label>
         <select id="country-filter"><option value="">All countries</option></select>
-      </div>
-      <div class="control">
-        <label for="priority-filter">Priority rating</label>
-        <select id="priority-filter"><option value="">All ratings</option></select>
-      </div>
-      <div class="control">
-        <label for="status-filter">Status</label>
-        <select id="status-filter"><option value="">All statuses</option></select>
       </div>
     </div>
     <div class="status-legend">
@@ -170,6 +168,7 @@ INDEX_TEMPLATE = """<!doctype html>
 <footer class="site-footer">
   <p>Data generated from <a href="data/REUSE_V4_Master.csv">REUSE_V4_Master.csv</a>. Last built: {build_date}.</p>
   <p class="footer-note">Help us keep this database accurate and complete. Use the links above to report corrections or suggest organisations we've missed — every submission is reviewed before being added.</p>
+  <p class="footer-version">Version: 1.0.01, last updated 5 August 2026</p>
 </footer>
 <script src="assets/data.js"></script>
 <script src="assets/site.js"></script>
@@ -268,8 +267,10 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 0.6rem;
+  font-family: 'Poppins', var(--sans);
 }
-.brand-mark { display: inline-block; vertical-align: middle; }
+.brand-reuse { color: var(--header-fg); }
+.brand-iq { color: var(--accent); }
 .site-header .tagline { margin: 0.4rem 0 0; max-width: 900px; color: #d7d7d7; line-height: 1.5; }
 .banner-notice {
   background: var(--accent-bg);
@@ -376,7 +377,7 @@ h1 { font-size: 1.6rem; margin-bottom: 0.4rem; }
 }
 .controls {
   display: grid;
-  grid-template-columns: 2fr repeat(3, 1fr);
+  grid-template-columns: 2fr 1fr;
   gap: 0.75rem;
   align-items: end;
 }
@@ -411,7 +412,10 @@ button.secondary, .view-tabs button { background: var(--accent-bg); color: var(-
 .card {
   background: var(--card); border: 1px solid var(--border); box-shadow: var(--shadow);
   border-radius: 20px; padding: 1.1rem; display: flex; flex-direction: column; gap: 0.7rem;
+  outline: 3px solid transparent; outline-offset: 2px;
+  transition: outline-color 0.4s ease, background-color 0.4s ease;
 }
+.card.card-highlight { outline-color: var(--accent); background: var(--accent-bg); }
 .card h2 { margin: 0; font-size: 1.15rem; letter-spacing: -0.01em; }
 .card h2 a { color: var(--fg); text-decoration: none; }
 .card h2 a:hover { color: var(--accent-dark); text-decoration: underline; }
@@ -465,6 +469,7 @@ main.profile h2 { font-size: 1.1rem; margin-top: 1.8rem; border-bottom: 1px soli
 main.profile a { color: var(--accent-dark); }
 .site-footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 2rem 1.5rem 3rem; }
 .site-footer .footer-note { margin-top: 0.5rem; max-width: 60ch; margin-left: auto; margin-right: auto; }
+.site-footer .footer-version { margin-top: 0.4rem; font-size: 0.75rem; opacity: 0.75; }
 
 @media (max-width: 980px) {
   .site-header, main.index, main.profile, .banner-notice { padding-left: 1.1rem; padding-right: 1.1rem; }
@@ -489,29 +494,15 @@ function uniqueSorted(values) {
 
 function populateFilters() {
   const countrySel = document.getElementById('country-filter');
-  const prioritySel = document.getElementById('priority-filter');
-  const statusSel = document.getElementById('status-filter');
   uniqueSorted(ORGS.map(o => o.country)).forEach(c => {
     const opt = document.createElement('option');
     opt.value = c; opt.textContent = c;
     countrySel.appendChild(opt);
   });
-  uniqueSorted(ORGS.map(o => o.priority)).forEach(p => {
-    const opt = document.createElement('option');
-    opt.value = p; opt.textContent = p;
-    prioritySel.appendChild(opt);
-  });
-  uniqueSorted(ORGS.map(o => o.status)).forEach(s => {
-    const opt = document.createElement('option');
-    opt.value = s; opt.textContent = s;
-    statusSel.appendChild(opt);
-  });
 }
 
-function matches(org, q, country, priority, status) {
+function matches(org, q, country) {
   if (country && org.country !== country) return false;
-  if (priority && org.priority !== priority) return false;
-  if (status && org.status !== status) return false;
   if (!q) return true;
   const hay = (org.name + ' ' + org.country + ' ' + org.categories + ' ' + org.summary).toLowerCase();
   return hay.includes(q);
@@ -520,9 +511,7 @@ function matches(org, q, country, priority, status) {
 function getFiltered() {
   const q = document.getElementById('search').value.trim().toLowerCase();
   const country = document.getElementById('country-filter').value;
-  const priority = document.getElementById('priority-filter').value;
-  const status = document.getElementById('status-filter').value;
-  let rows = ORGS.filter(o => matches(o, q, country, priority, status));
+  let rows = ORGS.filter(o => matches(o, q, country));
   rows.sort((a, b) => {
     const av = (a[state.sortKey] || '').toString().toLowerCase();
     const bv = (b[state.sortKey] || '').toString().toLowerCase();
@@ -563,7 +552,7 @@ function renderSummary(rows) {
 
 function renderCards(rows) {
   document.getElementById('cards').innerHTML = rows.map(o => `
-    <article class="card">
+    <article class="card" data-slug="${escapeHtml(o.slug)}">
       <div>
         <h2><a href="organisations/${o.slug}.html">${escapeHtml(o.name)}</a></h2>
         <div class="meta">
@@ -616,15 +605,11 @@ function setView(view) {
 function resetFilters() {
   document.getElementById('search').value = '';
   document.getElementById('country-filter').value = '';
-  document.getElementById('priority-filter').value = '';
-  document.getElementById('status-filter').value = '';
   render();
 }
 
 document.getElementById('search').addEventListener('input', render);
 document.getElementById('country-filter').addEventListener('change', render);
-document.getElementById('priority-filter').addEventListener('change', render);
-document.getElementById('status-filter').addEventListener('change', render);
 
 document.querySelectorAll('th.sortable').forEach(th => {
   th.addEventListener('click', () => {
@@ -685,11 +670,23 @@ MAP_JS = """
   function focusOrgInTable(id) {
     document.getElementById('map-modal').classList.remove('is-open');
     document.body.style.overflow = '';
-    console.log('TODO: wire this up to scroll/filter the main table to organisation id:', id);
-    // Example, if your table view has its own search input:
-    // const tableSearch = document.querySelector('#reuse-table-search');
-    // tableSearch.value = LOCATIONS.find(r => r.id === id).name;
-    // tableSearch.dispatchEvent(new Event('input'));
+
+    if (state.view === 'table') setView('cards');
+
+    const record = LOCATIONS.find(function (r) { return r.id === id; });
+    if (!record) return;
+
+    const searchBox = document.getElementById('search');
+    searchBox.value = record.name;
+    searchBox.dispatchEvent(new Event('input'));
+
+    const orgEntry = ORGS.find(function (o) { return o.name === record.name; });
+    const cardEl = orgEntry ? document.querySelector('.card[data-slug="' + orgEntry.slug + '"]') : null;
+    if (!cardEl) return;
+
+    cardEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    cardEl.classList.add('card-highlight');
+    setTimeout(function () { cardEl.classList.remove('card-highlight'); }, 2000);
   }
   window.focusOrgInTable = focusOrgInTable;
 
