@@ -17,3 +17,4 @@ This is **version 2** of the REUSE Foundation library, built to the V4 research 
 ## Methodology
 
 Each organisation is researched using the REUSE Foundation Master Library Research Prompt (Version 4): verified public sources only (official sites, annual/impact/sustainability reports, government/company registries, academic and NGO publications), with explicit confidence ratings (High/Medium/Low) for name, founding year, and impact data. Unverifiable fields are marked "Not publicly available" rather than estimated. See `data/source/V4_format_example_20_orgs.csv` for the target field format.
+
