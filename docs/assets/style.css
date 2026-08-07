@@ -85,7 +85,6 @@ body {
   letter-spacing: -0.02em;
   display: inline-flex;
   align-items: center;
-  gap: 0.6rem;
   font-family: 'Poppins', var(--sans);
 }
 .brand-reuse { color: var(--header-fg); }
