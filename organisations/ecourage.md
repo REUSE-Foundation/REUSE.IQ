@@ -7,7 +7,7 @@ Refill-as-a-service technology provider offering NFC-enabled smart caps and disp
 | Field | Detail |
 |---|---|
 | Official Name | Ecourage |
-| Country / HQ | Unresolved — seed data states Portugal; one independent secondary source states Stavanger, Norway. Not confirmed by a primary source in this pass. |
+| Country / HQ | Norway |
 | Year Founded | Not publicly available (one secondary source states 2019; not corroborated by a primary source) |
 | Status | Active |
 | Ownership | Not publicly available |

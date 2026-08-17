@@ -7,7 +7,7 @@ DIY candle bar and refill station in California selling soy-wax candles in reusa
 | Field | Detail |
 |---|---|
 | Official Name | The Mayan Collective LLC |
-| Country / HQ | US (San Luis Obispo, California) |
+| Country / HQ | United States (San Luis Obispo, California) |
 | Year Founded | Not publicly available |
 | Status | Active |
 | Ownership | Private, small business |

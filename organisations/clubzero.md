@@ -7,7 +7,7 @@ An AI-powered reuse-system administrator for the food & beverage industry, provi
 | Field | Detail |
 |---|---|
 | Official Name | Clubzero (trading name; legal entity Acet Circular Solutions Ltd, UK company no. 13486998) |
-| Country / HQ | UK (New Malden / London area) |
+| Country / HQ | United Kingdom (New Malden / London area) |
 | Year Founded | Sources conflict: company registries and press (PitchBook, LinkedIn, cbinsights) cite 2015; the operating brand launched publicly as "CupClub" in London in April 2018 under founder Safia Qureshi, before rebranding to Clubzero. The current legal entity, Acet Circular Solutions Ltd, was only incorporated 1 July 2021. Treat founding year as unresolved (2015 vs. 2018 vs. 2021 entity date). |
 | Status | Website and operations appear active as of research date, but the registered legal entity (Acet Circular Solutions Ltd) shows a Companies House filing indicating insolvency/liquidation proceedings (case CR-2026-LDS-000248, filed March 2026) — see Verification Notes. This is an important, time-sensitive discrepancy that should be re-checked before publication. |
 | Ownership | Private, venture-backed; investors reported (via Clubzero's own site) include Spinventures, Atomico, Seedcamp and Unreasonable, with $2m+ funding disclosed; seed data's claim of Seedrs as an investor was not directly corroborated (Clubzero has run at least one equity crowdfunding-style campaign referenced under "Seedrs/Republic" branding, but this could not be confirmed live — see Verification Notes) |

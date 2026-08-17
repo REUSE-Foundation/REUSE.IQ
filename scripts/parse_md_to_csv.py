@@ -15,15 +15,50 @@ def get_section(text, header, next_headers):
     m = re.search(pat, text, re.DOTALL | re.IGNORECASE)
     return m.group(1).strip() if m else ""
 
+# Canonical Quick Facts key -> alternate spellings/labels seen across the two
+# template styles in use (table rows vs. bullet lists), lowercased and with
+# whitespace collapsed / slashes single-spaced for comparison.
+QUICKFACTS_KEY_ALIASES = {
+    "Official Name": ["official name"],
+    "Country / HQ": ["country / hq"],
+    "Year Founded": ["year founded"],
+    "Status": ["status"],
+    "Ownership": ["ownership", "ownership status"],
+    "Website": ["website"],
+    "Primary Category": ["primary category", "categories"],
+    "Also known as": ["also known as"],
+    "Geographic scope": ["geographic scope"],
+    "REUSE priority rating": ["reuse priority rating"],
+    "SDGs": ["sdgs"],
+    "Est. company size": ["est. company size", "est company size"],
+}
+_QUICKFACTS_ALIAS_LOOKUP = {
+    alias: canon for canon, aliases in QUICKFACTS_KEY_ALIASES.items() for alias in aliases
+}
+
+def _normalize_quickfacts_key(raw_key):
+    key = re.sub(r"\s+", " ", raw_key).strip()
+    key = re.sub(r"\s*/\s*", " / ", key)
+    canon = _QUICKFACTS_ALIAS_LOOKUP.get(key.lower())
+    return canon if canon else key
+
 def parse_quickfacts(text):
-    m = re.search(r"##\s*Quick Facts\s*\n(.*?)(?=\n##\s)", text, re.DOTALL)
+    m = re.search(r"##\s*Quick Facts\s*\n(.*?)(?=\n##\s|\Z)", text, re.DOTALL)
     facts = {}
     if m:
         for line in m.group(1).splitlines():
-            cells = [c.strip() for c in line.strip().split("|") if c.strip()]
-            if len(cells) == 2 and cells[0] not in ("Field", "---"):
-                key = re.sub(r"\s+", " ", cells[0]).strip()
-                facts[key] = cells[1]
+            line = line.strip()
+            if line.startswith("|"):
+                cells = [c.strip() for c in line.split("|") if c.strip()]
+                if len(cells) == 2 and cells[0] not in ("Field", "---"):
+                    facts[_normalize_quickfacts_key(cells[0])] = cells[1]
+                continue
+            bm = re.match(r"^-\s*\*\*(.+?)\*\*\s*:?\s*(.*)$", line)
+            if bm:
+                key = bm.group(1).rstrip(":").strip()
+                value = bm.group(2).strip()
+                if value:
+                    facts[_normalize_quickfacts_key(key)] = value
     return facts
 
 def parse_confidence_footer(text):

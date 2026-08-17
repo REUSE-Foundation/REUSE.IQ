@@ -7,7 +7,7 @@ Minneapolis zero-waste retailer, billed as Minnesota's first, with two locations
 | Field | Detail |
 |---|---|
 | Official Name | Tare Market |
-| Country / HQ | US (Minneapolis, Minnesota) |
+| Country / HQ | United States (Minneapolis, Minnesota) |
 | Year Founded | Not publicly available (described as "Minnesota's first zero waste store") |
 | Status | Active |
 | Ownership | Private |

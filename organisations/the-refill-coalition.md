@@ -7,7 +7,7 @@ UK industry coalition led by GoUnpackaged developing an open-source standard for
 | Field | Detail |
 |---|---|
 | Official Name | The Refill Coalition (a project of GoUnpackaged / Unpackaged Systems) |
-| Country / HQ | UK |
+| Country / HQ | United Kingdom |
 | Year Founded | 2023 (real-world trial launched October 2023) |
 | Status | Active |
 | Ownership | Industry coalition/consultancy-led project (GoUnpackaged), not a standalone nonprofit |

@@ -7,7 +7,7 @@ Brooklyn zero-waste grocery delivery service using a closed-loop reusable-packag
 | Field | Detail |
 |---|---|
 | Official Name | The Wally Shop |
-| Country / HQ | US (Brooklyn, New York) |
+| Country / HQ | United States (Brooklyn, New York) |
 | Year Founded | 2017 |
 | Status | Active |
 | Ownership | Private, founder-led (Tamara Lim) |

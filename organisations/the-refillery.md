@@ -7,7 +7,7 @@ Edinburgh-based plastic-free refill shop with UK-wide delivery.
 | Field | Detail |
 |---|---|
 | Official Name | The Refillery (Edinburgh) |
-| Country / HQ | UK (Newington, Edinburgh, Scotland) |
+| Country / HQ | United Kingdom (Newington, Edinburgh, Scotland) |
 | Year Founded | Not publicly available |
 | Status | Active |
 | Ownership | Private |

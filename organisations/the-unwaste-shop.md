@@ -7,7 +7,7 @@ Chicago zero-waste store with an in-store refill station and refillable plastic-
 | Field | Detail |
 |---|---|
 | Official Name | The Unwaste Shop |
-| Country / HQ | US (Chicago, Illinois) |
+| Country / HQ | United States (Chicago, Illinois) |
 | Year Founded | Not publicly available |
 | Status | Active |
 | Ownership | Private |

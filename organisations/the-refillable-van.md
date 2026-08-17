@@ -7,7 +7,7 @@ Mobile van-based zero-waste refill service serving south-east Kent, UK.
 | Field | Detail |
 |---|---|
 | Official Name | The Refillable Van |
-| Country / HQ | UK (Kent — Canterbury, Dover, Deal, Sandwich, Ashford, Ramsgate area) |
+| Country / HQ | United Kingdom (Kent — Canterbury, Dover, Deal, Sandwich, Ashford, Ramsgate area) |
 | Year Founded | 2021 (current operators took over September 2021) |
 | Status | Active |
 | Ownership | Private, small/mobile business |
