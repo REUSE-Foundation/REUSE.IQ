@@ -69,7 +69,7 @@ INDEX_TEMPLATE = """<!doctype html>
   </div>
 </header>
 <div class="banner-notice">
-  <p>📋 Spot an error, or know an organisation we're missing? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_flqrEXOmmf-IfqSQGh_H-9qflTSvqqopmbcNpWj_QB9rvg/viewform">Report a correction</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1e4e8IPGx8PdBmmNGUbQ0RonYZuTFBcnPsP8cJoESxbl8JA/viewform">Suggest a new organisation</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_8itKRYGlxBONOcUcPkZ9TVUiyH7RMpN22xXIu736N0BRrw/viewform">Share your suggestions</a></p>
+  <p>📋 Spot an error, or know an organisation we're missing? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_flqrEXOmmf-IfqSQGh_H-9qflTSvqqopmbcNpWj_QB9rvg/viewform">Report a correction</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1e4e8IPGx8PdBmmNGUbQ0RonYZuTFBcnPsP8cJoESxbl8JA/viewform">Suggest a new organisation</a>. And if you have suggestions on how to improve this database, please share your <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_8itKRYGlxBONOcUcPkZ9TVUiyH7RMpN22xXIu736N0BRrw/viewform">recommendations</a>.</p>
 </div>
 <main class="index">
   <div class="hero-row">
