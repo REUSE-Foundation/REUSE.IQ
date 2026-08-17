@@ -5,7 +5,7 @@ Health and wellness retailer on the Dolphin Coast/Durban offering plastic-free s
 ## Quick Facts
 
 - **Official name:** Azikho — source: dailymaverick.co.za (2019)
-- **Country / HQ:** South Africa (CORRECTION: Ballito, KwaZulu-Natal — not Durban proper as in my original entry)
+- **Country / HQ:** South Africa (Ballito, KwaZulu-Natal)
 - **Website:** https://www.azikho.com — source: directory listings
 - **Year founded:** 2017 — source: dailymaverick.co.za (2019)
 - **Est. company size:** Small family-run shop — source: dailymaverick.co.za (2019)

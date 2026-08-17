@@ -5,7 +5,7 @@ Modern 'drugstore' offering bulk cleaning and hygiene products; runs a container
 ## Quick Facts
 
 - **Official name:** Dragonería a Granel — source: dragoneriagranel.es; farmaciamargaritaperezvilarino.es (2025)
-- **Country / HQ:** Spain (Cercedilla, Madrid — CORRECTS my original entry which only said 'Spain' generically)
+- **Country / HQ:** Spain (Cercedilla, Madrid)
 - **Website:** https://www.dragoneriagranel.es — source: direct
 - **Est. company size:** Small independent shop run by (at least) two named staff/owners, 'Laura y Bea' per a customer review — source: farmaciamargaritaperezvilarino.es (2025, citing Google reviews)
 - **Ownership status:** Small independent local business; 36 Google reviews averaging 5/5 as of an April 2025 directory listing — source: farmaciamargaritaperezvilarino.es (2025)

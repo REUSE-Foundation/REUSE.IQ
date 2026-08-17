@@ -6,7 +6,7 @@ Digital-ID and tracking platform for reusable packaging (QR/RFID-based), enablin
 
 - **Official name:** Twintag NV (formerly known as Esoptra) — source: cbinsights.com; aipia.info; crunchbase.com
 - **Also known as:** Esoptra (former company name) — source: cbinsights.com
-- **Country / HQ:** CORRECTION: Belgium (Antwerp/Herentals) — NOT Netherlands as in my original candidate entry
+- **Country / HQ:** Belgium (Antwerp/Herentals)
 - **Website:** https://twintag.com — source: direct
 - **Year founded:** 2017 — source: crunchbase.com; twintag.com/about; cbinsights.com (all consistent)
 - **Ownership status:** Private company, co-founded by Paul Carpentier and Jan Van Riel; total funding raised $8.01M, with a $3.85M round closed 10 March 2022; investors include Golden Egg Check Capital and 4impact — source: crunchbase.com; cbinsights.com

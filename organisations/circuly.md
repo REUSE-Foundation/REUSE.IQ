@@ -5,7 +5,7 @@ Subscription- and rental-management SaaS platform enabling brands (bikes/scooter
 ## Quick Facts
 
 - **Official name:** circuly (circuly.io) — source: circuly.io/about-circuly; tracxn.com (2025); pitchbook.com
-- **Country / HQ:** CORRECTION: Germany (Bielefeld, North Rhine-Westphalia) — NOT Austria as in my original candidate entry
+- **Country / HQ:** Germany (Bielefeld, North Rhine-Westphalia)
 - **Website:** https://www.circuly.io — source: direct
 - **Year founded:** Sources conflict: circuly's own 'About' page states 'officially founded in 2020' by Nick Huijs; Tracxn, PitchBook, and StartupIntros all state founded 2019 by Victoria Erdbrugger and Nick Huijs jointly. Recorded as 2019 per the majority/independent-source view, with the company's own site as an outlier.
 - **Est. company size:** 7 employees as of Dec 2025 per Tracxn; 17 total employees per PitchBook (figures likely reflect different snapshot dates) — source: tracxn.com; pitchbook.com

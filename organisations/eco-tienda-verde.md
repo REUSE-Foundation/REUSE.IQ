@@ -7,7 +7,7 @@ Spanish (León) organic/ecological online and physical store offering package-fr
 | Field | Detail |
 |---|---|
 | Official Name | Eco Tienda Verde |
-| Country / HQ | Spain (León) — NOT Mexico (seed country corrected; see Verification Notes) |
+| Country / HQ | Spain (León) |
 | Year Founded | Not publicly available (company references "more than 20 years of experience in the phytotherapy sector," but no specific founding date for the store itself) |
 | Status | Active |
 | Ownership | Independently/privately operated |

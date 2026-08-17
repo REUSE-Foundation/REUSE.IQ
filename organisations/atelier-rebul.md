@@ -7,7 +7,7 @@ A Turkish heritage pharmacy-turned-cosmetics brand, founded in Istanbul in 1895,
 | Field | Detail |
 |---|---|
 | Official Name | Rebul Holding A.Ş. (brand: Atelier Rebul) |
-| Country / HQ | Turkey (Istanbul) — NOT Belgium; seed data's "Turkey" country tag was correct, but the .be website is a Benelux retail/e-commerce arm, not the company's headquarters |
+| Country / HQ | Turkey (Istanbul) |
 | Year Founded | 1895 (original Rebul/Grande Pharmacie Parisienne, Istanbul); modern "Atelier Rebul" retail brand relaunched in 2013 |
 | Status | Active |
 | Ownership | Private, family-owned (Müderrisoğlu family, 4th generation); B Corp certified; strategic partnership with Japan's Rohto Pharmaceutical since 2019 |

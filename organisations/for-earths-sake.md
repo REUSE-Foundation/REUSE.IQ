@@ -7,7 +7,7 @@
 | Field | Detail |
 |---|---|
 | Official Name | FOR EARTH'S SAKE CIC (Companies House no. 11698425) |
-| Country / HQ | United Kingdom — Shamley Green, Guildford, Surrey, England (GU5 0SX). Note: seed data listed country as India, but this is incorrect — the organisation is UK-based; its website is registered on the .co.uk domain and its registered office is in Surrey, England |
+| Country / HQ | United Kingdom (Shamley Green, Guildford, Surrey, England, GU5 0SX) |
 | Year Founded | Incorporated 27 November 2018 (Companies House); shop opened to the public in April 2019 in Cranleigh, Surrey; relocated to a solar-powered barn premises on Upper House Lane in April 2024 |
 | Status | Active |
 | Ownership | Not-for-profit Community Interest Company (CIC), a private limited company structure under UK law. Founded by Vanessa Ford-Robbins with partners Nik Huddy and Charlie Edwards |
@@ -80,6 +80,10 @@ Food Hygiene Rating Record: https://ratings.food.gov.uk/business/1835574
 Local Directory: https://www.essentialsurrey.co.uk/locations/for-earth-s-sake/
 Social Media: https://www.facebook.com/forearthssakeuk
 Social Media: https://www.instagram.com/forearthssakeuk
+
+## Verification Notes
+
+Seed data listed this organisation's country as India; this is incorrect. The organisation is UK-based — its website is registered on the .co.uk domain, its registered office is in Surrey, England, and it is a Companies House-registered CIC (no. 11698425). Country field corrected accordingly.
 
 ---
 Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -5,7 +5,7 @@ Described as Chile's first zero-waste ('Cero Basura') supermarket, offering bulk
 ## Quick Facts
 
 - **Official name:** CircularShop — source: circularshop.cl/quienes-somos; facebook.com/CircularShop.cl
-- **Country / HQ:** Chile (Chicureo, Colina — Región Metropolitana, not central Santiago as previously listed)
+- **Country / HQ:** Chile (Chicureo, Colina — Región Metropolitana)
 - **Website:** https://www.circularshop.cl — source: direct (NOTE: this business's Facebook page is marked 'Closed now' as of the July 2026 research pass — see verification_notes)
 - **Year founded:** Approximately September 2019 — inferred from a Facebook post dated September 23, 2021 celebrating the store's '2 years' anniversary — source: facebook.com/CircularShop.cl
 - **Geographic scope:** Chile (Chicureo, Colina)
@@ -45,6 +45,8 @@ Not publicly available.
 ## Verification Notes
 
 IMPORTANT — my original batch entry for this organisation understated a real risk flagged in this research pass: the company's Facebook page (facebook.com/CircularShop.cl) is marked 'Closed now', and the most recent activity found (a review and the 2-year-anniversary post) dates to 2021. The website domain circularshop.cl still resolves with an 'about us' page, but no evidence of current (2025-2026) trading activity was found. Recommend the REUSE Foundation independently verify current operating status before treating this as Active — I have downgraded the Status field to 'Uncertain' accordingly and lowered confidence versus my original submission.
+
+Location correction: the original batch entry listed this organisation's location as central Santiago; verified sources place it in Chicureo, Colina (Región Metropolitana) instead. Country field updated accordingly.
 
 ---
 Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

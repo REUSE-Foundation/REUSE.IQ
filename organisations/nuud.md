@@ -5,7 +5,7 @@ Dutch refillable natural deodorant brand ("fresh armpits worldwide").
 | Field | Detail |
 |---|---|
 | Official Name | Nuud |
-| Country / HQ | Netherlands (Utrecht) — corrected from seed's "Sweden" |
+| Country / HQ | Netherlands (Utrecht) |
 | Year Founded | 2017 |
 | Status | Active |
 | Ownership | Privately held |

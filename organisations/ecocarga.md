@@ -5,7 +5,7 @@ Sells detergent, dishwashing liquid and fabric-softener refills for reusable con
 ## Quick Facts
 
 - **Official name:** EcoCarga — source: paiscircular.cl (2019); ecocarga.com/pages/quienes-somos
-- **Country / HQ:** CONFIRMS Chile (Valparaíso region, expanding to Santiago) — resolves my original 'inferred, verify' flag
+- **Country / HQ:** Chile (Valparaíso region, expanding to Santiago)
 - **Website:** https://www.ecocarga.com — source: direct (note: a distinct, unrelated Chilean government EV-charging app also uses the name 'EcoCarga' — do not confuse with energia.gob.cl/electromovilidad/ecocarga)
 - **Year founded:** Late 2017 per El Mostrador/País Circular; the company's own site states 2018 — both dates likely reflect founding vs. first-store-opening milestones — source: elmostrador.cl (2019/2023); ecocarga.com/pages/quienes-somos
 - **Est. company size:** ~20,000 customers as of 2019 — source: paiscircular.cl (2019)

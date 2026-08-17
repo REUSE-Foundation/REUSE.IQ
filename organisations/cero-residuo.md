@@ -5,7 +5,7 @@ Online zero-waste store selling reusable, recyclable or biodegradable household 
 ## Quick Facts
 
 - **Official name:** Cero Residuo, operated by Zero Waste Group S.L. — source: ceroresiduo.com/sobre-nosotros; startupshub.catalonia.com
-- **Country / HQ:** CONFIRMS Spain (Barcelona) — resolves my original 'unconfirmed, verify' flag
+- **Country / HQ:** Spain (Barcelona)
 - **Website:** https://www.ceroresiduo.com — source: direct
 - **Est. company size:** Small team; 88,541 Facebook likes / 18,366 talking about this — source: facebook.com/ceroresiduo
 - **Ownership status:** Small company; a team member named 'Bàrbara' is described as the person who selects every product in the store and drives the Zero Waste mission — source: ceroresiduo.com/sobre-nosotros

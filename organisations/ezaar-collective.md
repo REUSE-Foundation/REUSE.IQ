@@ -5,7 +5,7 @@
 | Field | Detail |
 |---|---|
 | Official Name | Ezaar Collective LLP |
-| Country / HQ | India (Assam) — NOT Pakistan as seeded |
+| Country / HQ | India (Assam) |
 | Year Founded | Not publicly available |
 | Status | Active |
 | Ownership | Private (LLP — Limited Liability Partnership); founded/led by Barsha Sharma |
