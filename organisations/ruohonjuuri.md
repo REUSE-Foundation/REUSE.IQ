@@ -58,4 +58,4 @@ Ruohonjuuri is a long-established, verifiable Finnish retail chain with genuine 
 Seed founding year (1990) corrected to 1982 based on Ruohonjuuri's own "Our Story" page, which traces the company's origin to early-1980s recycled-paper importing that led to the shop's founding. No refill-specific impact metrics or named partnerships were found in this pass.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

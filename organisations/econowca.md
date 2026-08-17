@@ -74,4 +74,4 @@ Local Directory: https://letsgozerowaste.com/places/eco-now-riverside/
 Community Feature: https://www.thelab.com/blog/f8vzbqwouhfszmczo0hv0hbs7l6kvx
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

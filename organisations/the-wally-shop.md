@@ -62,4 +62,4 @@ Priority: ★★★★ High
 No major discrepancies versus seed data; founding year (2017) and founder (Tamara Lim) corroborated across multiple independent sources (Crunchbase, VML, Green Dreamer podcast).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

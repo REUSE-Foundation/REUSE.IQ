@@ -45,4 +45,4 @@ Paraguay Sin Basura is a legitimate national awareness and advocacy organisation
 ## Verification Notes
 Confirmed as an active non-profit foundation running Plastic Free July-style campaigns with Levine Family Foundation grant support; founding year not publicly available.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

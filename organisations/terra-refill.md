@@ -46,4 +46,4 @@ A well-documented, multi-city Mexican bulk-refill chain with clear founder story
 ## Verification Notes
 2018 founding and founder names confirmed via AIM2Flourish feature; multi-city expansion confirmed via separate Facebook pages (GDL, CUU).
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

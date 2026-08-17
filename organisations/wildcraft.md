@@ -60,4 +60,4 @@ Wildcraft is a legitimate, well-distributed Canadian skincare brand with a genui
 - The seed's framing as a "zero-waste skincare refill program" was only partially confirmed: Wildcraft sells select refill-format products (e.g., toner refills) through third-party refillery retailers, rather than operating a dedicated in-house refill programme.
 - Founding year not disclosed publicly.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

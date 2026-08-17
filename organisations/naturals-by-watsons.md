@@ -57,4 +57,4 @@ Priority: ★★★★ High
 
 Could not confirm Hong Kong as the specific location of a Naturals by Watsons refill station; the only concrete station location found in sources was Sunway Pyramid, Malaysia. Corrected from seed data's "Hong Kong" framing — flagging as a discrepancy rather than asserting an unverified location.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

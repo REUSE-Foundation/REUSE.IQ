@@ -69,4 +69,4 @@ Marketplace Listing: https://www.jericoo.com/sellers?id_seller=52&render_type=se
 Corrected spelling: seed listed "Deplastificate," but the verified official name/domain is "Desplastifícate" (desplastificate.com.mx). Deposit amount (~10 MXN) and CDMX-only scope for the return loop are as described in the company's own FAQ page; no independent third-party audit of these claims was found. Year founded could not be verified from public sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -63,4 +63,4 @@ Priority: ★★ Low
 
 Confirmed as an event (biennial trade fair) organized by Fira de Barcelona, not a company — matching the seed data's flag. Founding year not confirmed from a primary source; inferred only from organizer's "45 years of history" / "20th edition" marketing claim for 2027.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

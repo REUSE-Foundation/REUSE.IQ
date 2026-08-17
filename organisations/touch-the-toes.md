@@ -45,4 +45,4 @@ A long-running sustainable apparel retailer with genuine material-consciousness 
 ## Verification Notes
 Founding year (2011), founder names and 2017 studio launch confirmed via official "Our Story" page.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

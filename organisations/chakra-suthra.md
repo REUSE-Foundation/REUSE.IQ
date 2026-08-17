@@ -70,4 +70,4 @@ Chakra Suthra is a genuine material-recovery/recycling-incentive operator rather
 Founding year could not be confirmed from any source accessed in this pass — no company registration record was consulted. Founder identified as Himesh Fernando (CEO) via the official site; a team member (Sasanka Bandara) is noted as a 2018 Eisenhower Fellow in Circular Economy, but his exact role (founder vs. team member) is unclear across sources. Classified primarily as material recovery/recycling-incentive rather than reuse, per REUSE Foundation's own activity taxonomy.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

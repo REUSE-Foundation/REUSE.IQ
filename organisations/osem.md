@@ -49,4 +49,4 @@ Not publicly available.
 Corroborated across a detailed, named-founder local newspaper feature (Bloemfontein Courant) plus 3 South African zero-waste directory listings, all consistent. This substantially upgrades my original 'Low-Medium confidence' candidate entry with a specific founding date and founder family name.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

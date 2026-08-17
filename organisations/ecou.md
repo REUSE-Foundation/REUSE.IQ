@@ -62,4 +62,4 @@ EcoU does not operate a reuse, refill, or durable-goods model: its entire produc
 Seed data described EcoU as "sustainable materials consumer goods (birch wood, sugarcane bagasse)" without specifying single-use vs. reusable. Verified research confirms EcoU's entire product line is single-use, disposable, compostable tableware — not reusable products — which is an important clarification given this knowledge library's reuse focus. No founding year, founder, or ownership information could be verified in this research pass; company appears to have minimal public corporate-history documentation (no Wikipedia, press, or registry record surfaced in searches).
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

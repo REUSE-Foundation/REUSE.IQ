@@ -75,4 +75,4 @@ The Bulk House is a genuine and well-documented pioneer of refill retail in main
 - Verified original physical location (Beijing Drum Tower/Gulou area) and the 2019 closure of the physical store with pivot to online-only — an important nuance not captured in the seed's generic "refill/reusable items social enterprise" description.
 - Could not verify current (2026) operational status beyond a November 2024 reference indicating continued activity; recommend re-verification if this profile is used for active partnership outreach.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

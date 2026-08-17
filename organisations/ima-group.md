@@ -66,4 +66,4 @@ Priority rating: ★★ Low
 
 Seed data's caution was justified: IMA Group's primary identity is as a packaging-machinery OEM (founded 1961), not a reusable-packaging provider. The "B2B reusable packaging from recycled material" description in the seed most likely refers to IMA's 2024 partnership with Ocean Package, where IMA validates machine compatibility for a partner-made reusable case rather than producing reusable packaging itself. This distinction is reflected throughout the profile. Ownership also changed recently: IMA was taken private by BC Partners together with the Vacchi family (2024/2025), correcting any assumption of continued public listing.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

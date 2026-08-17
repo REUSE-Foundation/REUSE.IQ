@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year (2022) and Brussels HQ confirmed via official site and Our Journey page; member count (80+) corroborated by Our Members page.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

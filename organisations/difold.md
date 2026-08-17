@@ -69,4 +69,4 @@ Materials Trade Press: https://www.ulprospector.com/knowledge/16773/pe-difolds-o
 Seed data confirmed accurate for domain, country and product description. Exact founding/incorporation year could not be pinned down precisely from public sources — available evidence places founder collaboration in 2018 and product-market launch (Kickstarter) around 2020; company copyright footer shows an active 2026 status but not an incorporation date.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

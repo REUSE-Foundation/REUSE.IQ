@@ -69,4 +69,4 @@ ebebek demonstrates a working, multi-location in-store refill model for househol
 Seed description ("subsidiary, international baby-goods retail chain, bulk dispensers for laundry/fabric care") is substantially confirmed: ebebek is Turkey-headquartered (not a subsidiary of a foreign parent — the UK operation is ebebek's own subsidiary/expansion, so "subsidiary" direction was corrected), and the detergent/fabric-care refill stations are confirmed under the "baby me" private label across 11 stores. Founding year corrected/clarified: 2001 as e-commerce site, 2003 for physical retail (some sources cite a predecessor "bebek.com" from 2000). Ownership detail (Topbaş family, 2011 acquisition; 2023 IPO) added — not in seed. Impact figures are self-reported by the company/trade press, not independently audited.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

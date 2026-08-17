@@ -71,4 +71,4 @@ Priority: ★★★★ High
 Seed data described Het Goed as a single non-profit; research indicates it is better described as a network/federation of independently incorporated regional foundations sharing the "Het Goed" brand, with at least one source characterising it as run on more commercial lines than typical donation-funded kringloops. Founding year corrected/clarified: 1982 under the original name "Goedzooi," with "Het Goed" branding from 1992. Impact figures are site-derived and unconfirmed against an audited report; flagged as indicative only.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

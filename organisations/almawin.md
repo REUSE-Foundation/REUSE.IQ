@@ -67,4 +67,4 @@ AlmaWin is a long-established (1993), family-owned German manufacturer with a cr
 - Press (30th anniversary feature): https://blog.naturkost.com/2023/04/almawin-oeko-wasch-putzmittel-biologisch-abbaubar-dermatologisch-getestet/
 
 ---
-Confidence — Name: Medium (trading name "AlmaWin" confirmed; "GmbH" legal suffix sourced only from third-party retailer listings, not confirmed on official site) | Founding Year: High (1993, confirmed via official company history page and consistent with independent press) | Impact Data: Low (no quantitative impact figures found) | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium (trading name "AlmaWin" confirmed; "GmbH" legal suffix sourced only from third-party retailer listings, not confirmed on official site) | Founding Year: High (1993, confirmed via official company history page and consistent with independent press) | Impact Data: Low (no quantitative impact figures found) | Last Verified: 2026-07-17 | Research Version: V5

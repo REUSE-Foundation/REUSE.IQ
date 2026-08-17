@@ -69,4 +69,4 @@ Benamôr's refill station is a genuine, verifiable reuse initiative — a reusab
 
 Seed data's founding year (1925) and country (Portugal) confirmed. Seed described the refill programme as covering "hand cream, liquid soap, sanitizer" — verified sources instead describe the refill range as shower gels, liquid soaps, and body lotions (Alantoíne, Gordíssimo, Jacarandá, Rose Amélie lines) in 500ml aluminum bottles; no source confirms hand cream or sanitizer as refillable items specifically, though hand creams are sold in aluminum tubes separately. Added verified detail: refill store opened October 2019 at LX Factory; company was acquired by new owners in 2015 (Pierre Stark, Filipe Serzedelo, Takehide Takasa), not previously in seed data.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -64,4 +64,4 @@ Priority: ★★★ Medium
 
 Precise founding year not stated on the official site; inferred as circa 1995 from a 2020 Zero Waste Europe member profile stating the organisation was "established 25 years ago." Confirmed non-profit/public-benefit status and Budapest HQ via the official website.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

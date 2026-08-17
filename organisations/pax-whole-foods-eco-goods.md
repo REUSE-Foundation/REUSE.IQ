@@ -46,4 +46,4 @@ PAX is a well-established, large-scale bring-your-own-container refill retailer 
 ## Verification Notes
 Confirmed refill model, ~400 product range, and 75+ Irish business partnerships directly from company site; founding year and ownership not publicly available.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

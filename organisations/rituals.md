@@ -59,4 +59,4 @@ Rituals is a large, financially substantial retailer with a genuine, multi-year 
 Founding year (2000) matches seed data and is confirmed by multiple sources (Emirates Woman, Happi). Direct WebFetch of rituals.com returned only a country-selector page with no company-history content; refill-programme details and impact figures were sourced via search instead. CVC Capital Partners' reported minority-stake involvement could not be independently confirmed in this pass; ownership is described per available financial reporting on the 2021 minority-shareholder buyout.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -59,4 +59,4 @@ As a large listed retailer, Pick n Pay's zero-waste pilot and reverse vending ro
 Founding year 1967 and JSE listing confirmed via Wikipedia and JSE issuer profile. Reverse vending and zero-waste pilot details confirmed via secondary press coverage.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

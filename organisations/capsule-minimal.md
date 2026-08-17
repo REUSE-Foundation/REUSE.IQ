@@ -70,4 +70,4 @@ Capsule Minimal is an early-stage, technology-driven Israeli startup with a genu
 - HQ address could not be confirmed beyond the company's association with the Karmiel incubator program; treat location as approximate.
 - LinkedIn and Startup Nation Finder profiles were referenced for founder names but could not be fully fetched (access restrictions); information corroborated across the ISRAEL21c article and search summaries.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

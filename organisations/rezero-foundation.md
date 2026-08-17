@@ -59,4 +59,4 @@ Rezero is a credible, long-running non-profit shaping Catalan and EU circular-ec
 Seed description framed Rezero as operating a "restaurant/café reusable container deposit system," but verified sources show Rezero as a research/consulting/advocacy foundation whose reusable-container work occurs through partner projects (e.g., Circulandia) rather than a directly Rezero-run deposit system — corrected accordingly. Founding year 2005 confirmed via multiple independent sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

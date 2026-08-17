@@ -45,4 +45,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Company founding year not located; "since 2009" refers to the makeup-pad product line's popularity, not necessarily the company's founding date.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

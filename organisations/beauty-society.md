@@ -69,4 +69,4 @@ Beauty Society's relevance to the REUSE Foundation's focus is limited and should
 Seed data explicitly flagged that the "marketplace" framing might be marketing language and asked for careful verification — this research confirms that characterization was inaccurate: Beauty Society is a direct-sales/MLM company (independent "Advisors," commission-based downline structure), not a marketplace connecting multiple independent sellers or brands. Founding year (2004) and founder (Jeannie Lorin) were not in seed data and are added here. No independently verified quantitative impact metrics were found, so Measurable Impact is largely marked "Not publicly available."
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

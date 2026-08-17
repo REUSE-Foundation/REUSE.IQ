@@ -48,4 +48,4 @@ Not publicly available.
 Well-corroborated across 5 independent sources (Jakarta Post, Coconuts, Flokq blog, NOW! Jakarta, Waste4Change) with a substantial and active Instagram following (16K) confirming this is a genuine, well-known Jakarta zero-waste pioneer. This upgrades my original candidate entry's confidence.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

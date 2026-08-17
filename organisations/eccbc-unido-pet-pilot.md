@@ -81,4 +81,4 @@ IFC Press Release: https://www.ifc.org/en/pressroom/2023/ifc-loan-to-equatorial-
 Industry Press: https://www.esi-africa.com/business-and-markets/morocco-circular-economy-push-in-run-up-to-2030-world-cup/
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

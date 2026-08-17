@@ -67,4 +67,4 @@ PUBLIC is a genuine, operating refill-retail business with a multi-year track re
 - Social: https://www.facebook.com/apublicshop/
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

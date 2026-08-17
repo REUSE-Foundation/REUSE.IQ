@@ -46,4 +46,4 @@ Not publicly available.
 Single independent source found in this pass (NOW! Bali lifestyle feature, 2022); no additional corroboration or company website was found. Recommend the Foundation verify directly via Instagram search or a Bali business directory before finalizing confidence level.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

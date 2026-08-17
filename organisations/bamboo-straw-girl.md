@@ -73,4 +73,4 @@ Bamboo Straw Girl is a well-documented, long-running (since 2013) Singapore soci
 Seed data (Singapore; bamboostrawgirl.com; "zero-waste lifestyle goods from local makers, social enterprise") is confirmed accurate. Additional verified detail added: founding year (2013, informal start; incorporated by 2018), founder name (Melissa Lam), and specific self-reported impact metrics from the company's own "Our Impact" page. These impact figures are company-reported (first-party), not independently audited, and are labelled as such.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

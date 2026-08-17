@@ -66,4 +66,4 @@ Cuploop is a well-specified, technology-forward deposit-return infrastructure pr
 Only the official website was accessed in this research pass — no independent press coverage was found to corroborate founding year, funding history, or deployment scale. Founder names (Lauri Luik, Christopher Juul) and named partners are sourced directly from the official site.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

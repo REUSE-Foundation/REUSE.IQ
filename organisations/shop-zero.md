@@ -48,4 +48,4 @@ Not publicly available.
 Corroborated across 4 independent, dated South African lifestyle/directory sources (2020-2024) confirming this is a genuine, currently-operating shop, with a recency signal as recent as February 2024. Note a minor address discrepancy between sources (Observatory in 2022 vs. Roeland Terrace in 2024) which may reflect a relocation — recommend verifying current address directly.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

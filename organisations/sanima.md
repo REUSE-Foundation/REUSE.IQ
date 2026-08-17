@@ -46,4 +46,4 @@ A well-documented, scaled container-based sanitation reuse model with verified i
 ## Verification Notes
 Company rebranded from "X-Runner" to "Sanima"; 2012 founding and impact figures confirmed via company site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -74,4 +74,4 @@ Priority: ★★★ Medium
 Seed data listed Great Wrap's year established as 2020 — research finds the company name was registered in 2019 (founders met and registered the "Great Wrap" name within three months in 2019) with the commercial business launching a year later in 2020, so both years appear in different sources depending on whether "founding" refers to registration or commercial launch; this profile lists 2019 as founding with 2020 launch noted for clarity. Critically, seed data did not reflect that the company **ceased trading**: multiple 2025 sources (Packaging Gateway, PKN Packaging News, Geoff Isaac) confirm Great Wrap entered administration on 17 September 2025 and was liquidated with debts exceeding AU$39 million — this is a major status correction and the single most important verification finding for this profile.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: High | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: High | Last Verified: 2026-07-18 | Research Version: V5

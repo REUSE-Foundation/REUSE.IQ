@@ -66,4 +66,4 @@ Eco Tienda Verde is a genuine, certified organic retailer with a long-standing r
 Seed's country flag was correct to question: the seed listed "Mexico" but noted the .es domain suggested Spain — this research CONFIRMS the country is Spain (León), not Mexico; the seed country field should be corrected. The seed's description of "package-free online grocery + reusable/biodegradable household items" could not be fully verified — the site's own "About Us" content emphasises organic/ecological certification and health-food/phytotherapy heritage rather than describing a specific package-free or refill mechanism; this is flagged as unconfirmed rather than asserted as fact. Founding year not found; only a "20+ years in phytotherapy" claim was located, which may refer to the founders'/owners' prior sector experience rather than the store's own age.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

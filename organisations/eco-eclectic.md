@@ -72,4 +72,4 @@ Eco Eclectic is a small, hyper-local zero-waste retailer rather than a scalable 
 
 Seed description said "pop-up stores for eco-friendly lifestyle resources" — verified more precisely as a hybrid online/microshop bulk-refill retailer that also runs occasional pop-up markets and clothing swaps, rather than a pop-up-only retail format. Founded 2020 (not stated in seed), by Sara Fagen. No evidence found of multiple physical "pop-up stores" as the core format — the business centres on e-commerce plus fixed microshop locations.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

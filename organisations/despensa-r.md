@@ -65,4 +65,4 @@ Official Website (Products): https://www.despensar.pt/collections/all
 Seed URL (despensar.pt) and description confirmed accurate — no name/spelling corrections needed. Founding date (June 2023) and location (Algés) confirmed via the store's own "About Us" page content surfaced in search results. No conflicting information found across sources.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

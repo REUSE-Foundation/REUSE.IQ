@@ -66,4 +66,4 @@ Avo & Co. is a small, founder-run Singapore produce delivery business with a gen
 The seed data's specific claim of "returnable crates" as part of Avo & Co.'s packaging model could not be confirmed from the company's own website (which discusses loose/paper packaging generally but does not describe a crate-return system) or from independent sources found in this research pass; this should be treated as unverified rather than confirmed. Founding year is given as a range (2016 start, 2017 formal registration) because sources differ slightly on exact timing — the company's own site provides no explicit founding date, and the 2016/2017 figures come from secondary sources and the Singapore business registry.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

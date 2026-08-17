@@ -68,4 +68,4 @@ CHEP is one of the most significant industrial-scale reuse operators in the worl
 Founding history is well-corroborated across multiple independent sources (Wikipedia, Brambles' own history page, CHEP's own history page), though exact dates vary slightly by source (1945 pool origin vs. 1946 formal establishment vs. 1958 Brambles acquisition) — all three milestones are noted rather than collapsed into a single figure. Employee and pallet-pool figures are sourced from aggregator/secondary coverage rather than a directly-accessed current annual report; recommend verifying against Brambles' most recent annual report for precise up-to-date figures.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

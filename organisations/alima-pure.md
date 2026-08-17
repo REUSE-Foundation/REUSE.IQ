@@ -70,4 +70,4 @@ Priority: ★★ Low (historical relevance only; company no longer active)
 The seed tracker lists Alima Pure's country as "Canada," but every verified source (company website, B Corp directory reference, Leaping Bunny listing, founder background) places the company in Portland, Oregon, United States — there is no evidence found of a Canadian headquarters or incorporation. This should be treated as a correction, not merely a flag. Additionally, the company's own website confirms it has ceased trading ("CLOSED FOR BUSINESS... 21 amazing years"), which was not reflected in the seed data (status was not specified) — this status change (Active to Ceased) should be updated in the master tracker. The exact closure date/month was not found in verified public sources.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

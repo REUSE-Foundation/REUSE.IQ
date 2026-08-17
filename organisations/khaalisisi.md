@@ -68,4 +68,4 @@ Khaalisisi is primarily a recycling/waste-management platform rather than a reus
 Founding details (registration February 2017, launch June 2017, founder Aayushi KC) are well-corroborated across multiple independent press sources. Reclassified from the seed tracker's implied "reuse" framing to a more accurate recycling/waste-management classification per the REUSE Foundation's own activity taxonomy.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

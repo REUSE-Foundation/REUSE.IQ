@@ -67,4 +67,4 @@ Bluewater is a substantive, well-established (est. 2013, since merged with a US 
 
 Seed data's country (Sweden) and B2B refillable-water-dispenser description confirmed. Founding year (2013) and founder (Bengt Rittri) were not present in seed data and have been added, sourced from company materials and trade press. Added the significant, previously-unlisted 2022 merger with Denver-based FloWater, which materially changes the ownership/corporate-structure picture (now a combined transatlantic group rather than a purely Swedish standalone company) — this is an important correction/addition to the seed data's simple "Sweden" framing.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

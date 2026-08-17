@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Founding year not confirmed by an official source; described only as emerging during the pandemic. Website and refill offering confirmed live.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -47,4 +47,4 @@ A world-leading, publicly listed reuse-infrastructure operator with strong, inde
 ## Verification Notes
 Seed data listed country as "Denmark" — corrected: TOMRA Systems ASA is headquartered in Norway; Aarhus, Denmark is the pilot city. Founding year 1972 and Oslo listing (TOM) match TOMRA's known public profile; impact figures (1.8M cups, 88% return rate) confirmed via TOMRA's own two-year pilot update.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

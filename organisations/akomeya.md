@@ -74,4 +74,4 @@ Priority: ★★ Low
 The operating company AKOMEYA TOKYO, Inc. was formally incorporated on 14 January 2022 as a joint venture between The SAZABY LEAGUE, Ltd. and Marunouchi Capital, Inc., even though the AKOMEYA retail brand and first store date to 2013 as a SAZABY LEAGUE business line — this profile treats 2013 (first store) as the founding/launch year of the brand and notes the 2022 date as the incorporation of the current joint-venture legal entity. No quantified "zero waste" impact metric (e.g., packaging avoided) was found despite the org being catalogued under a "Zero Waste" focus in the seed tracker; this should be treated as a description of business model rather than a verified environmental outcome.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

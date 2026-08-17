@@ -49,4 +49,4 @@ One partner restaurant example (per a 2022 profile): 300 single-use bowls saved 
 Exceptionally well-corroborated across 8 independent sources (Western Mass News, Green Newton, CBS Boston, The Lexington Observer, App Store, Google Play, StartupSeeker, plus the company's own site) spanning 2022-2026, all consistent on founders, founding story, and operating model. This is a strong, currently-active candidate with a clear, recent expansion trajectory (Northampton, Dec 2025).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

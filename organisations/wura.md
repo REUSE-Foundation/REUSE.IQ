@@ -61,4 +61,4 @@ Priority: ★★★ Medium
 Founding date (November 2021) and founder (Damilola Kadiri) confirmed via secondary press coverage; not cross-checked against a primary company "About" page in this pass.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

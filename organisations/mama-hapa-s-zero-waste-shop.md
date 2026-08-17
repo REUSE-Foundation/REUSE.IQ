@@ -48,4 +48,4 @@ Not publicly available.
 Confirmed as a genuine, currently-active business via both its own website and an active Facebook page (813 likes). Founding year and impact metrics could not be found — this is a small business with limited public footprint, consistent with the general pattern for this category rather than a red flag.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

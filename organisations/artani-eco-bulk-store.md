@@ -74,4 +74,4 @@ Artani is a credible grassroots example of package-free bulk retail in Indonesia
 - Location refined from generic "Indonesia" (seed) to Makassar, South Sulawesi, with a specific street address (Jl. Botolempangan No. 57) per the Zero Waste Indonesia directory.
 - The mangrove-planting partnership with LindungiHutan could not be re-verified directly (403 error on fetch) during this session; it is retained in the profile with a confidence caveat since it appeared as a distinct, named source in search results.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

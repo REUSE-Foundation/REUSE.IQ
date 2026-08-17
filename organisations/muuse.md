@@ -60,4 +60,4 @@ Priority: ★★★★★ Essential
 
 Founding year (2018) and former name (Revolv) corroborated across multiple independent sources (PSLB HKU profile, industry directories). Funding figure from PitchBook/CBInsights secondary sources, not independently confirmed on Muuse's own site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

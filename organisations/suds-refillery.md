@@ -46,4 +46,4 @@ A well-documented, community-founded independent refillery — solid but localis
 ## Verification Notes
 2022 founding (pop-up May, storefront September) confirmed via Climate Council Greater KC feature.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

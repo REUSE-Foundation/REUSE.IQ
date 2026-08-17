@@ -48,4 +48,4 @@ Priority: ★★★★ High
 ## Verification Notes
 CORRECTION: Seed data claim that Zacros is "a subsidiary of Showa Denko Packaging" could not be verified and appears incorrect — the company was formerly Fujimori Kogyo Co., Ltd., renamed ZACROS Corporation in Oct 2024; no Showa Denko ownership link found in search results.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -78,4 +78,4 @@ Press Coverage: https://www.irishcontractinteriors.com/interviews-profiles/finli
 - Impact figures found (20-80 suites/year targets, 500,000+ pieces in circulation) are targets/estimates from a case-study write-up, not independently audited outcomes — flagged as such.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

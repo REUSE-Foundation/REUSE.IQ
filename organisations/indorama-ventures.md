@@ -70,4 +70,4 @@ Priority rating: ★★ Low
 
 Seed data's founding year (1994) and public-listing status (SET: IVL) are both confirmed accurate. Employee count of "26,000+" in the seed is roughly consistent with, though slightly below, the most recent reported figure of ~28,154 (2024). As the seed brief anticipated, this is fundamentally a recycling company rather than a reuse company, and the profile reflects that distinction rather than overstating reuse relevance.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

@@ -69,4 +69,4 @@ Gram Malmö is a strong, well-documented example of the bring-your-own-container
 - No corrections needed to country/HQ (Sweden, Malmö) or website.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

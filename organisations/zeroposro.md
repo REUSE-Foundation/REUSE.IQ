@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 
 Seed listed name as "Zerosporo" with domain "zeroposro.com" — verified actual/correct name is "Zero Posro" (also styled "Zeroposro"), matching the live website and local press coverage. Country confirmed as India (Goa), not requiring correction.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

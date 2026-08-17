@@ -46,4 +46,4 @@ Not publicly available.
 No new information found beyond my original candidate entry in this second pass - confirmed only as an active trade-association member with a live website. Recommend a direct site visit before finalizing.
 
 ---
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

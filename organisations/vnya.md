@@ -46,4 +46,4 @@ Not publicly available.
 Corroborated via a single detailed independent feature (The Shooting Star, a well-established zero-waste-lifestyle blog with specific operational detail distinguishing Vnya from generic refill stores, e.g. the Monday dry-waste collection programme). Could not find a company website or additional independent sources in this pass — recommend the Foundation search directly for 'Vnya zero waste Mumbai' with Hindi/Marathi terms or check Instagram, as this appears to be a real but thinly-documented business.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

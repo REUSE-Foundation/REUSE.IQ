@@ -46,4 +46,4 @@ A major national logistics player embedding reusable packaging into core operati
 ## Verification Notes
 1993 founding is well-established public company history; reusable-packaging pilot scale (20+ cities) sourced from China Daily coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

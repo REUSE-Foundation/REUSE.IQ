@@ -60,4 +60,4 @@ Priority: ★★★★ High
 2016 founding year and Brooklyn HQ not stated on returnity.co itself; confirmed via third-party sources (Crunchbase, CBInsights) which also note the prior name "Reusable Solutions Group."
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

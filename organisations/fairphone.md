@@ -52,4 +52,4 @@ Fairphone is one of the strongest, best-documented examples of repair-driven cir
 ## Verification Notes
 Seed year (2013) confirmed as the formal company founding date (campaign predates this by ~2.5 years). B Corp status confirmed with specific date (April 2015). Financial performance figures (2018-2024) are a valuable addition not in the seed data.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-18 | Research Version: V5

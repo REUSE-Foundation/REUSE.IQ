@@ -46,4 +46,4 @@ A scaled, certified example of turning packaging waste into a durable secondary 
 ## Verification Notes
 Founding year approximate — IP acquired ~2018, factory opened and began sales Nov 2021.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -70,4 +70,4 @@ Care by Nature is a genuine, Denmark-based natural-products company with a credi
 - Founding year could not be verified from any public source (company narrative describes an origin story but gives no date) and is recorded as "Not publicly available."
 - Assessed that the business model is more accurately "Waste Reduction" via material substitution than a refill/reuse system, since soap berries are a consumable natural product rather than part of a return-and-refill loop — this affects the Circular Economy Activities classification and priority rating.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

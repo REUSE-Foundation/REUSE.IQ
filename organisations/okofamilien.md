@@ -45,4 +45,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 RE-ZIP reusable packaging use confirmed via official site's "Vores emballage" (Our Packaging) page; founding year not located.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

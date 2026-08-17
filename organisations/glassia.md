@@ -77,4 +77,4 @@ Priority: ★★★★★ Essential (well-documented, verified reuse-economy bus
 Seed data's description ("reusable glass water bottles with delivery/collection") is fully confirmed and well-corroborated across Evergreen Labs' own materials and independent case studies (Falk Foundation, Viet Nam Circular Economy, Sustainable Vietnam). The seed URL (evergreenlabs.org/glassiawater) is confirmed as the correct primary reference, though Glassia also appears to maintain a dedicated glassiawater.com domain per search results — this was not independently fetched/confirmed in this research. Founding date (March 2021) is corroborated by both the Evergreen Labs feature and the Falk Foundation case study.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

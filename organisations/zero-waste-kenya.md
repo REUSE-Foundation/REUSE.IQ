@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 Website confirms non-profit, advocacy-focused positioning and partner list; no founding year or independent impact metrics (beyond cited national policy statistics) were found in this pass.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

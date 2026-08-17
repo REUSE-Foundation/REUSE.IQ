@@ -58,4 +58,4 @@ A small, single-location refill store representative of Switzerland's grassroots
 Confirmed as an active unpackaged/bulk shop via its own website; founding year and ownership structure not found in available sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

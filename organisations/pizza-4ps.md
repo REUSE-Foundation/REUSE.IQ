@@ -59,4 +59,4 @@ Pizza 4P's jar-return and zero-waste restaurant model is a notable regional food
 Founding year (2011) and founder names confirmed via Wikipedia; jar return and zero-waste restaurant details confirmed via the company's own site.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

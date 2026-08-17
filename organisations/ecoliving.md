@@ -70,4 +70,4 @@ ecoLiving is a credible, over a decade-old UK plastic-free retail brand with ver
 
 Seed description ("plastic-free home/body care products designed for reuse") confirmed accurate. Founding year (2014) and founder (Jo Mack) were independently confirmed and were not present in seed data. Legal entity name (Dani & Jo Ltd, trading as ecoLiving) found via secondary source (UK News Group) but not cross-verified against UK Companies House in this research pass — should be confirmed against the official register if precise legal/registration detail is required.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

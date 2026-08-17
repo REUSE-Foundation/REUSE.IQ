@@ -56,4 +56,4 @@ Happi Earth operates a genuine, well-defined take-back and refill loop — used 
 ## Verification Notes
 Seed data ("reusable kraft pouches for laundry liquids," Australia) confirmed and substantially extended: verified an active, formal return-and-refill program (not just reusable packaging) offering a 20% discount, which the seed did not mention. Exact founding year not found in public sources; company was already operating and covered in trade media by May 2019, so founding likely predates that. Founder confirmed as Alf Orpen via industry press. Note: search results also surfaced an unrelated India-based company "Happi Planet" (founded 2021) — not to be confused with this Australian "Happi Earth."
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

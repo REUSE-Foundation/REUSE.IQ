@@ -63,4 +63,4 @@ Based on all publicly available evidence, Albo Drinks is a conventional, family-
 - Facebook: https://www.facebook.com/AlboDrinks/
 
 ---
-Confidence — Name: High | Founding Year: Medium (1963 vs 1964 conflict between LinkedIn and official site) | Impact Data: Low (no reuse-related impact data exists) | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium (1963 vs 1964 conflict between LinkedIn and official site) | Impact Data: Low (no reuse-related impact data exists) | Last Verified: 2026-07-17 | Research Version: V5

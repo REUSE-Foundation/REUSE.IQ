@@ -46,4 +46,4 @@ Not publicly available.
 No new information found beyond my original candidate entry (Reusable Packaging Association member directory) in this second pass. This is a B2B industrial packaging manufacturer - same category caveat as other RPA-sourced entries applies.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

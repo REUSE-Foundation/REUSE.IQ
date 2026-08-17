@@ -68,4 +68,4 @@ Bite is a well-documented, venture-visible (Shark Tank, national media coverage)
 
 Seed data's founding year (2018) confirmed via multiple independent press sources. Added founder name (Lindsay McCormick) and more precise HQ location (Los Angeles / Marina del Rey, California), not present in seed data. Confirmed B Corp status and Shark Tank appearance from independent press, adding useful verification context. No evidence found to support or contradict any specific waste-reduction tonnage; impact section limited to company-stated, unaudited figures as required.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

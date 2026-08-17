@@ -58,4 +58,4 @@ This entry could not be verified: the seed website does not resolve and no corro
 - Web search for "Venezuela Refill Initiative NGO refill stations water detergent" returned no matching organisation; results were unrelated (UNICEF water programs, other unrelated refill brands).
 - Existence of this organisation is unconfirmed; treat seed data with caution.
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

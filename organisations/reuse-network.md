@@ -60,4 +60,4 @@ Priority: ★★★★★ Essential
 Impact figures (83,262 tCO2, 1.35M households, 77,470 tonnes waste diverted) drawn from the organisation's own 2025 report as summarized on-site; founding date not disclosed on fetched page.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

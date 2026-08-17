@@ -61,4 +61,4 @@ Priority: ★★★★ High
 Exact founding year not confirmed in sources reviewed; impact and installation figures are company/press-reported, not independently audited.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

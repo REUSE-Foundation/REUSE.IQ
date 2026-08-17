@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 reCIRCLE Ireland operates under the reCIRCLE brand alongside reCIRCLE AG (Switzerland, originating parent) and reCIRCLE Denmark (national network operation); here it is run by VOICE Ireland as a licensed campus pilot at UCC, not an independent commercial entity. Exact pilot launch year not confirmed in sources reviewed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

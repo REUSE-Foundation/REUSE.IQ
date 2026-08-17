@@ -64,4 +64,4 @@ Meliora is a well-documented, 10+ year woman-owned B Corp combining refill-forma
 Founding year (2013) and founders (Kate Jakubas, Mike Mayer) are confirmed via the company's own official page. The SB-258 legislative achievement is a specific, checkable claim (California state law) giving high confidence despite being sourced from the company's own materials.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

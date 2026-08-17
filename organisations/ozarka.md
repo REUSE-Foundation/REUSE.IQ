@@ -46,4 +46,4 @@ Ozarka is a clear, active reusable packaging-as-a-service operator with a straig
 ## Verification Notes
 Seed data flagged the website as broken; ozarka.biz was confirmed live and functional during this research, along with an active Medium/LinkedIn presence — corrected from seed.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

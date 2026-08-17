@@ -47,4 +47,4 @@ PackBack combines reusable packaging with strong digital tracking and automated 
 ## Verification Notes
 Confirmed Rotterdam base and core technology components (SmartBins, PackPulse, PackPerks) via company site; founding year and ownership structure not publicly available.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

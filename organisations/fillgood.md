@@ -84,4 +84,4 @@ Awards Listing: https://www.goldawards.co.nz/25emerging-services
 - Impact figures (92% return rate, 100,000+ items in circulation, 300+ events) are drawn from the organisation's own website; no independently audited third-party report was found, so figures should be treated as company-reported.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

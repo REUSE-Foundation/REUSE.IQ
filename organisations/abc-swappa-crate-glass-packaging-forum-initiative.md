@@ -77,4 +77,4 @@ The Swappa Crate system is one of the world's longest-running, large-scale refil
 - Report: https://www.glassforum.org.nz/wp-content/uploads/2022/05/Refillable-Glass-Containers-Aotearoa-New-Zealand-Final.pdf
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

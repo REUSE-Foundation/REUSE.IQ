@@ -64,4 +64,4 @@ Mind the Trash is a credible, multi-year pioneer in Portugal's zero-waste retail
 Founding year (2017) and founders (Catarina Matos, Christian Andersen) are confirmed via the company's own official page, which also notes an earlier 2016 Instagram presence based in London before the Lisbon-based company launch. No specific named brand partnerships were found beyond general "various brands" language.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

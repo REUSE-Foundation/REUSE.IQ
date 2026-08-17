@@ -47,4 +47,4 @@ Priority: ★★ Low
 ## Verification Notes
 Seed description of "refillable personal care/home products" broadly confirmed; founding year and legal entity name not found.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Founding year (1996), ownership structure and reusable-tube delivery practice confirmed via official site and Sri Lanka EDB exporter directory.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

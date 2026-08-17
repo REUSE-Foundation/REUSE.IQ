@@ -60,4 +60,4 @@ Priority: ★★ Low
 Seed description (refillable candles/scented products) confirmed via official site and About page; no independent verification found for founding year or ownership structure.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -78,4 +78,4 @@ Priority: ★★★★ High
 Seed data described Vytal's model as "deposit-return"; verified sources consistently describe it as deposit-free (no cash deposit — tracked borrow/return via app instead), which is Vytal's own stated point of differentiation from conventional deposit systems. This is a meaningful correction to the seed characterisation. Founding date verified as summer 2019 in Cologne by three co-founders (Sven Witthöft, Tim Breker, and Fabian Barthel, who joined March 2020), matching the seed "2019" figure. Employee count varies by source (LinkedIn: 51-200, matching seed; PitchBook: ~89) — treated as a range. The large "waste diverted" figure shown as an animated counter on the company homepage could not be corroborated with a dated, methodology-backed disclosure and is flagged as low-confidence marketing content rather than a verified impact metric.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

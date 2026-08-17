@@ -65,4 +65,4 @@ Elate Cosmetics is a credible, well-documented example of reusable-packaging des
 - CORRECTION: seed listed country as United States; verified official "About Us" page and multiple independent sources confirm Elate is a Canadian company/brand ("Canadian owned and made"), not US-based.
 - CORRECTION: seed listed Year Established as 2016; verified official source and independent coverage both confirm founding year is 2014.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

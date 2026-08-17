@@ -58,4 +58,4 @@ Public Goods brought refill-format household products (notably shampoo refills) 
 Founding year (2017) and founder names corroborated across the company's own site and Forbes coverage.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

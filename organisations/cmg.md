@@ -66,4 +66,4 @@ CMG (Czyste Miasto Gdańsk) is a genuine municipal-government reuse/waste-reduct
 The seed data described this as "CMG" with an abbreviated/unclear name; verified the full name as Czyste Miasto Gdańsk, a City of Gdańsk municipal waste-management programme. Ownership reclassified from seed's "Public/municipal" (retained, confirmed correct) to explicit "Government" category per the REUSE Foundation's ownership taxonomy. No founding year or quantified impact data was found in sources accessed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

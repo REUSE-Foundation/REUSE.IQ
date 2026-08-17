@@ -64,4 +64,4 @@ Just Good Refills is a small, grassroots refill-shop example in Cambodia, releva
 No founding year, founder name, or impact metrics were found in sources accessed during this research pass. The official website was identified but not deeply reviewed beyond confirming its existence and general positioning; a more thorough review of its own "about" content is recommended for future verification.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

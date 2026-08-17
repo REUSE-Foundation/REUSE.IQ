@@ -72,4 +72,4 @@ Capsa Packaging is a well-established (founded 1998), Spain-based manufacturer w
 - Added founding year (1998) and founders (Manel López, Olga Vidal), not present in seed data.
 - Legal name identified as "Embalajes Capsa, S.L." (trading as Capsa Packaging / Capsa 2in1®).
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-17 | Research Version: V5

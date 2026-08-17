@@ -61,4 +61,4 @@ Priority: ★★★ Medium
 No dedicated standalone company website was confirmed (seed data did not include a URL); information sourced from Malaysian press coverage (FMT, The Star, Vulcan Post) and social media.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

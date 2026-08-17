@@ -46,4 +46,4 @@ A large-scale, multi-outlet bulk/refill grocery operation with clear waste-reduc
 ## Verification Notes
 2013 founding and founder names confirmed via company "Our Story" pages (Australia and Singapore sites).
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

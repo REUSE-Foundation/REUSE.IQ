@@ -68,4 +68,4 @@ BachserMärt is a credible, long-running (since 2008) independent grocery retail
 Seed data (Switzerland; bachsermaert.ch/en/refill; "zero-waste bulk refill store, grains/nuts/muesli in returned glass jars") is confirmed largely accurate, with one nuance: BachserMärt is better described as a multi-shop local/organic grocery retailer that includes a substantial bulk-refill offering, rather than a dedicated "zero-waste store" in the narrower sense of specialist zero-waste boutiques researched elsewhere in this library — it sells conventionally packaged goods alongside the bulk range. Founding year (2008 for the original Bachs shop) was not present in the seed data and is added here from the company's own history page.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

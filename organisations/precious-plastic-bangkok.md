@@ -59,4 +59,4 @@ Precious Plastic Bangkok is a strong example of grassroots, open-source material
 Founding year (2018) confirmed via the organisation's own site; non-profit legal registration status specifically was not documented in available sources, so "non-profit / community initiative" reflects its described operating model rather than confirmed legal status.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -68,4 +68,4 @@ BROS is a long-established (2004) and still-active Malaysian reusable-bottle bra
 Seed data (Malaysia, bros.com.my, reusable water/food containers with trade-in recycling program) is confirmed accurate. Additional verified detail added: founding year 2004, founders (Terence and Zoe), operating legal entity (Living Wing Sdn Bhd), HQ location (Petaling Jaya, Selangor), and the trade-in program's start year (2010) and specific terms (up to 50% off, any brand accepted with exclusions).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

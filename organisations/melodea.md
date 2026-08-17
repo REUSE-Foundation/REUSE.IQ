@@ -63,4 +63,4 @@ Melodea is a materials-innovation company focused on packaging recyclability rat
 No founding year, founder, or specific headquarters location was found in the source accessed. The seed tracker's framing of this company as enabling "reuse" is not supported by the verified business description, which centres on recyclability rather than reuse — reclassified accordingly.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -63,4 +63,4 @@ Priority: ★★★ Medium
 
 Founding date, founder identity and ownership structure not found in publicly available sources; marked accordingly. Refill claim (seed data: "in-store cleaning/hygiene product refills") is only substantiated via a third-party retailer's refillable-bottle offering, not a LaverVert-operated in-store refill system — this distinction is noted for accuracy.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -68,4 +68,4 @@ Boomi represented a small-scale, China-focused curated marketplace for sustainab
 Seed data provided almost no information ("B2C eco marketplace," "Manufacturing collaboration," no country/website). Research confirms a real circular/sustainability-adjacent organisation called Boomi (BOOMI) existed, based in Shanghai/Beijing, China, founded 2018 by Emmanuel Dean and Miguel Boy — distinct from the well-known Dell Boomi integration-software company (a much larger, unrelated US enterprise-software firm). However, the "manufacturing collaboration" descriptor in the seed data could not be verified; no evidence of a manufacturing/industrial-reuse angle was found. The organisation appears to be inactive/closed as of 2026 — its own domain now redirects to Dell Boomi's website, and a Shanghai venue directory explicitly lists it as closed. This closure status is itself an important, previously-unflagged finding.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -49,4 +49,4 @@ As of 2022 (single-borough figures): 6,000+ people borrowed items 10,000+ times,
 Well-corroborated across 4 independent sources (Global Citizen, a UK council press release, Cooperative City, and Grokipedia) with named founders and manufacturer partners. Founding year genuinely varies between sources (2014 pilot vs. 2016 formal founding vs. 2018 first kiosk) — this reflects real organisational history (pilot-to-formal-launch progression) rather than a data error; I recommend the master record note '2014 (pilot) / 2016 (formal founding)' rather than picking a single year. Impact metrics combine a 2022 single-council figure with a 2025 UK-wide figure from two different sources — both are self-reported by the organisation/its partners rather than independently audited.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

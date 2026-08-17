@@ -73,4 +73,4 @@ Priority: ★★★★ High (verified reusable-packaging/reverse-logistics opera
 Seed data's description (US, circular zero-waste e-commerce delivery packaging) was confirmed accurate. Founding year (2017) and founder names (Ashley Etling, Chantal Emmanuel, Viola Sutanto) came from secondary sources (Insivia founder interview, Tracxn/CB Insights aggregator listings) rather than the official site itself, and HQ location was inconsistently reported (Emeryville, CA vs. Tucson, AZ in different aggregator listings), so both are flagged with lower confidence. Customer relationships with Toad&Co and Topo Designs were independently corroborated via Toad&Co's own blog post.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

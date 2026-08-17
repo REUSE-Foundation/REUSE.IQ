@@ -61,4 +61,4 @@ Priority: ★★ Low
 No major discrepancies versus seed data; company confirmed as a registered Singapore entity operating since 2018 as an online shop (originally a blog).
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

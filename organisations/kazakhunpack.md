@@ -64,4 +64,4 @@ KazakhUpack is a durable-packaging manufacturer whose products have inherent reu
 The seed tracker described this organisation as offering "reusable containers eg buckets," which is only partially accurate — the verified business is a durable-container manufacturer for industrial packaging use, not a documented reuse-system operator with collection/return logistics. Classification adjusted accordingly.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

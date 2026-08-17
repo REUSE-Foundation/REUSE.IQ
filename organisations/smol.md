@@ -60,4 +60,4 @@ Priority: ★★★★ High
 Founding year (2018) and founders corroborated across multiple independent press sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

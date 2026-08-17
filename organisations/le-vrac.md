@@ -63,4 +63,4 @@ Priority: ★★★ Medium
 
 Founding year, founder/ownership details, and any partnership or impact information could not be located in public sources despite direct site review and search; marked "Not publicly available" throughout rather than estimated.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

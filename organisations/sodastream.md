@@ -73,4 +73,4 @@ SodaStream is one of the largest-scale, most consumer-visible examples of a depo
 - Workforce data (third-party estimate): https://www.reveliolabs.com/companies/sodastream-international/employees/
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

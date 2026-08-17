@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 
 Could not confirm a distinct "mymizu Philippines" chapter, launch date, or legal entity in available sources; treated per instructions as likely the same organisation as mymizu (Japan), noted briefly here to satisfy the seed list without duplicating unverified claims.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

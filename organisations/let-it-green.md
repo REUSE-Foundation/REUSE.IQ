@@ -64,4 +64,4 @@ Priority: ★★ Low
 
 Founding year, founder identity and ownership structure not found in public sources despite direct site review and multiple searches; marked "Not publicly available." Note: an unrelated company "Get Green" (getgreen.mx, renewable energy) appeared in search results and was excluded as not relevant to this profile.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

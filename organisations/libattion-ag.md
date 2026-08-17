@@ -74,4 +74,4 @@ Priority: ★★★★ High (verified, funded, scaling industrial battery-reuse 
 Seed data's description (Switzerland, used EV battery cells upcycled into stationary storage) was confirmed accurate by both the official website and multiple independent trade-press sources. Founding year (2018) and Zurich HQ were corroborated by the official "About the Company" page. The Biberist facility and EUR 14m funding round were independently verified through electrive.com, Charged EVs and ess-news.com. No evidence found of a stock listing (Libattion is privately held, unlike LocknLock). Impact figures ("8+ years", "40+ projects") are self-reported by the company and could not be independently cross-verified, so are flagged accordingly.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

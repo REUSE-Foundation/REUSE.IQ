@@ -67,4 +67,4 @@ Izifill is a credible Indonesian refill-infrastructure startup with institutiona
 Founding date (2 February 2020) and founder name are consistently reported across multiple independent Indonesian-language sources. No quantified impact metrics were found in any source accessed during this research pass.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

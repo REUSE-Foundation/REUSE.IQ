@@ -69,4 +69,4 @@ AnniePooh is a small, founder-led independent retailer rather than a scalable re
 - One search snippet referenced Mullingar, Co. Westmeath as a location; the more detailed and directly sourced news profile confirms Greystones, Co. Wicklow as the shop's base, so Mullingar was treated as unreliable/outdated and not used.
 - No impact metrics, funding, or formal partnership data are publicly available.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

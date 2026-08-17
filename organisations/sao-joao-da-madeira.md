@@ -47,4 +47,4 @@ A genuine, EU-recognised municipal zero-waste pilot with concrete reuse/repair i
 ## Verification Notes
 Confirmed as one of the first Portuguese municipalities (with Guimarães, Vila de Rei) to sign the Zero Waste commitment.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

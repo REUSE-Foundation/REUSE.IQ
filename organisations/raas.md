@@ -47,4 +47,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year and quantified impact figures not found in public sources reviewed; core service model (supply, return stations, central wash hub) confirmed via the company's own site and SDG Israel profile.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

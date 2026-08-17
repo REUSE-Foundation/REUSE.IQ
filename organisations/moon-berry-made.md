@@ -64,4 +64,4 @@ Priority rating: ★ Low relevance
 
 Seed data described this org generically as a US "eco-friendly consumer products" company; the actual current site (moonberrymade.com) resolves to "Moonberry Mercantile and Trading," a physical natural-living general store in Tarpon Springs, Florida with a household-goods refillery — a significant correction to the seed's characterization. Founding date and founder identity could not be verified from available public sources (a possible founder name, "Jessica Knutson," appeared in one vendor listing but was not independently corroborated, so it is omitted here per accuracy requirements).
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

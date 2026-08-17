@@ -67,4 +67,4 @@ Acala is a verifiable, actively trading UK company (Companies House-confirmed, i
 - Directory: https://madeforplanet.com/resource/acala
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

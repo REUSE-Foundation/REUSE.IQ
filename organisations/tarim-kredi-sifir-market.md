@@ -46,4 +46,4 @@ A newly-launched but well-documented national cooperative initiative with clear 
 ## Verification Notes
 Contradicts seed's note that the website "does not load" — confirmed active parent chain site at tkkoop.com.tr; 2024 launch confirmed via Anadolu Agency (AA) coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

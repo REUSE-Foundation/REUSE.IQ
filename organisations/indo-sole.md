@@ -71,4 +71,4 @@ Priority rating: ★★★ Medium
 
 Confirmed per the seed brief's request: "Indo Sole" Singapore (indosole.com.sg) is the SAME global Indosole brand founded by Kyle Parsons (concept 2004, launch 2009, HQ California/manufacturing in Bali), not an unrelated or confusingly-similarly-named separate company — it is simply the localized Singapore storefront. No separate founding date specific to the Singapore operation could be found; the brand-level founding history is used here. Precise, dated, third-party-audited impact figures (e.g. verified tire-diversion tonnage) were not located and are marked accordingly.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

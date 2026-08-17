@@ -69,4 +69,4 @@ Ecandi is a genuine, multi-service circular-economy small business — combining
 Seed description (zero-waste eco shop with bulk refill stations, Nairobi, Kenya) confirmed accurate. Official/legal name clarified as "Eco Create and Innovate" (trading as Ecandi). Founder identified as Amos Njiraini (not in seed). Founding year and quantitative impact data could not be verified from available sources and are recorded as "Not publicly available" rather than estimated.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

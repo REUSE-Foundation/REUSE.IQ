@@ -46,4 +46,4 @@ A well-funded packaging-sustainability platform focused primarily on material/ca
 ## Verification Notes
 2020 founding and founder names confirmed via company "Our Story" and funding press coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

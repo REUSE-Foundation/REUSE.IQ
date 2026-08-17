@@ -46,4 +46,4 @@ A well-documented, multi-location pioneer bulk-refill grocer in Bali — solid r
 ## Verification Notes
 No founding year found in public sources; earliest dated content found (store expansion) traces to May 2021.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

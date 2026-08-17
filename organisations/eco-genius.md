@@ -46,4 +46,4 @@ Not publicly available.
 Could not find any source beyond the original blog-comment reference in this second pass — no independent website, press coverage, or social media presence was located. This remains a low-confidence lead; recommend the Foundation attempt direct verification (e.g. searching Spanish-language business directories or visiting Santiago minimarkets) before including, or flag as 'unverified lead' rather than a confirmed entry.
 
 ---
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

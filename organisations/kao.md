@@ -64,4 +64,4 @@ Kao is one of the most significant refill-system operators globally by sheer sca
 All impact figures in this profile are drawn from Kao's own sustainability disclosure (single source) — company-reported rather than independently audited, though Kao is a large public company subject to standard financial/ESG disclosure requirements, giving reasonable baseline credibility. No independent third-party verification of the specific 78,300-tonne figure was located in this research pass.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

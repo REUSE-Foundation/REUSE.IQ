@@ -46,4 +46,4 @@ Not publicly available.
 No new information found beyond my original candidate entry in this second pass - confirmed only as an active trade-association member and a named competitor of Carty. Recommend the Foundation attempt a direct site visit or French-language search before finalizing this entry.
 
 ---
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

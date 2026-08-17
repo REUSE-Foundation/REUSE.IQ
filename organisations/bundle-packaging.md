@@ -68,4 +68,4 @@ Bundle Packaging is a small, UK-based (not US, correcting the seed data) custom 
 - Directly addressed the seed's flagged uncertainty: assessed that "reusable" is NOT actually core to this company's offering — the company's own materials describe products as "recyclable and biodegradable," not reusable, and no reuse mechanism (refill, take-back, deposit-return) was found. This is general sustainable/single-use packaging, not reusable packaging, and the Circular Economy Activities and Priority Rating reflect that finding.
 - Company size is small (2–10 employees per LinkedIn), consistent with limited public information (no annual/impact reports found).
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

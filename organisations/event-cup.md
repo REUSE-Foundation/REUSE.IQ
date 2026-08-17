@@ -49,4 +49,4 @@ This entity is a cup manufacturing/customisation e-commerce business rather than
 ## Verification Notes
 Significant correction: seed data listed country as "United Kingdom" and described "full logistics" for festivals/events; the actual website at the seeded URL (event-cup.com) resolves to a French company (Imprim' & Com', Orvault, France) that primarily sells customised reusable cups via e-commerce, with no confirmed full wash/logistics operation documented on-site. It is possible the seed conflated this business with the similarly-named but distinct UK company "Event Cup Solutions" (eventcupsolutions.com), which does offer nationwide rental, washing and logistics hubs — that is a different legal entity and was NOT the URL provided in seed data, so was not used as the basis of this profile. Founding year could not be verified from available content.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

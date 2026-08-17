@@ -51,4 +51,4 @@ Zero-waste/upcycling does appear to be genuinely core to Ezaar Collective's mode
 ## Verification Notes
 Major correction: seed listed country as "Pakistan"; verified sources consistently place Ezaar Collective in Assam, India, with the brand itself stating "WE ARE PROUDLY INDIAN." This appears to be a data error in the seed tracker, likely confused with a similarly-named or -themed Pakistani sustainable fashion brand — no Pakistani entity of this name was found. Zero-waste/upcycling is confirmed as a core, not incidental, part of the business model. Founding year and founder details could not be confirmed beyond the founder's first name (Barsha Sharma) found via LinkedIn/media mentions.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

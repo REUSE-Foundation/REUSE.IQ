@@ -65,4 +65,4 @@ Club Saludable is a small, grassroots example of bulk/by-weight retail common ac
 Significant status ambiguity: the organisation's own online store domain displays "la tienda fue dada de baja" (the store has been discontinued), which would normally indicate closure, but multiple third-party local-business directories (Foursquare, Yelp, Unilocal) describe the Av. Callao 836 physical location in language suggesting current operation, without explicit closure dates. This profile does not resolve the discrepancy — recommend direct verification (e.g. calling the listed contact number) before treating this organisation as confirmed active or confirmed closed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

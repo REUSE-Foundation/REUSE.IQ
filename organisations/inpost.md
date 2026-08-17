@@ -78,4 +78,4 @@ InPost itself is a very large last-mile logistics company for which reuse is a m
 - "10,000+ employees" seed claim not independently re-verified in this research pass (out of scope given focus on reuse activity), but is directionally plausible for a company of InPost's scale; not included in Quick Facts as it is not one of the required fields.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -49,4 +49,4 @@ Not publicly available.
 Well-corroborated across 6 pages on the company's own site (About, How It Works, Services, and 2 news posts) describing a consistent founding story, year, and operating model — all sourcing is primary (company-published) rather than independent press, which is a genuine limitation; I found no third-party news coverage of PactoZero in this pass. Recommend the Foundation search Catalan/Spanish press specifically for independent verification, and note the founder's surname was not disclosed on the site itself.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

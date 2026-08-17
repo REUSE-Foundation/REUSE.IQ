@@ -60,4 +60,4 @@ Priority: ★★★★ High
 Founding year (2017) is based on a secondary account of founder "Barry" starting Refill.ie; not independently corroborated by an official "founded in" statement on the primary site.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

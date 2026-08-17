@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Founding year of Good For My Planet Association / Refill.Swiss campaign could not be confirmed from available sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

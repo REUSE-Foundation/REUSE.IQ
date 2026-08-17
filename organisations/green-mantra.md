@@ -48,4 +48,4 @@ Not publicly available.
 Exceptionally well-corroborated across 6 independent sources (LBB Bangalore, The Shooting Star, AccuHunt, Magicpin, Justdial, WorldOrgs review aggregator) spanning 2021-2026, with a very recent (July 2026) live directory listing confirming continued operation — a strong recency signal. Named founders consistent across all sources. This substantially upgrades my original candidate entry to High confidence on core facts.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

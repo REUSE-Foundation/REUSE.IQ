@@ -61,4 +61,4 @@ Priority: ★★★ Medium
 
 Founding year (2015) and non-profit/association status confirmed via official site and Zero Waste Europe member listing.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

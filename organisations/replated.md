@@ -60,4 +60,4 @@ Priority: ★★★★ High
 Founding tied to "first pilot end of 2019" as stated on site; no independent third-party source cross-checked in this pass.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

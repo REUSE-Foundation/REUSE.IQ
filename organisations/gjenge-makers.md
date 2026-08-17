@@ -75,4 +75,4 @@ Priority: ★★★★ High (well-documented, independently recognised industria
 Seed data's description ("paving bricks from recycled plastic waste") is fully confirmed and well-corroborated across many independent sources. The precise founding year of the company entity (as opposed to Matee's personal timeline: quit job 2017, first brick 2018, production machine 2019) is not stated identically across sources — this profile uses 2017 as the year she began development, consistent with the most commonly cited "founding" narrative, while noting the multi-year build-out to production scale. Most quantitative impact figures found date to around 2021 press coverage; no more recent (2024-2026) production or impact statistics were located, so current-year scale should be treated as approximate/likely understated.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

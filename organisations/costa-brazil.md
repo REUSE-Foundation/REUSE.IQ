@@ -64,4 +64,4 @@ Costa Brazil's seed classification as a refillable-perfume-cartridge brand could
 The seed tracker described "refillable perfume cartridges, bath salt refills, and travel-sized body care products in recyclable or reusable packaging," but the official website content accessed in this research pass made no mention of a refill or cartridge system — only general certified/sustainable packaging and ingredient-sourcing claims. Recommend re-verifying whether this seed description was accurate or referred to a different, similarly-positioned brand.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

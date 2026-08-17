@@ -72,4 +72,4 @@ KfW Stories: https://www.kfw.de/stories/economy/companies/koko-networks/
 Seed data listed founding year as 2012; verified sources (Wikipedia, KfW) consistently state 2014 as the founding/launch year, with one secondary source citing a 2013 founding by CEO Greg Murray — 2012 was not corroborated by any source found and appears to be an error in the seed data. Seed also listed Uganda as an operating country; verified sources confirm Kenya and Rwanda as operating markets but did not confirm active Uganda operations — this should be treated as unconfirmed. Critically, the company's 2026 closure/administration (PwC appointed February 1, 2026) is a major, well-sourced recent development not reflected in the seed data and materially changes the organisation's current status from "active" to "winding down."
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

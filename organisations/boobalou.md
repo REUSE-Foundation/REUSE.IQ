@@ -66,4 +66,4 @@ Boobalou is a long-running (12-year), founder-led UK retailer with a credible or
 
 Seed data's founding year (2014) confirmed via official company "About Us" page. Added founder name (Jo Mack) and specific HQ location (Arundel, West Sussex), not present in seed data. Added significant context not in seed data: Boobalou is closely linked to, and has substantially grown into, sister brand ecoLiving, which now manufactures own-brand products — this relationship should be noted for anyone cross-referencing "ecoLiving" separately in the knowledge library, as the two brands share ownership and operations. Exact current legal entity name (e.g., "Ecoliving Trading Ltd") could not be independently confirmed via a companies-registry lookup within this research's scope, so is noted with medium confidence.
 
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

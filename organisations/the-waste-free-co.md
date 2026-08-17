@@ -46,4 +46,4 @@ A genuine refill-infrastructure operator addressing food/plastic waste at point 
 ## Verification Notes
 Founder name and Castellum partnership confirmed via Dagens Innovation article; founding year 2019 inferred from founder's stated timeline (moved to Sweden 2017, active since 2019) — treat as medium confidence.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

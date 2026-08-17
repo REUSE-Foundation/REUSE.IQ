@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Merges data/geocoordinates.csv (a persistent slug -> Latitude/Longitude/Geocode
-precision lookup) into data/REUSE_V4_Master.csv.
+precision lookup) into data/REUSE_V5_Master.csv.
 
 Run this AFTER scripts/parse_md_to_csv.py rebuilds the master CSV, and BEFORE
 scripts/build_site.py / generate_locations_json.py need coordinates. Coordinates
@@ -11,7 +11,7 @@ this keeps them from being lost or needing to be hand-maintained across 800+
 markdown files.
 
 Usage:
-    python3 scripts/merge_geocoordinates.py data/REUSE_V4_Master.csv data/geocoordinates.csv
+    python3 scripts/merge_geocoordinates.py data/REUSE_V5_Master.csv data/geocoordinates.csv
 """
 import csv
 import sys

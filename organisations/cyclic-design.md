@@ -65,4 +65,4 @@ Cyclic Design is a relevant example of design-consultancy-led innovation in refi
 No dedicated official company website was confirmed in this research pass — seed data provided no website, and search results did not surface one; all information is drawn from third-party case-study and industry-press coverage of the Nepenthes product specifically. Founding year (2019) and Leipzig location are from CBInsights company-database aggregation, not a primary company disclosure.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

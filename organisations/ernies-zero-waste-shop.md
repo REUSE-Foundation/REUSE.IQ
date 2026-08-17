@@ -78,4 +78,4 @@ Social Media: https://www.instagram.com/ernieszerowasteshop/
 UK Company Register Search (no matching entity found): https://find-and-update.company-information.service.gov.uk/search?q=ernie%27s+zero+waste
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

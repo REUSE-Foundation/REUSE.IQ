@@ -68,4 +68,4 @@ Atelier Rebul is a long-established, credible cosmetics manufacturer with genuin
 The seed data's country designation ("Turkey") is confirmed correct by multiple sources (Rebul Holding's own site, Wikipedia, industry press); the seed note's suspicion about the .be domain was reasonable to raise but the resolution is that Atelier Rebul is genuinely Turkish-headquartered (Istanbul) — the .be site is simply a Benelux-market storefront, one of several country-specific sites the brand operates. The "founding year" is ambiguous by design: 1895 is the founding of the original Rebul pharmacy; 2013 is when the modern "Atelier Rebul" retail/lifestyle brand launched. Both years are given above for clarity. A retailer-quoted "78% plastic reduction" statistic for refill packs could not be traced to an Atelier Rebul primary source and is therefore excluded from the Measurable Impact section per the no-estimation rule.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

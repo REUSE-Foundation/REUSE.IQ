@@ -65,4 +65,4 @@ Cleanomic is a straightforward, verifiable example of the concentrated-refill-ta
 Founding year could not be found in any source accessed during this research pass — the official "About Us" URL used in seed data returned a 404 error; product pages were used instead to confirm the core business model, which matches the seed description accurately.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

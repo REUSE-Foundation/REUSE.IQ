@@ -69,4 +69,4 @@ Adrish is a genuine, multi-city zero-waste organic retail chain with a real brin
 - Directory: https://the-shooting-star.com/zero-waste-stores-india/
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -60,4 +60,4 @@ This entry cannot be substantively assessed due to an almost total absence of ve
 
 Seed data provided only an Instagram handle and flagged uncertainty about whether a real website exists. Extensive searching (English and Chinese-language queries) found no dedicated website, no press coverage, and no business registry match. The Instagram page itself returned only encoded/image data, preventing extraction of bio, location, or product claims. Country attribution (China) is carried over from seed data and is unverified. This profile should be revisited if a direct company website or registry record surfaces.
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

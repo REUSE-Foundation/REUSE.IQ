@@ -69,4 +69,4 @@ conTeyor Group–KTP is a substantial, long-established (30-35+ years combined h
 The seed tracker's website (conteyor.com/en) now 301-redirects to ktpconteyor.com, and direct access to that domain returned a 403 Forbidden error — all information here comes from independent merger press coverage rather than the companies' own current website content, which could not be directly accessed. Country listed in seed data as "Poland," which appears to be incorrect — verified sources place conTeyor in Belgium and KTP in Germany (Saarlouis); this is flagged as a seed-data correction.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

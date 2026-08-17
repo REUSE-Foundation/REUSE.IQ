@@ -83,4 +83,4 @@ CauliBox is a clear, well-documented example of a B2B reusable packaging system 
 - Impact figures (1,600,900 items diverted, 98.7% CO2 reduction claim, cost savings) are company-published claims, not independently audited; flagged accordingly.
 - Founders (Mingqiao Zhao and Josephine Liang) and funding figure ($843K) sourced from Crunchbase/aggregator data, not primary company disclosure — treated as lower-confidence detail.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

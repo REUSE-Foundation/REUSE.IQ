@@ -70,4 +70,4 @@ EcoTrace addresses a genuinely under-served segment of the refill economy: low-i
 
 Seed description confirmed largely accurate: Kenya-based, digital/physical refill pilot for soap, detergent, and cooking oil. The seed's claim of an MKU "affiliation" is more precisely a founder biography detail (Donatus Njoroge held a leadership role in MKU's innovation office) rather than an institutional partnership between EcoTrace and MKU as an organisation — this distinction should be noted. No evidence found of MKU as a current corporate partner or investor. A near-identical domain, ecotrace.co.ke, appears to be a staff portal and may be a related but distinct property.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -61,4 +61,4 @@ Priority: ★★ Low
 Per task instructions, confirmed as a distinct business from the US-based "Refillery Storehouse" (Poughkeepsie, NY) — different country, different website, no evidence of shared ownership. Note also that a separately-run "The Refillery - Canterbury" (therefillerycanterbury.co.uk) exists in the UK under apparently different, unconfirmed ownership; not to be conflated with the Edinburgh business profiled here.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

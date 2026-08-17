@@ -67,4 +67,4 @@ fritz-kola is a well-established (20+ year), commercially successful European be
 Founding year is reported inconsistently as 2002 or 2003 across sources — both noted rather than resolved to a single date. The "up to 20 reuse cycles" figure is consistently reported across multiple independent industry sources, giving reasonable confidence, though it is not independently audited.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

@@ -46,4 +46,4 @@ Green Impackt is a capacity-building/matchmaking programme rather than an operat
 ## Verification Notes
 Corrected HQ/country: Packaging Cluster is Spanish (Catalonia), operating the Green Impackt programme in Colombia rather than being a Colombian organisation itself, as seed data implied.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

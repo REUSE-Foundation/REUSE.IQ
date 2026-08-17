@@ -64,4 +64,4 @@ Official Website: https://diluteshop.com/en
 Significant seed corrections: seed data listed Dilute's country as "Denmark" and described it as "a brand of Humdakin" — verified research found Dilute is operated by EkoEkoShop Trading Oy and based in Nokia, **Finland**, with no evidence of any relationship to Humdakin (a separate, unrelated Danish cleaning brand founded by Camilla Schram in 2011). These appear to be seed-data errors, possibly from confusing Dilute with Humdakin due to similar Nordic eco-cleaning positioning. Founding year for Dilute/EkoEkoShop could not be verified from available public sources.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

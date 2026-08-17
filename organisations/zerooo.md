@@ -60,4 +60,4 @@ Priority: ★★★★ High
 
 Confirmed as genuinely distinct from Portugal-based "Zeroo" (zeroo.pt) — different country, domain, and business model. Legal entity name (SEA ME GmbH) confirmed via site fetch; founding year and HQ city corroborated by industry press coverage.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

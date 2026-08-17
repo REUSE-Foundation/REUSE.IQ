@@ -47,4 +47,4 @@ A small but concrete refill-hub and glass-reuse model in a market with limited f
 ## Verification Notes
 No founding year found in public sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

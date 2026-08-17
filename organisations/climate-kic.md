@@ -65,4 +65,4 @@ Climate-KIC's seed classification as "Refill and Reuse supply chain" focused is 
 Founding year (2010) and EIT/EU-funded non-profit status are well-corroborated across the official site and the EIT's own page. The seed tracker's "Refill and Reuse supply chain" focus-area classification does not match the organisation's actual broad climate-innovation scope — reclassified as Research Organisation with reuse as a minor programme strand, and priority downgraded accordingly.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

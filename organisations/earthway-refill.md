@@ -69,4 +69,4 @@ EarthWay Refill is a genuine, grassroots example of packaging-free refill retail
 Seed entry was accurate; official name confirmed as "EarthWay Refill" / "The Earthway Refill Shop" (branding varies slightly across sources). Founding year (2020) and founders (Wendy Hickey and Andrea Sivieri) confirmed via VOICE Ireland article. No measurable impact metrics found in any source. Direct WebFetch of earthwayrefill.ie failed (no output); information instead corroborated via VOICE Ireland, Echo Live, and We Choose Reuse coverage.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

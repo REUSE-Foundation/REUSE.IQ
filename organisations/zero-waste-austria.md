@@ -48,4 +48,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Founding year inconsistent across sources (2015 vs. September 2017); listed as 2017 with caveat. 2025 workshop activity confirmed via Zero Waste Europe feature article.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

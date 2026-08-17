@@ -49,4 +49,4 @@ Deposit-return / Reusable packaging
 Well-corroborated founding story and year across CNN, PitchBook, and CBInsights. The PitchBook-listed 'Merger/Acquisition with Repeater' (Oct 2022) is a notable unresolved detail — I could not determine in this pass whether DeliverZero acquired a company called Repeater, was itself the target, or whether this refers to a different kind of corporate transaction; recommend the Foundation check PitchBook directly (paid access) or DeliverZero's own press page. Impact metrics are from a single 2021 CNN article and may be outdated given the company is now reported as 7 years old with presumably significant growth since — flagged Low confidence for that reason.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

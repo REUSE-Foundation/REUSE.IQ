@@ -49,4 +49,4 @@ Deposit-return / Packaging-as-a-Service
 Exceptionally well-corroborated across 8 independent Spanish/Catalan sources (Via Empresa x2, El Bien Social, Revista Mercados, Barna Diario, The New Barcelona Post, plus the company's own site) with a consistent, detailed founding story (three named founders, Vietnam origin story, specific funding figures) and a very recent (April 2026), significant acquisition by a French company. This is a strong, high-confidence candidate; recommend the Foundation update ownership status to reflect the new parent company (Le Fourgon) and monitor for post-acquisition rebranding.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

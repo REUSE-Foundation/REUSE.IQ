@@ -47,4 +47,4 @@ A well-documented, founder-led reusable packaging platform directly targeting fo
 ## Verification Notes
 This is a separate company from "Biocírculo" (organisations/xiclo-biocirculo.md) — the original seed row "XICLO / Biocírculo" conflated two distinct Colombian companies; this profile covers Xiclo specifically, added as a follow-up after the conflation was discovered during batch 15 research.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

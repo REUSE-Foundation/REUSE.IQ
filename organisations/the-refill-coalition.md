@@ -61,4 +61,4 @@ Priority: ★★★★ High
 refillcoalition.com did not resolve directly (DNS error) during verification; content confirmed via GoUnpackaged's own refill-coalition page and third-party trade press (Sustainable Packaging News, Packaging Insights). This is an industry coalition/project led by consultancy GoUnpackaged, not a standalone nonprofit as seed data implied — flagged ownership structure as "coalition/project," not independent entity.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

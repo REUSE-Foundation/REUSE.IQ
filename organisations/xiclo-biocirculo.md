@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 IMPORTANT: The seed entry conflated two distinct Colombian companies. "Xiclo" (xiclo.app) is a separate reusable-packaging platform for food delivery, founded in 2021 by Ana María Villegas and her brother — it does not supply recycled HDPE packaging and is unrelated to Biocírculo beyond both operating in Colombia's circular-economy sector. The seed website (biocirculo.com) and description ("recycled HDPE packaging supplier for refill brands") match Biocírculo, not Xiclo, so this profile covers Biocírculo; Xiclo should be researched and profiled separately if required.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

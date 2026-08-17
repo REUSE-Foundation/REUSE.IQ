@@ -57,4 +57,4 @@ Planet Renu is a small, single-product-line reusable bag retailer. It supports p
 Only the company's own product listing was available; founding year, ownership, and company history could not be independently verified.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -60,4 +60,4 @@ Priority: ★★ Low
 Founding year could not be confirmed from official sources within the lean research budget; one franchise location's marketing copy implies roughly 8 years of operation as of recent coverage, but this may reflect that outlet's individual age rather than the network's founding date.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

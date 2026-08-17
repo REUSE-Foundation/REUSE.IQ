@@ -74,4 +74,4 @@ Green Joy is a materials-substitution manufacturer rather than a reuse operator 
 - Other: https://solve.mit.edu/challenges/sustainable-food-systems/solutions/22839
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

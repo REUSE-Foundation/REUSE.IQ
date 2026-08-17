@@ -68,4 +68,4 @@ Priority: ★★★★ High
 
 Seed data listed "Year Established: 2021" — search evidence indicates the company actually launched in September 2020, with B Corp certification following in 2021; both years are noted here to avoid over-correcting without full certainty, but 2020 is treated as the founding year per company "Our Story" sourcing found in search results.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

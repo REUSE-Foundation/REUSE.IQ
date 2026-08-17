@@ -66,4 +66,4 @@ Method is a well-known, design-led eco-cleaning brand whose UK refill pouches an
 
 Seed data's founding year (2001) and SC Johnson acquisition (2017) are both confirmed by multiple independent sources. Note the 2001 founding date refers to the original US company in San Francisco, not a separate UK entity; methodproducts.co.uk is the UK storefront/market operation of the same global brand. No standalone UK subsidiary incorporation date was located.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

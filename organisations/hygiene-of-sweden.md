@@ -63,4 +63,4 @@ Priority: ★★★ Medium
 
 The seed URL (hygieneofsweden.com/press-media/) did not resolve via direct fetch (DNS error during this session); founding year, founder, and product details were instead verified via web search results referencing the company's main site, CBInsights, and Tracxn profiles.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

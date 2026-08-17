@@ -60,4 +60,4 @@ Priority: ★★ Low
 Founding (August 2022) and founder name (Kelsey Pisel) confirmed via local news coverage (KWQC) and business-directory listings.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -79,4 +79,4 @@ AROMATICA is a well-documented, multi-year example of a beauty brand integrating
 - The original en.aromatica.co/index.html and en.aromatica.co.kr/about URLs returned 404 errors during verification; global.aromatica.co/pages/about-us was used as the current official source instead. Website URL in seed data may be outdated; current working domain is global.aromatica.co (en.aromatica.co pages also partly functional for specific sub-pages).
 - Solar electricity share figure is inconsistently reported across sources (~26% vs ~30%); both figures are cited here with sourcing rather than resolved to a single number, since neither could be authoritatively confirmed as more current/accurate.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

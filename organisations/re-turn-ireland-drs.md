@@ -48,4 +48,4 @@ Not publicly available.
 Live date (1 Feb 2024) and deposit range are well-documented via Wikipedia's dedicated article on the scheme. However, this research pass relied on a single secondary source (Wikipedia) rather than the operator's own site or Irish government primary sources — recommend a direct fetch of re-turn.ie and the Irish Department of Environment's DRS page before finalizing. Ownership structure and impact metrics could not be confirmed and are marked accordingly.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

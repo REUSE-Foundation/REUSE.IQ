@@ -70,4 +70,4 @@ Babyloop is a well-documented, retailer-backed circular-economy platform address
 Seed data (Portugal; babyloop.pt; "circular second-hand baby products app + drop-off network") is confirmed accurate. Additional detail found and added: Babyloop originated as a Sonae MC-sponsored challenge developed by Book in Loop/The Loop Co. (not an independent standalone startup), with TV presenter Carolina Patrocínio as public co-creator, and drop-off points specifically at Continente supermarkets. The "up to 80% expense reduction" figure is a stated company goal reported in press coverage, not an independently audited outcome, so it is flagged as such rather than presented as a confirmed metric.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

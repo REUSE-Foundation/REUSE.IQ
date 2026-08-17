@@ -46,4 +46,4 @@ A well-documented, certified multi-brand reuse-products platform with meaningful
 ## Verification Notes
 2018 founding and founder names confirmed via company "Founders' Story" feature and Green Is The New Black press coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -70,4 +70,4 @@ Kamupak is a highly instructive case study precisely because of its trajectory: 
 Founding year is reported inconsistently as 2018 or 2019 across sources — both noted. The closure announcement (July 2024) is corroborated by multiple independent trade-press sources (Sustainable Plastics/Plastics News, Eco Plastics in Packaging), giving reasonably high confidence in the closure itself, though the precise underlying financial reasons are only briefly described in company statements ("could not solve our financial situation"). This is an important status correction versus the seed tracker, which listed the organisation as "Active."
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

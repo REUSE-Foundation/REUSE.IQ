@@ -51,4 +51,4 @@ Grums is a genuine waste-upcycling and materials-substitution business rather th
 ## Verification Notes
 IMPORTANT CORRECTION: The seed website (gruum.com / "grüum") was investigated and found to belong to an entirely different, unrelated UK-based company selling zero-plastic dental care and personal-care products (toothpaste tablets, razors) with no coffee-grounds or Denmark connection. The organisation actually matching the seed's description (Denmark, coffee-grounds skincare, sugarcane packaging) is "Grums Aarhus" (grumsaarhus.com), founded 2018 in Aarhus, Denmark. This profile documents Grums Aarhus, not grüum/gruum.com. Users should not conflate the two brands despite the near-identical name.
 
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

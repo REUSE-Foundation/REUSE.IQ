@@ -63,4 +63,4 @@ Forest Garden Soap & Sundry is a small, ingredient-sourcing-focused artisanal so
 No founding year was found in sources accessed. Seed data described this as a "zero-waste" soap brand, but no specific packaging-reuse or refill mechanism was confirmed — the verified sustainability angle is ingredient sourcing (wildcrafted/home-grown/off-grid), which is a different (though related) sustainability practice from reuse.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

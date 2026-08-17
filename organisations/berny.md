@@ -47,4 +47,4 @@ Not publicly available.
 Consistent with my original candidate entry - single source (CBInsights competitor mapping) confirming a 2020 founding and Nantes location, but no independent second source found in this pass. Recommend direct verification.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

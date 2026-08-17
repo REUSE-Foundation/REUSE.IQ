@@ -65,4 +65,4 @@ Minimize is a small, founder-led Malaysian refill retailer with confirmed regist
 The seed tracker's specific claim of a "used cooking oil buy-back program" could not be verified in the source accessed during this research pass — recommend further verification directly with the company before treating this as confirmed. Founding year (2021) is based on the business registration date found on the official site.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

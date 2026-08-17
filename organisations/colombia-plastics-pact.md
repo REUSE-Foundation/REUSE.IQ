@@ -74,4 +74,4 @@ The Colombia Plastics Pact is a significant national-level policy and industry-c
 Corrected the seed tracker's "by 2025" target framing — verified via multiple independent sources (WRAP, CEMPRE, industry press) that the Pact's four targets are set for 2030, not 2025; the Pact itself launched in 2023. Seed's listed website (wrap.org.uk, the UK parent organisation) was supplemented here with Colombia-specific sources (cempre.org.co) for accuracy.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

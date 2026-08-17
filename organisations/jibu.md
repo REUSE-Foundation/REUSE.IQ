@@ -49,4 +49,4 @@ Refill (franchise water-refill network)
 Exceptionally well-corroborated across 7 independent sources spanning 2015-2026 (Wikipedia, SSIR, Unreasonable Group, Circle Economy, Water Unite, WIPO, AllAfrica). Impact figures are self-reported by Jibu/cited by an investor (Water Unite) rather than independently audited, hence Medium rather than High confidence on impact_metrics. Franchise count varies slightly by source/year (150 in 2021 investor report vs 200+ in 2026 press) — this reflects genuine growth over time, not a discrepancy.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

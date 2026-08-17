@@ -46,4 +46,4 @@ Organic Village is primarily an organic grocery retailer with a bulk/zero-waste 
 ## Verification Notes
 Site confirms bulk/grain purchasing and a "zero-waste"/household product category; explicit refill-station or container-return mechanics not confirmed in available pages.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

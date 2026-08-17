@@ -72,4 +72,4 @@ Industry Coverage: https://www.waste360.com/operations/delterra-and-partners-wor
 Seed data described Delterra's Argentina work as "corporate circular-economy solutions incl. reuse/refill" — verified sources show its Argentina programmes (A Todo Reciclaje, GIRO) are recycling/composting/waste-management focused, with no documented reuse or refill packaging component specific to Argentina. Founding year corrected/clarified: Delterra itself launched in 2021 as an independent non-profit, though its flagship programme dates to 2018 under McKinsey.org and Argentina piloting began in 2019.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

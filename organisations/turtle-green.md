@@ -46,4 +46,4 @@ A community-scale mobile refillery filling a genuine packaging-reduction niche i
 ## Verification Notes
 Mobile delivery model, service area (Caledon/GTA) and product categories confirmed via official site and Share Reuse Repair Hub directory; founding year not found in available sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

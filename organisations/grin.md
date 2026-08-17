@@ -60,4 +60,4 @@ GRIN provides genuine reuse-enabling infrastructure — its core product exists 
 ## Verification Notes
 Seed data (Norway, grin.no, AI-facilitated reusable collection system) confirmed accurate. Founding year (2018) and HQ address sourced from Business Norway profile. Specific investor/ownership structure and precise revenue model details were not publicly disclosed in sources reviewed. The "largest end client" QSR chain in the Netherlands is described but not named in available sources.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

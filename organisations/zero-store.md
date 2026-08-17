@@ -48,4 +48,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Founding timeline (started 2018, first shop opened Nov 2019, second store 2022) confirmed via "Our Story" page; plastic-savings claim is self-reported and unquantified.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

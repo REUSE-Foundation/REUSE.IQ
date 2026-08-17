@@ -64,4 +64,4 @@ Priority: ★★ Low
 
 Confirmed HRK Group's founding year (2019) and Vietnam location via search results referencing the company's launch and CCI France Vietnam CSR profile. Note that HRK Group's core products are compostable/biodegradable single-use alternatives rather than reusable packaging, which differs somewhat from the seed description's framing; this profile reflects the verified compostable-packaging focus.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

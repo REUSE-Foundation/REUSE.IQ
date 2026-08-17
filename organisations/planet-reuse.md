@@ -58,4 +58,4 @@ As a purpose-built European B2B network for scaling reusable packaging, Planet R
 Launch date (September 2022) and backing organizations (LoftOS Foundation, KIDV) corroborated across the platform's own site and independent trade press.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

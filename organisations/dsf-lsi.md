@@ -67,4 +67,4 @@ Award/Industry Coverage: http://www.koreaherald.com/view.php?ud=20231228000644
 Seed data's general description ("reusable container/cup return system for restaurants") confirmed accurate. Founding year (2017) and Seoul HQ address verified directly from the company's own website. The Happy Bridge acquisition (2021) and 2023 ESG award were verified via Korea Herald industry press coverage — these specific facts were not in the seed data and add meaningful verification depth.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

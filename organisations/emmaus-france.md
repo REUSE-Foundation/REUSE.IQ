@@ -69,4 +69,4 @@ Emmaus France is one of the largest, longest-established and best-documented reu
 - Seed's "Year Established: 1949" reflects the founding of the broader Emmaus movement by Abbé Pierre; research clarifies that "Emmaüs France" as the specific federating association (loi de 1901) was legally created in 1985. Both dates are presented for accuracy, since public sources (including Emmaüs France itself) commonly cite 1949 as the movement's founding while 1985 is the formal organisational creation date.
 - Impact figures (38,000+ people, 6,903 companions, etc.) are sourced from the official 2023 activity report; a precise up-to-date tonnage-collected figure was not confirmed and is noted as an approximate, commonly-cited figure rather than a verified current statistic.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-18 | Research Version: V5

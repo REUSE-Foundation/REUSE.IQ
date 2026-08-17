@@ -71,4 +71,4 @@ Product Page (indexed): https://flohygiene.com/product/complete-cleaning-package
 Parent Company Website (unreachable — DNS resolution failed during this research): https://tnthygiene.com/
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -45,4 +45,4 @@ A curated sustainability marketplace rather than a direct reuse/refill operator 
 ## Verification Notes
 2018 founding and founder name confirmed via company "Meet the Founder" page.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

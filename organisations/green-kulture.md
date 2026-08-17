@@ -71,4 +71,4 @@ Priority: ★★★ Medium
 Seed data described Green Kulture as offering "natural cleaner bulk refill jugs (up to 5L)" — corroborated; the 5L bulk refill pack is confirmed on the official site. Founder is referred to only by first name ("Roy") across available sources; no last name, founding year, or company registration details could be verified. A separate, unrelated Singapore-registered company "GREEN CULTURE" (Phalaenopsis orchid breeding, registered 2010, now cancelled) was found during searches and should not be confused with this Green Kulture cleaning-products brand.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

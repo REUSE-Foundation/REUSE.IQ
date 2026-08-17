@@ -68,4 +68,4 @@ Back to Basics Ecostore is a credible, award-recognised (QC Green Awards 2024) w
 Seed data (Philippines; btbecostore.com; "zero-waste bulk refill store") is confirmed accurate. Additional verified detail added beyond the seed data: founding year (2019), the five named co-founders, the women-led social-enterprise structure, the specific sourcing focus on indigenous and women-led community producers, and the QC Green Awards 2024 recognition.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

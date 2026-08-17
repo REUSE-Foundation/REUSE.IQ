@@ -66,4 +66,4 @@ EKOH-Store is a small, young (est. 2020) direct-to-consumer brand rather than an
 - CORRECTION: seed data listed country as Finland; verified official site and company registry (Tracxn) both confirm the company is Ekohstore NZ Limited, based in Auckland, New Zealand ("100% NZ Owned & Operated"), not Finland. This appears to be a seed-data error, possibly confused with another "Ekoh"-named entity.
 - Founding year (2020) and founders (Dawn Elvira Rees, Richard Evan Rees) sourced from company registry data (Tracxn), not primary company disclosure; treat founder names as medium confidence.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -65,4 +65,4 @@ Priority: ★★★★ High
 
 Seed year (2019) refers to the LastSwab product launch/Kickstarter date, not company founding; corrected here to reflect that LastObject the company was founded in 2016, with LastSwab launching in 2019 — both facts retained and clarified. Funding and partnership details corroborated by Wikipedia, which cites multiple press sources.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

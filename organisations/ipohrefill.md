@@ -75,4 +75,4 @@ Priority rating: ★★★ Medium
 
 Seed data description (zero-waste grocery refill plus workshops and recyclables hub) is fully confirmed. The store opened in February 2024, though the founder's initiative dates to a 2023 accelerator program; "2024" is used as the founding year since that is when the operating store/business began. Impact figure (7,000+ containers) is sourced from the organisation's own 2024 impact report, not an independent third-party audit.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

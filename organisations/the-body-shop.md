@@ -78,4 +78,4 @@ The Body Shop is a historically important, high-visibility example of in-store r
 - News: https://www.beautypackaging.com/contents/view_breaking-news/2019-05-09/the-body-shop-partners-with-plastics-for-change/
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

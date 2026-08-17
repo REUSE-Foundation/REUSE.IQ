@@ -80,4 +80,4 @@ Cero Market is a credible, well-covered example of Latin America's package-free/
 - Employee count (51–200) is an unverified LinkedIn/aggregator estimate, not a company disclosure — flagged as low confidence and excluded from Quick Facts.
 - Note: a separate, distinct entity "CERO Market" operating in Uruguay (ceromarket.com.uy) was found during searches — this profile covers only the Argentina-based Cero Market per seed data and does not merge in Uruguayan operations.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

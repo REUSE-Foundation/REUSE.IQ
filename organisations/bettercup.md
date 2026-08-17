@@ -68,4 +68,4 @@ bettercup is a strong, well-documented reuse-system operator with verifiable gov
 
 Seed data flagged uncertainty over AU vs NZ base — confirmed: legally registered as Encoro Pty Ltd, headquartered in Melbourne, Australia, with a secondary New Zealand contact (hello@bettercup.co.nz) and NZ market operations (e.g., FillGood partnership), so "Australia (dual AU/NZ operations)" is the accurate description rather than primarily NZ. Founding year 2018 confirmed (some secondary sources conflated a 2016 date, but official company site and government grant page both state 2018). Added founder names (Sam Stone, Christie Kamphuis) and legal entity name (Encoro Pty Ltd), not present in seed data. Impact figures added from verified government source — seed data contained no impact claims.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-17 | Research Version: V5

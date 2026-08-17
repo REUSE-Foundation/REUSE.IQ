@@ -70,4 +70,4 @@ Priority rating: ★★ Low
 
 Seed data described this as a "national refill station movement" non-profit; confirmed as accurate — Refill Revolution is a campaign under Mission Zero's Climate Leaders' Programme, not a standalone company. Founding year corresponds to campaign launch (February 2023); no earlier organisational founding date found.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

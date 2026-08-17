@@ -65,4 +65,4 @@ Dari Hulu is a grassroots example of combining direct refill retail with broader
 Seed tracker name "DariHulu Store" is rendered here as "Dari Hulu" (with space) per the source describing its founding and meaning; both forms likely refer to the same organisation. No dedicated company website was found — Instagram is the primary public presence confirmed. Founding year not found in sources accessed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

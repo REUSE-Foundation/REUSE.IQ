@@ -46,4 +46,4 @@ A well-documented small-batch manufacturer with genuine refill infrastructure an
 ## Verification Notes
 2021 founding and founder name confirmed via company "About Us" page.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

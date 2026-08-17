@@ -58,4 +58,4 @@ Peerby is a clear consumer-sharing-economy model that directly displaces new pur
 Founding year 2012 and Amsterdam HQ corroborated across multiple independent sources. Ownership/financial details are limited to press coverage; no independent financial filings reviewed.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

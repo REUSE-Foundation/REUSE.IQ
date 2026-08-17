@@ -58,4 +58,4 @@ Priority: ★★★★★ Essential
 
 Founding year (1969) and founder confirmed via Natura's own investor-relations history page and Wikipedia. "Public listed" status refers to parent Natura &Co Holding S.A., not a standalone Natura listing.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

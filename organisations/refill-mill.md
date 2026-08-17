@@ -61,4 +61,4 @@ Priority: ★★★ Medium
 SEED DATA CORRECTION: The seed listed this organisation's country as Ireland, but the domain refillmill.com is confirmed via its own About Us page to be based in Ongar, England, UK — not Ireland. A separate, unrelated business with a near-identical name, "The Refill Mill," operates a zero-waste shop in Mullingar, Ireland, under the domain therefillmill.ie (currently "under construction"); this appears to be the likely source of the seed data's country confusion. This profile covers only refillmill.com (UK).
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

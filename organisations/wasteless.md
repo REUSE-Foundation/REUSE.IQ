@@ -58,4 +58,4 @@ As the seed data flagged, Wasteless is confirmed to be a food-waste/dynamic-pric
 - Confirmed per seed's own flag: this is a food-waste dynamic-pricing technology company, not a reuse/refill operation. Recommend classifying as adjacent/low-relevance rather than core reuse.
 - Precise HQ location and founding year not disclosed on the official site.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

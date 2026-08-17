@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Founding year (2022) and marketplace model verified via web search summary of refind.lk content; direct WebFetch to refind.lk returned HTTP 403.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

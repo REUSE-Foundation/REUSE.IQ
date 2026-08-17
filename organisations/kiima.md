@@ -69,4 +69,4 @@ Kiima is a well-documented Canadian refill-hardware innovator with genuine retai
 Exact founding year was not precisely confirmed — evidence points to a Kickstarter launch and early development in the late 2010s/2020 range, but no single authoritative incorporation date was found in sources accessed. Founders (Jenny Essiambre, Samuel Lemire-Dupont) and retail partnerships are well corroborated across a Canadian government success-story feature and other independent sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -45,4 +45,4 @@ Priority: ★★ Low
 ## Verification Notes
 Could not confirm the seed's specific "reuse promotion" claim; research surfaced only organic/vegan retail positioning, no documented refill or packaging-reuse program.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

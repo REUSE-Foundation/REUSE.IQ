@@ -57,4 +57,4 @@ Grupo Boticário's refill line is a genuine, long-running, mass-market refill sy
 ## Verification Notes
 Seed claim of "refillable aluminium bottles" verified but clarified: O Boticário's core "Refil" product line (bottle + recurring refill units) predates and is separate from the 2023 recycled-aluminium aerosol packaging initiative with Trivium; both exist and both are described here. Some individual refil SKUs (e.g., Glamour Secret Black) are specifically documented as using 100% recycled aluminium packaging. Founding year 1977 is widely corroborated. Precise unit-level plastic reduction percentages for the refill line specifically could not be independently verified and are omitted.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

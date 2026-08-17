@@ -70,4 +70,4 @@ Bean Around is a small but well-documented Irish company with a clear, verifiabl
 Seed data described Bean Around generically as producing "coffee grounds upcycled into exfoliating bars + circular corporate gifting" without a founding year; this research confirms the model and adds the founding year (2020), founders' full names (Sadhbh and Aisling Wood), and the Dún Laoghaire location. The claimed 300% revenue growth figure comes from a single press source (Business Post) without a specific comparison-year stated in the article summary reviewed, so it is presented here with that caveat rather than as a precisely dated metric.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -72,4 +72,4 @@ Ecoceno is a well-documented, credibly backed reusable-packaging system directly
 
 Seed description ("reusable meal-packaging systems for catering/events/stadiums") confirmed accurate and expanded: the system also serves everyday restaurants and supermarkets via a lighter-weight registration model, not solely large events/stadiums. Founding detail added (developed 2022, launched 2023, spun out of aluminium packaging maker Embal) — not present in seed. Legal entity name and NIF confirmed via official site content.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -63,4 +63,4 @@ KarmaMarkt is a small, independently owned zero-waste retail business with a dis
 No specific founding year was stated on the accessed page — the website's copyright notice range (2022-2026) suggests the business has been operating since at least 2022, but this is not a confirmed founding date. Founder is referred to only by first name ("Isabelle," described as "winkelierster"/shopkeeper) in the source accessed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

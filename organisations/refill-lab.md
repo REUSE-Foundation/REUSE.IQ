@@ -61,4 +61,4 @@ Priority: ★★★★ High
 Impact figure (633,000 containers) and revenue projections are self-reported by the company/press coverage and could not be independently verified.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

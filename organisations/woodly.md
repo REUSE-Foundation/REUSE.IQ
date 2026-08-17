@@ -60,4 +60,4 @@ Woodly is a well-established (2011-founded), technically credentialed Finnish ma
 - Founding year (2011) and Helsinki HQ confirmed via independent industry sources (bionity.com, Northdata, Timber Trades Journal), correcting the official site's own fetched content which emphasised a London/UK office without stating the Finnish founding year.
 - RECOUP certification date (June 2026) and new UK leadership team (July 2026) are recent developments per the official site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

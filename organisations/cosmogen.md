@@ -67,4 +67,4 @@ Cosmogen is a well-established, commercially successful B2B refill-technology su
 Exact founding year is not stated as a specific date in sources accessed — only "founded 35 years ago" relative to 2025-2026 trade coverage, giving an approximate 1990-1991 founding. Seed's website URL (cosmogen.fr/en/) returned a 404; the correct root domain (cosmogen.fr) works, though it appears to be French-language by default. Revenue/growth figures are self-reported/trade-press figures, not independently audited.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

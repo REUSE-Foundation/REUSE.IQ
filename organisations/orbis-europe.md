@@ -46,4 +46,4 @@ ORBIS Europe is an established, large-scale industrial reusable-packaging manufa
 ## Verification Notes
 Confirmed as subsidiary of ORBIS Corporation/Menasha Corporation; exact Polish HQ address and founding year not confirmed within lean search scope — company has multiple European sites (Poland, Germany).
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -69,4 +69,4 @@ Priority: ★★★ Medium
 Seed data described Gra de Gràcia simply as a "zero-waste bulk organic grocer" in Barcelona — this is fully corroborated. Founding year (2012) and co-founder names are corroborated across the official site (which names Sara Ingelmo among its team) and Time Out Barcelona/TV Bio coverage (which name Sara Ingelmo and Jordi Escoriza as the founders who opened the first Puigmartí store in 2012); one source (official site) also lists Laia Andreu and Hector Montetes as part of the current team, but these appear to be staff rather than co-founders. No employee count, revenue, or ownership-structure filings were found; treat as a small independent private business.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

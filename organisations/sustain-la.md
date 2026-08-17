@@ -47,4 +47,4 @@ A long-running (15+ year), well-documented refill and zero-waste events operator
 ## Verification Notes
 2009 founding and founder name confirmed via company "About" page and Waste360 trade coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

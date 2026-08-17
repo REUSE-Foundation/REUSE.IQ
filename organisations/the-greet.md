@@ -47,4 +47,4 @@ A scaled, award-winning, nationally-significant reusable-packaging-as-a-service 
 ## Verification Notes
 No founding year found in public sources; impact figures (300,000/day, 71.5M cumulative) sourced directly from company PR Newswire release, Dec 2024.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

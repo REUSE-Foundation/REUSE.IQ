@@ -68,4 +68,4 @@ Ecourage represents a genuinely novel technology layer for reuse systems — usi
 Seed data listed Ecourage's country as Portugal with website ecourage-global.com. Official-site content fetched during this research did not state a headquarters country. One independent secondary search-engine summary (not a primary source, and not independently re-verified via direct fetch due to a 403 error on the candidate PitchBook profile) asserted the company is Norwegian, headquartered in Stavanger, and founded in 2019 — this directly conflicts with the seed's Portugal attribution. Neither claim could be confirmed against a primary source (company registry, official About/Contact page) within this research pass's search budget. This is flagged as an unresolved conflict requiring direct follow-up (e.g., a company registry search or direct enquiry to Ecourage) rather than presented as a confirmed correction.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

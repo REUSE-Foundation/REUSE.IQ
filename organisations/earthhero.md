@@ -65,4 +65,4 @@ EarthHero is a sustainability-curation retailer rather than a reuse-system opera
 Seed entry (B2C eco-friendly marketplace, US) confirmed accurate. Added founding year (2017), founders (Ryan Lewis, and Brian Linton per one secondary source — only Lewis is confirmed as current CEO on the official "Our Story" page), and HQ state (Colorado). No B-Corp certification was confirmed on-site despite being commonly associated with such marketplaces; only Climate Neutral and 1% for the Planet are confirmed. No quantified impact metrics were located.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

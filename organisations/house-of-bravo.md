@@ -49,4 +49,4 @@ Not publicly available.
 Corroborated across a named-founder Daily Maverick feature plus 3 independent South African zero-waste directory listings. This upgrades my original 'Low confidence, Facebook-only' entry with a specific founder name, opening date, and product detail (reusable glass milk bottles specifically, which is a genuine deposit-return element).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

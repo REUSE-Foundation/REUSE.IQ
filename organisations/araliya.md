@@ -70,4 +70,4 @@ Araliya Packaging Lanka is a credible, ISO-certified B2B manufacturer of durable
 - ISO 45001 and ISO 14001 certifications and named retail clients (Cargills, SPAR, Damro, Arpico) were newly verified and added; no independent third-party confirmation of these client relationships was found beyond company-published material, so treat as company-claimed.
 - No quantified impact data is publicly available.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

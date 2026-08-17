@@ -93,4 +93,4 @@ Loop remains one of the highest-profile branded attempts at a multinational depo
 - Background: https://en.wikipedia.org/wiki/Tom_Szaky
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

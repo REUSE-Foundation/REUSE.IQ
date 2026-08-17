@@ -75,4 +75,4 @@ Industry Commentary: https://www.fcctokyo.jp/events/the-ordeals-of-an-organic-fo
 Reference (Wikipedia, French): https://fr.wikipedia.org/wiki/Bio_c'bon
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

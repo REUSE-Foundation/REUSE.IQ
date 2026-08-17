@@ -50,4 +50,4 @@ Not publicly available.
 Well-corroborated via the companys own detailed, recently-dated site confirming active status. This is primarily an upcycled-goods retailer and training social enterprise with zero-waste shop as a complementary element - recommend verifying the specific refill/bulk mechanism.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

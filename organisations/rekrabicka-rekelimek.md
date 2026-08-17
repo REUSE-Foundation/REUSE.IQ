@@ -59,4 +59,4 @@ Priority: ★★★★ High
 REkelímek confirmed to be the cup product line within the same system, not a separate company; founding date not disclosed on site.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

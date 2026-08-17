@@ -66,4 +66,4 @@ EcoRoots is a small, single-brand direct-to-consumer zero-waste retailer whose e
 Seed data listed "Year Established: 2019," but multiple independent secondary sources (brand review sites, business aggregators) consistently state EcoRoots was founded in 2009 by Alin Turcea and Antonia Pitica in Aspen, Colorado, before relocating operations to Phoenix, Arizona. No primary source (e.g., an official company press release or filing) was found to confirm the exact founding date, so this is flagged as a correction with Medium-Low confidence rather than a fully verified fact — the 2009 date should be treated as more likely correct than the seed's 2019, given consistent independent corroboration, but is not from a primary source.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

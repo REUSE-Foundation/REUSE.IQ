@@ -64,4 +64,4 @@ Credible, multi-year Thai textile-waste marketplace with award recognition; rele
 Founders and 2018 founding confirmed via multiple press sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

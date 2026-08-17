@@ -50,4 +50,4 @@ Not publicly available.
 Based on a single secondary source (Wikipedia, itself citing Channel News Asia). This is a legislated, government-mandated national scheme with a specific machine count and launch date, which lends credibility, but I was not able to independently re-fetch a primary source (official BCRS/Return Right site or NEA Singapore page) in this pass — recommend the REUSE Foundation do so directly before finalizing this entry, and check for possible overlap with any existing Singapore entries in the master dataset (25 already present) under a different name.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

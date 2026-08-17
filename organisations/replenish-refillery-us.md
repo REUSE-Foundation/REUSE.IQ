@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 Cross-reference check performed: this US entity (replenishrefillery.com, Dover NH, contact ellen@replenishrefillery.com) shows no evidence of shared ownership with the Canadian "Replenish Refillery & Zero Waste Store" (replenishrefillery.org) — different domain, contact, and country; treated as a separate, independent business per instructions.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

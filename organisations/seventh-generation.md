@@ -74,4 +74,4 @@ Seventh Generation is a well-known "green" CPG brand, but on current public evid
 - News: https://www.vermontpublic.org/vpr-news/2016-10-26/seventh-generation-says-corporate-buyout-is-a-chance-to-take-its-mission-global
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

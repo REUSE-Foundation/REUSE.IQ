@@ -67,4 +67,4 @@ Priority: ★★★★ High (well-documented, technology-enabled reusable packag
 Seed data's description (Singapore, QR-tracked reusable food-grade containers for F&B/corporate reuse) was confirmed accurate and further detailed via the official website's Services and FAQ pages, which describe the RFID+QR tracking mechanism and Return Station network in detail. No founding year was found on the official site or in secondary sources, so it is marked not publicly available. No named individual F&B or corporate client partnerships (e.g., specific restaurant chains) could be verified; only a general sustainability-directory listing (The Matcha Initiative) was found.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

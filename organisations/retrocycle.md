@@ -49,4 +49,4 @@ Prompted by a 2023 Breckenridge waste audit finding coffee cups made up nearly o
 Substantially enriched vs. my original single-source (own-site) candidate entry: 8 independent sources including 3 Summit Daily News articles and an official Town of Breckenridge press release confirm this is a real, currently-launching (May 2026) nonprofit programme, not a stale or hypothetical one — corrects and upgrades my earlier 'Medium confidence' assessment. Genuinely could not find the nonprofit's own founding/incorporation year, only its 2026 flagship-program launch date, which are two different things — recommend REUSE Foundation check Colorado Secretary of State nonprofit registry directly for that specific fact. Impact metrics are pre-launch context (a 2023 waste audit) rather than post-launch results, since the programme is brand new.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 
 Legal entity name (Internet Cafe-BG Ltd.), founding year (2008), and 2025 order/customer figures confirmed via official "About Us" page.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

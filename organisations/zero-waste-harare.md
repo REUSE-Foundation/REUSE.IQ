@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 No dedicated website exists; information verified via World Economic Forum and Dialogue Earth feature articles. "Zero Waste Harare" is a descriptive label used in press coverage rather than a confirmed registered organisation name.
 
 ---
-Confidence — Name: Low | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Low | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

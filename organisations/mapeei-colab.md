@@ -69,4 +69,4 @@ Priority: ★★★ Medium
 Founding date is approximate: press coverage indicates the original "Mapeei — Uma Vida Sem Plástico" store opened in a gallery on Rua Augusta, São Paulo, toward the end of 2018, founded by "Lívia" (full surname not confirmed in available sources) and designer Lori Vargas; the business later relaunched under the "Mapeei Colab Sustentável" name at its current Rua Lisboa, Pinheiros address. Brand-partner counts vary slightly between sources (70+ vs. 85+); treated as approximate.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

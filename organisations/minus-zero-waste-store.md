@@ -68,4 +68,4 @@ Priority rating: ★★ Low
 
 Seed data (Malaysia, online zero-waste retail store) confirmed accurate. Founding year (2019) and founder name (Cassey Goh) added from Zero Waste Malaysia case studies, as the official website itself returned HTTP 403 to automated fetch. Official website URL confirmed correct via search results.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

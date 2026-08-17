@@ -46,4 +46,4 @@ På(fyll) is a well-documented, corporate-backed circular refill model with inde
 ## Verification Notes
 Confirmed Orkla ASA as lead partner (not simply "subsidiary of ORBIS" — no ORBIS connection found; seed's "ORBIS Corporation" reference in another entry is unrelated). Launch timeline (2023 soft launch, 2024 formal launch) confirmed across multiple sources.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

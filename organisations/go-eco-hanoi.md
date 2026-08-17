@@ -49,4 +49,4 @@ Not publicly available.
 Corroborated via a detailed, recently-dated (2025) Vietcetera feature with a direct founder quote (Thao Hoang) — confirms this is a genuine, real business. The source describes selling packaged eco-friendly items (bamboo toothbrushes/pens) rather than explicitly confirming an in-store bulk-refill mechanism; recommend the Foundation verify whether a genuine refill offering exists versus a packaged-eco-goods retail model.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

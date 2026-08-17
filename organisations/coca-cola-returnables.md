@@ -75,4 +75,4 @@ Investigative/Analysis Press: https://fastcompanybrasil.com/design/coca-cola-se-
 Industry Association: https://abir.org.br/the-coca-cola-company-anuncia-novo-plano-global-para-ajudar-a-criar-um-mundo-sem-residuos/
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

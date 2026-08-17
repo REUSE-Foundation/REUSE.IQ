@@ -59,4 +59,4 @@ rhinopaq is a well-documented, EU-recognised reusable-packaging-as-a-service ope
 Founding year (2021) and Essen, Germany headquarters confirmed via NRW.INNOVATIV and EU-Startups directory listings, supplementing the official site (which does not state a founding date directly). Impact figures (95% waste reduction, 110,000+ packages eliminated) are company-reported.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

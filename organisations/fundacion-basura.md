@@ -74,4 +74,4 @@ Priority: ★★★ Medium (credible, verified NGO impact in food-waste/composti
 Seed data described Fundación Basura as a non-profit doing "food recovery from markets + composting," which is confirmed and well-documented via the independent GAIA/No-Burn case study (2024). The founding year (2015) and founder (Macarena Guajardo) were not in the seed data and are added here from independent press coverage; confidence is medium since the founding account (traced to a personal blog/feature narrative) was not cross-confirmed against an official registry. Impact figures cited combine two different reporting periods/scopes (per-pilot figures vs. cumulative aggregate figures) from different sources — both are presented above with their original context to avoid conflation.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

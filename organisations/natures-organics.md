@@ -59,4 +59,4 @@ Priority: ★★★★ High
 
 Seed data's 1969 founding year could not be corroborated; company's own "Our Story" page describes predecessor Trydel Research as founded in "the Fifties" with the Natures Organics name adopted in 1991. Flagging this discrepancy rather than asserting either date as confirmed fact.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

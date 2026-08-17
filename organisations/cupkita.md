@@ -64,4 +64,4 @@ Cupkita is a relevant example of the Enviu Zero Waste Living Lab's incubation ap
 Status is explicitly listed as "Inactive, Pilot phase" on the source page accessed, contradicting the seed tracker's "Active" status — this is a significant correction. Founding year was not found in sources accessed. No independent press coverage was found beyond the Enviu programme page itself.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

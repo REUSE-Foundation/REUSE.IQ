@@ -59,4 +59,4 @@ VZWA is a credible, well-networked Vietnamese zero-waste advocacy coalition with
 - Could not confirm the seed's specific "refillable glass jar projects" claim from the official site; verified activities are waste/brand audits, cleanups, and composting advocacy instead.
 - Founding year not stated on the site.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

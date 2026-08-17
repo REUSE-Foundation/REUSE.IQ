@@ -71,4 +71,4 @@ Priority: ★★★★ High
 Founding year (2020) is drawn from a WebSearch AI-generated summary characterising Meadow as "a Swedish packaging technology start-up founded in 2020"; this was not independently cross-checked against a primary company filing within the research budget for this profile, so founding-year confidence is Medium. HQ addresses (Stockholm and London) confirmed via the official website's contact/footer information.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

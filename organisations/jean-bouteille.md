@@ -66,4 +66,4 @@ Priority: ★★★★ High
 
 Seed data listed founding year as 2014; the company's own manifesto page and independent press (We Demain, Ministry of Agriculture) confirm founding in March 2012 in Lille by Gérard Bellet. Corrected accordingly.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

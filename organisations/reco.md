@@ -59,4 +59,4 @@ Priority: ★★ Low
 No founding year, ownership structure, or independently verified impact figures could be located; business model is waste-reduction (lighter/plastic-free packaging) rather than true reuse.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

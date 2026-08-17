@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 CORRECTION: Seed year (2017) does not match research; multiple sources place the store's opening in 2018, not 2017. Founding year updated accordingly.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

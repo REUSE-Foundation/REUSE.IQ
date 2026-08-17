@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Exact founding date not found; store is confirmed to be the successor to a predecessor zero-waste shop (FOIFI) and operates under the grassrooted cooperative per Zurich tourism site and Facebook pages.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

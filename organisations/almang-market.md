@@ -81,4 +81,4 @@ Priority: ★★★★ High
 Two slightly different impact figures exist for 2022: the organisation's own cumulative 2020–2024 figure (299,543 containers reduced) and a specific single-year 2022 figure reported via Korean government media (75,144 containers reduced) — both are plausible and not necessarily contradictory (the single-year figure could be a component of the cumulative total), but they should not be conflated. The legal entity name (주식회사 알리(망원), business registration 155-81-02836) is sourced from the company's own site footer/legal notice rather than an independent corporate registry lookup, so it is rated Medium rather than High confidence. Founding is treated as 2020 (store opening) per the organisation's own framing, though the underlying community campaign began in 2018.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

@@ -69,4 +69,4 @@ Verification substantially contradicts the seed data: Cokodeal's own official "A
 - No independent confirmation of headquarters address, employee count, or investor backing was found; these are recorded as "Not publicly available" rather than estimated.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

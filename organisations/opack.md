@@ -48,4 +48,4 @@ OPACK is a clear, active reusable packaging-as-a-service operator directly align
 ## Verification Notes
 Founding year conflicting across sources (2022-ish MCO-era origin vs. a 2024 "established" reference); flagged as unresolved rather than guessed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -78,4 +78,4 @@ Priority: ★★★★ High (well-documented B2B circular software platform with
 Seed data's description (France, enabling brands to integrate rental/second-hand sales with circular logistics) was confirmed accurate and well-substantiated. Founding year (2019) was corroborated by CB Insights and the Ellen MacArthur Foundation case study. Named client relationships (Decathlon, Adidas, Maje, Kiabi, VF Corp) were independently corroborated across the Ellen MacArthur Foundation, Fashion for Good and Forbes sources. Specific investor/ownership details were not confirmed within the scope of this research and are marked accordingly.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

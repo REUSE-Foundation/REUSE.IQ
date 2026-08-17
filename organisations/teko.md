@@ -46,4 +46,4 @@ A regional refill-campaign chapter with a concrete bottle-distribution and refil
 ## Verification Notes
 No founding year found in public sources; note the parent "Teko" brand also operates an unrelated appliance-repair-service platform (teko.ph) — this profile covers only the RNL refill campaign.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

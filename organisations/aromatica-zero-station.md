@@ -74,4 +74,4 @@ Zero Station is a well-publicized, verifiable flagship example of in-store refil
 - The seed URL https://en.aromatica.co/zerostation returned a 404 during verification; https://en.aromatica.co.kr/zerostation appeared in search results as a working alternative, but was not independently fetched to confirm current status — flagged for re-check.
 - No separate ownership, ABN/company registration, or standalone financial data exists for Zero Station since it is not a separate legal entity.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

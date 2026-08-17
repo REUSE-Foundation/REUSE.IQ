@@ -46,4 +46,4 @@ Bulgaria's pioneering zero-waste refill shop — a modest but meaningful first-m
 ## Verification Notes
 No founding year found in public sources; founders' first names (Ani, Stoicho) confirmed via social media presence.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

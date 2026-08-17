@@ -68,4 +68,4 @@ Priority: ★★★ Medium
 Seed data described Goodfill as offering "concentrated biodegradable cleaning tablets + refillable bottles" in South Africa — this is corroborated by the company's own website and its product listing on Faithful to Nature. Direct WebFetch access to goodfill.co.za repeatedly failed (DNS resolution error) during research; all information was instead sourced via search-result summaries of the same pages and the Faithful to Nature stockist listing, so confidence in exact current product-line details is somewhat reduced. No founding year, founder name, employee count, or funding information could be found in any public source searched — these should be treated as open data gaps rather than omissions.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -60,4 +60,4 @@ Priority: ★★★★ High
 Founding (2016) and NGO registration (2018) dates confirmed via official site content surfaced in search; named partnership and quantitative impact data not found in this pass.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

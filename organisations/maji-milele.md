@@ -70,4 +70,4 @@ Priority: ★★★★ High
 Year founded (2013) taken from copyright/company information on the official Water Forever website; not independently corroborated by a second source within the research budget for this profile, so founding-year confidence is rated Medium. "Maji Milele" is confirmed as the Kenyan operating brand of the parent Water Forever/Water Forever International group. Impact figures (800,000+ users, 1,200+ ATMs, 100M+ litres) are company-published and undated; treated as self-reported rather than independently audited.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

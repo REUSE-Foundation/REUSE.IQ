@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Seed description (household waste to thermoplastic pellets) confirmed via company site and Wikipedia. Founding year (2012) and impact figures per Wikipedia/company claims, not independently audited.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

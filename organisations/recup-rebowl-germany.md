@@ -60,4 +60,4 @@ Priority: ★★★★★ Essential
 CROSS-REFERENCE: A separate, apparently unrelated UK company also trades as "Recup" (recupuk.co.uk) and also claims a 2016 founding — see profile recup-uk.md. No evidence of common ownership or licensing was found between the two; they appear to be independent businesses with coincidentally similar branding and founding dates. This profile covers only the German reCup GmbH (RECUP/REBOWL).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

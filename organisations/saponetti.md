@@ -46,4 +46,4 @@ An established, decade-old refill delivery pioneer in a major North American cit
 ## Verification Notes
 Seed data listed "Saponetti" and "Saponetti Soaps" as separate entries with the same website (saponetti.ca) — confirmed as the same company and merged into one profile.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

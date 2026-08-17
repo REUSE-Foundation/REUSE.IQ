@@ -49,4 +49,4 @@ Not publicly available.
 Well-corroborated across 2 independent CBInsights profile pages (citing a Star Tribune feature) plus a Bar & Restaurant trade-press feature naming the founder (Natasha Gaffer) — note this corrects/confirms a founder name not previously verified in the original candidate entry. No impact/scale metrics were found; recommend checking foreverwareco.com directly or a more recent (2024-2026) press mention, since my original candidate note flagged this company as expanding into New Hampshire, which I could not re-confirm in this specific pass.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

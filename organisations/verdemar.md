@@ -60,4 +60,4 @@ Verdemar's reusable-bag policy is corroborated by numerous independent customer 
 - The seed URL (loja.verdemaratevoce.com.br, i.e. "Verdemar to you," likely the delivery/online-order arm) returned only template content on direct fetch; the no-plastic-bag policy was instead confirmed via aggregated independent customer reviews of physical Verdemar Cidade Nova stores.
 - Founding year and corporate ownership structure not found in sources reviewed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

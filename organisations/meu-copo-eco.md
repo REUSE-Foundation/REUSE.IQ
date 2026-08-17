@@ -63,4 +63,4 @@ Meu Copo Eco is a long-running (since 2011), Brazil-based reusable cup company w
 
 Seed description (reusable/returnable cups for events and corporates) confirmed. Founding year (2011) sourced from company website content; no independent third-party corroboration (e.g., business registry) was located, so confidence is medium. The "10 billion cups avoided" figure is company-stated marketing copy, not third-party audited — flagged accordingly under Measurable Impact.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

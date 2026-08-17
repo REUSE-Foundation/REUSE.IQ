@@ -193,7 +193,7 @@ PAGE = """<!doctype html>
   {rest_sections}
 
   <footer>
-    <span>Source: <code>data/REUSE_V4_Master.csv</code>, REUSE-Foundation-Knowledge-Library</span>
+    <span>Source: <code>data/REUSE_V5_Master.csv</code>, REUSE-Foundation-Knowledge-Library</span>
     <span class="confidential">Confidential — internal use only</span>
   </footer>
 </div>

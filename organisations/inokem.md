@@ -72,4 +72,4 @@ Priority rating: ★★★ Medium
 
 Seed data's claim that "1L replaces 40-100 bottles" is directionally confirmed by Inokem's own marketing, which states one ultra-concentrate package replaces up to 100 conventional packages — but this remains a company self-reported ratio, not independently verified by a third party. Exact founding year could not be pinned down precisely; the company references "18 years of history," which would place founding around 2008 relative to recent communications, but no explicit incorporation date was found in public sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

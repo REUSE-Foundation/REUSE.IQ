@@ -49,4 +49,4 @@ Not publicly available.
 Exceptionally well-documented across 8 independent sources (MyBayut, LinkedIn, Food Business Gulf, ContactOut, Instagram, plus the company's own site across multiple pages) spanning 2019-2026, including a very recent (published ~2 weeks before this research) acquisition announcement. This significantly updates my original candidate entry: Ripe Organic was acquired by NRTC Group in December 2025 and is undergoing an active expansion. However, on category fit, this is fundamentally an organic-food retail/distribution business, not a refill or reuse system — recommend the Foundation weigh whether it meets the single-use-plastic-reduction criteria as originally intended, since 'organic' and 'loose produce' do not automatically imply a refill/reuse model.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -58,4 +58,4 @@ Priority: ★★★ Medium
 
 Acquisition by Tru Earth (2023) confirmed via Tru Earth's own press release. Founding year of Net Zero Co. itself not stated in available sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

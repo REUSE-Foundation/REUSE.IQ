@@ -59,4 +59,4 @@ Priority: ★★ Low
 Primary website https://zerowastestore.nl/ returned HTTP 404 during this research pass; unable to confirm founding year, current trading status, or product catalogue beyond social-media presence. Flagging for future re-check.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -61,4 +61,4 @@ Priority: ★★★★ High
 Founding year (2017) and impact figures corroborated across multiple independent sources (Berkeley IEP, Climate CoLab, AIMR).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

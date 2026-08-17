@@ -64,4 +64,4 @@ Ekolo is a small, long-standing (est. 2004) Finnish sustainable-retail business 
 - CORRECTION: seed URL (mediterrolio.com/listing/ekolo/) was a third-party directory listing, not the company's own site. Verified official website is https://www.ekolo.fi/, based in Jyväskylä, Finland.
 - Limited independent (non-company) sourcing was found; most details rely on the company's own site, so confidence on business-model specifics is moderate.
 
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

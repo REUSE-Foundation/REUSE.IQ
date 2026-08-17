@@ -46,4 +46,4 @@ A well-documented material-recovery and social-impact venture, though the end pr
 ## Verification Notes
 Seed data listed the organisation as "Sunrise Straws" at sunbirdstraws.com — actual company name is "Sunbird Straws"; corrected here.
 
-Confidence — Name: Medium | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

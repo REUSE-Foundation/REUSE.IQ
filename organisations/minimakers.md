@@ -66,4 +66,4 @@ Minimakers is a relevant example of reusable food-storage packaging manufacturin
 No specific company founding year was found — 2021 is confirmed only as the start of the Autism Resource Center employment partnership, which may postdate the company's actual founding. No quantified environmental-impact metrics (e.g., single-use plastic displaced) were found in the source accessed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

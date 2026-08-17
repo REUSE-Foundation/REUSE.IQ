@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 IMPORTANT: Could not find a source specifically confirming a dedicated "Dirt is Good"-branded refill program in Colombia; evidence found covers FAB recycled-content packaging and a related regional Unilever-Algramo refill pilot (branded around OMO/Quix in some markets). Also critical: Unilever announced in January 2026 the sale of its Colombia/Ecuador home-care business, including FAB, to Alicorp — ownership section updated to reflect this. Kept as a separate profile from the Philippines/global and Mexico/Sedal Unilever entries per instruction.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

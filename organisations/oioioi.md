@@ -50,4 +50,4 @@ Company/LinkedIn claim: customers save on average 70-90% of CO2, water, and text
 Exceptionally well-corroborated across 9 independent sources (Tracxn, noissue.co, wemakeit crowdfunding platform, cofoundme.org, LinkedIn, IGDS sustainability network, CBInsights, plus the company's own site across multiple pages) with named founders, consistent founding date, and a specific, detailed operating model. This substantially upgrades my original single-source candidate entry. Impact metrics (70-90% resource savings) are a self-reported marketing claim rather than an independently audited figure, hence Low confidence there despite otherwise strong corroboration.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

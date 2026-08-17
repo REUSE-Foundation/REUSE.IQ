@@ -65,4 +65,4 @@ Damn Plastic is a well-recognised (multiple industry awards, significant press c
 Exact founding year was not found in sources accessed — only founder first names ("Victoria and Steph") were available, not full legal names or an incorporation date. Award/recognition claims (Game Changers, Startup of the Year, Global Retail Business of the Year) are self-reported on the company's own site and were not independently cross-verified against the awarding bodies in this research pass.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

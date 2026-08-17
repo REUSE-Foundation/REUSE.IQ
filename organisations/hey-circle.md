@@ -71,4 +71,4 @@ Priority: ★★★★ High
 Seed URL (heycircle.de/en) redirects to the current official domain heycircle.com/en; updated in profile. Founding year (2021) and founder names confirmed across multiple independent sources (Bay Startup, Munich Startup). Impact percentage figures are company/LCA-sourced and undated in available materials — flagged accordingly rather than presented as independently audited.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

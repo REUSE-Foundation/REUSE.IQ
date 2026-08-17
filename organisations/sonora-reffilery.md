@@ -46,4 +46,4 @@ A standard independent BYOC refillery serving a local community — genuine but 
 ## Verification Notes
 No founding year found in public sources; seed listed name as "Sonora Reffilery" (typo) — actual name is "Sonora Refillery."
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

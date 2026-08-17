@@ -69,4 +69,4 @@ Ecoworks is a fast-growing (16 stations within roughly two years of launch), wel
 Seed data described Ecoworks as offering "mobile/pop-up home-care refill stations." Verified sourcing (official website) consistently describes fixed, permanently installed automated kiosks ("Ecofill machines") sited in community locations, not mobile or pop-up units — this is flagged as a correction to the seed record. Founder (Sean Lam) and rollout start date (late January 2024) were not in seed data but confirmed via search-engine-summarised official content; an exact company founding/incorporation year distinct from the station-rollout date could not be confirmed in this pass.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

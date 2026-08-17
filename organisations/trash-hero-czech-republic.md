@@ -46,4 +46,4 @@ A genuine grassroots refill-point network with credible global impact data, thou
 ## Verification Notes
 Czech chapter cities and refill-map mechanism confirmed via Trash Hero World's official site; impact figures (1.9M bottles, 104.4t CO2) are global network totals, not Czech Republic-specific — flagged accordingly.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

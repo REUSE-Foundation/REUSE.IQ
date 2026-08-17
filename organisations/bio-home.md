@@ -72,4 +72,4 @@ Third-party Retail Listing: https://www.fairprice.com.sg/brand/bio-home
 Third-party Coverage: https://greenkulture.sg/blogs/news/10-local-brands-championing-eco-friendly-cleaning-in-singapore
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

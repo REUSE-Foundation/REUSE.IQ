@@ -69,4 +69,4 @@ Registry/Company Data: https://firmenbuch.at/183090374/Amtlicher-Firmenbuchauszu
 Secondary/Aggregator (funding, unverified): https://tracxn.com/d/companies/aer/
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -47,4 +47,4 @@ A foundational global player whose Loop platform is one of the most prominent la
 ## Verification Notes
 2001 founding and founder name (Tom Szaky) well-corroborated; Loop launch (2019, WEF Davos) confirmed via WEF and Waste Dive coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

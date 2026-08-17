@@ -46,4 +46,4 @@ A documented first-mover in China's reusable takeaway container space with indep
 ## Verification Notes
 Company details primarily sourced from an independent peer-reviewed cost-benefit study rather than the company's own site (limited English-language coverage).
 
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

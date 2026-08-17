@@ -65,4 +65,4 @@ etee is a credible, founder-led Canadian example of reusable-product design subs
 - Founding year (2015) and founder (Steve Reble) confirmed via independent brand-feature coverage (Sustain Magazine); not specified in the seed.
 - Seed's expansion of the acronym ("Everything Touches Everything Else") was confirmed as accurate.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

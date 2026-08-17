@@ -70,4 +70,4 @@ Aleph Beauty is a small, values-led New Zealand cosmetics brand with a genuine, 
 - LinkedIn (Founder): https://nz.linkedin.com/in/emma-peters-0a0b5496
 
 ---
-Confidence — Name: High | Founding Year: Medium (2018 per press coverage; not stated on official "About" content reviewed) | Impact Data: Low (no quantified metrics found; refill-vs-recycle model itself is inconsistently described by the company) | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium (2018 per press coverage; not stated on official "About" content reviewed) | Impact Data: Low (no quantified metrics found; refill-vs-recycle model itself is inconsistently described by the company) | Last Verified: 2026-07-17 | Research Version: V5

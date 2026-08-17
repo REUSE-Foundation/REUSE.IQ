@@ -65,4 +65,4 @@ Coop is relevant as an example of a large, mainstream, cooperative-structured re
 Corrected the seed tracker's founding year of 1969 — verified sources place Coop's cooperative origins at 1864 (first Swiss consumer cooperative, Schwanden) and 1890 (formation of the Verband Schweizerischer Konsumvereine, the direct organisational predecessor of today's Coop). 1969 may refer to a later corporate restructuring or rebranding event not confirmed in sources accessed during this research pass — flagged for further verification rather than assumed. No specific bulk-refill-programme impact data was found.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

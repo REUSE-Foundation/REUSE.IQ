@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 CROSS-REFERENCE RESOLVED: Confirmed as ONE brand/company ("Uni") sold through multiple retail channels — direct-to-consumer via weareuni.com (which lists Space NK as an official "Authorized Retailer") and via premium retail partners including Space NK (UK), Ulta, MECCA, Credo, Amazon, and Goop. No evidence of two separate companies; this single unified profile replaces the separately seeded "Uni (Space NK brand)" and "Uni Refill System" entries. Founder/founding-year details were not available on either site in this research pass.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

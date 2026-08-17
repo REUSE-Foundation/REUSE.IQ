@@ -54,4 +54,4 @@ HACARI is a small, single-location independent retailer whose relevance to reuse
 ## Verification Notes
 Seed data (Japan, Instagram-only public presence, weight-based produce market with BYOC discounts) confirmed as broadly accurate; HACARI does have a website/online store (store.hacari.jp) in addition to Instagram, contrary to the seed's claim of Instagram being the only presence. Founding year and legal company details were not found in public sources — HACARI appears to be a small independent business without formal corporate disclosure. Founder identified as Yoshitaka Katayama across multiple Japanese consumer media sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

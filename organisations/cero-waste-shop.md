@@ -46,4 +46,4 @@ Not publicly available.
 Single primary source (the company's own site) confirmed as a genuinely live, active e-commerce store; no independent third-party press or directory coverage was found in this pass — recommend the Foundation search Spanish-language Colombian press directly for additional corroboration before finalizing confidence level.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

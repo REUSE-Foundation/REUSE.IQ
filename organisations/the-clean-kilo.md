@@ -46,4 +46,4 @@ A long-running, verifiably still-active zero-waste supermarket — solid, establ
 ## Verification Notes
 Seed flagged possible 2022 financial difficulties requiring verification — independently confirmed via UK Companies House that the company remains Active with accounts filed to August 2024; no evidence of closure or insolvency found.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -72,4 +72,4 @@ The Castile Soap Shop is confirmed to be a genuine refill-oriented business, not
 - Founding year, founders, and ownership structure could not be verified from any public source and are recorded as "Not publicly available."
 - No quantitative impact data (bottles refilled, plastic avoided) was found despite the refill program being well-documented qualitatively.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

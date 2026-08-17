@@ -67,4 +67,4 @@ HelloEco is a small, independent zero-waste retail pioneer in a market (Kazakhst
 - Year founded, legal ownership structure, and any partnership/impact data could not be verified from public sources and are marked accordingly rather than estimated.
 - Note: there is also an unrelated Kazakhstan-based consultancy "Hello Eco Consulting" (helloecoconsulting.kz) that surfaced in search results — this profile is specifically about the Almaty zero-waste retail shop (@helloecokz / helloeco.kz), not the consultancy.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

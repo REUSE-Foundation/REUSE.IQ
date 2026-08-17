@@ -46,4 +46,4 @@ A well-established Cape Town refillery with a distinctive B2B white-label extens
 ## Verification Notes
 Founding year approximated (~2019-2020) from a "5 years of refilling" social-media reference; exact date not stated on company site.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -71,4 +71,4 @@ Branch Basics is a well-documented, commercially significant US refill/concentra
 Seed data listed "Year Established (seed): 2015," which is only partially accurate: multiple independent sources (CNBC, Entrepreneur) confirm the company was actually founded in 2012, then deliberately shut down in December 2015 (the year that appears to have been captured in the seed data) over supplier formula-transparency concerns, before relaunching under its own proprietary formula in 2016–2017. This is flagged as a meaningful correction — the seed year reflects a pivot/relaunch point, not the true founding date. Seed data's "concentrate cleaning + refillable bottles" business description is confirmed accurate. Additional detail added: founders' full names, the 2022 Minneapolis HQ relocation, and the 2025 Target retail partnership.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

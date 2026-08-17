@@ -47,4 +47,4 @@ A well-documented refill brand with a genuine closed-loop pouch return system fo
 ## Verification Notes
 2022 founding and Nashville location confirmed via CBInsights company profile.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

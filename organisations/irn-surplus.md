@@ -77,4 +77,4 @@ Priority: ★★★ Medium
 Seed data described IRN Surplus as a non-profit ("Institution Recycling Network") doing institution surplus furniture/equipment matching — this is broadly corroborated. However, founding year is inconsistent across sources: LinkedIn-derived listings suggest 1999 as a recycling cooperative, while the organisation's own narrative describes its furniture-reuse operation beginning with a 2002 shipment from Boston College dorms. Formal 501(c)(3) nonprofit registration could not be independently confirmed (e.g., via IRS/GuideStar/Charity Navigator lookup) within the scope of this research; the organisation's nonprofit character is inferred from its charitable mission and public framing rather than confirmed registry data. All impact statistics are company-published (website/blog) rather than independently audited.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

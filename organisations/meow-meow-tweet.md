@@ -67,4 +67,4 @@ Meow Meow Tweet is a well-established (15+ year), B Corp-certified personal-care
 Founding year (2009) and founders (Jeff Kurosaki, Tara Pelletier) are well corroborated across multiple independent sources, confirming the seed tracker's stated year is correct (contrary to one alternate source suggesting 2013). The seed's "refillable deodorant" framing was not independently confirmed — verified sources describe compostable single-use paper packaging rather than a refill system; reclassified accordingly.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

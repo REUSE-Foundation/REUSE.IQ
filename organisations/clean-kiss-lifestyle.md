@@ -61,4 +61,4 @@ Clean Kiss Lifestyle appears to be a seed-data mismatch for this library: the se
 The seed tracker described this organisation as offering "zero-waste consumer goods with refill options," but the official website (the only source accessed in this pass) describes a small-batch skincare manufacturer with general "responsible packaging" messaging and no documented refill programme. This is flagged as a likely mismatch between the seed data and the actual organisation, similar to other cases found elsewhere in this research project (e.g. BioBox). Recommend re-verifying whether "Clean Kiss Lifestyle" was the intended organisation or whether the seed data was describing a different, similarly-named company.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

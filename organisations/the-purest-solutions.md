@@ -60,4 +60,4 @@ Priority: ★★ Low
 Founding year (2020) and founder names corroborated by search-aggregated brand coverage; refill product line ("Refill Eco Packs") confirmed via multiple retailer listings, but no dedicated eco/refill page was directly fetched to confirm scope.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -72,4 +72,4 @@ Company History: https://www.postbranche.de/2016/04/01/dpd-hat-geburtstag-vor-40
 Seed year (1976) and ownership (subsidiary of GeoPost/La Poste Group) confirmed accurate. Seed employee figure "50,000+" could not be confirmed for DPD Deutschland specifically — verified sources give DPD Deutschland roughly 8,000 domestic employees, with Geopost group-wide headcount cited variably (up to ~120,000 in one source); this appears to be a seed conflation of the German subsidiary with the wider international group, so the employee figure is flagged rather than repeated as fact. Per task instructions, this profile focuses specifically on the reusable-packaging (hey circle) pilot and clothing-donation activity rather than describing the whole logistics company.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

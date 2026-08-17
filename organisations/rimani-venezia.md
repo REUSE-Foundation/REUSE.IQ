@@ -59,4 +59,4 @@ Rimani is a genuine, verifiable independent packaging-free retail shop directly 
 Seed data listed "Rimani" (contact rimani.venezia@gmail.com, Mailchimp link referencing "rimani-venezia") and "Rimani Venezia" (Instagram/Facebook packaging-free bulk refill store) as two separate rows; both share the same contact email and Venice/"Venezia" identity and are confirmed via search to be the same single Castello-district shop, opened in 2020 by Lisa and Orsetta. Merged into this one profile per instructions. No dedicated standalone website was found; the shop's confirmed online presence is social media plus the Mailchimp contact link from the seed data.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

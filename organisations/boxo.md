@@ -74,4 +74,4 @@ BOXO is a small but distinctive Dutch reusable-packaging start-up notable for it
 Seed data (Netherlands, boxo.nu, reusable shipping packaging) is confirmed accurate. Substantial additional detail was found and added: the deposit-refund mechanism (€3.95 via Tikkie), the origin of the packaging material (repurposed FrieslandCampina dairy big bags), reuse-count claims (~500 uses), and the Maastricht drop-off rollout. Founding year and formal ownership/legal structure could not be confirmed from public sources despite attempts (an Inqubator Leeuwarden company profile page returned a 404), so these are recorded as "Not publicly available."
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

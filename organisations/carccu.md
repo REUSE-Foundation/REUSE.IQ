@@ -67,4 +67,4 @@ Carccu does not match the seed data's description as a "reusable take-away packa
 - Founding year is approximate/unconfirmed: sources describe the first printing press being assembled "in the 1980s" but also describe the business as roughly 50 years old (implying earlier origins, possibly under a different corporate structure or business line); could not resolve this precisely from public sources.
 - Given the significant divergence from the seed's "reusable" framing, recommend the REUSE Foundation review whether this organisation should remain in the reuse-focused library at all, or be reclassified/removed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

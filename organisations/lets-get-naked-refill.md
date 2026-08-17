@@ -65,4 +65,4 @@ Priority: ★★ Low (legitimate small-scale refill shop; limited public data, n
 Seed data's URL and general description (bulk food/cleaning refills, UK) were confirmed accurate. No exact founding year could be verified from any public source; business-support case studies imply a pandemic-era (2020/2021) start but do not state an exact date, so "Year Founded" is marked as not publicly available rather than estimated. Founder name (Jade Harvey) and family involvement (father Adi, of Westgate Street Deli) were corroborated across the official site and both business-support case studies. No partnership, impact-metric, or ownership-structure claims beyond what is stated above could be verified.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

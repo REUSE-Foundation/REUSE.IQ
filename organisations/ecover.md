@@ -69,4 +69,4 @@ Ecover is a long-established (1979), well-documented pioneer of ecological clean
 Seed data's founding year (1979) is confirmed. Seed stated Ecover "merged with Method 2019" — this is corrected: the commercial combination with Method occurred in 2012 ("People Against Dirty"), and the acquisition by SC Johnson (which now owns both brands) occurred in 2017, not 2019. Seed's description of "refill pouches" as a core current offering was not strongly corroborated; verified sourcing describes a historical "container refill service" available mainly through independent health-food/cooperative retail, which may or may not reflect Ecover's current retail footprint — this should be checked directly against Ecover's current website/retail partners if precision is required.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

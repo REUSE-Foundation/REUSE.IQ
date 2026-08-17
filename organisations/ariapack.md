@@ -65,4 +65,4 @@ The seed data described AriaPack as a "B2C reusable lunchboxes" company; direct 
 - Location was refined from a general "Turkey" (seed) to Ümraniye, Istanbul, per the site's contact page.
 - Primary Category changed from an implied "Reusable Packaging" (per seed) to "Other," since no reuse activity could be verified.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

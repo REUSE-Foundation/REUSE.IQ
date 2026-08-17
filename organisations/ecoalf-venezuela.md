@@ -62,4 +62,4 @@ This seed entry cannot be verified as a real, currently operating organisation. 
 
 The seed data explicitly flagged this as needing careful disambiguation from the Spanish fashion brand "Ecoalf." That caution proved warranted and then some: not only could no distinct Venezuelan entity be confirmed, the seed domain (ecoalf.com.ve) does not currently resolve at all, and no cached, archived, or secondary-source description of it was found. It is possible this was a short-lived, unlisted, or since-shuttered venture, a mislabelled reference to the Spanish brand's regional distribution, or an error in the original tracker. No conflation with the Spanish Ecoalf brand has been made in this profile — all its established facts (founded 2009, Javier Goyeneche, fashion/textiles focus) belong to that separate, unrelated company and are excluded here except for disambiguation purposes.
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

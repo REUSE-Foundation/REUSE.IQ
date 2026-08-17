@@ -59,4 +59,4 @@ Priority: ★★★★ High
 2018 founding date confirmed directly from site footer text ("Powering reuse since 2018").
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

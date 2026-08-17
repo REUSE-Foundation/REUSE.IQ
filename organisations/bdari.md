@@ -67,4 +67,4 @@ BDARI is a small Malaysian retailer whose core product — durable, reusable sta
 Seed data described BDARI simply as a "B2C reusable stainless steel tiffin carrier" business; this research adds the founding date (August 2020), the operating legal entity (AZ Homefix PLT, a Malaysian partnership/PLT structure, located in Puchong, Selangor), and clarifies that BDARI evolved from an earlier household-essentials business under the same operator. The claimed impact figures (90,000+ units sold, 52 million plastic bags saved) appeared only in aggregated search-engine summaries rather than a page this research could directly and fully verify with a primary source citation, so they are flagged as unverified company claims rather than confirmed metrics.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

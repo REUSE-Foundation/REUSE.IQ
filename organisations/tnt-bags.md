@@ -45,4 +45,4 @@ A straightforward reusable-bag manufacturer displacing single-use plastic bags; 
 ## Verification Notes
 Product description and material (non-woven/TNT fabric) confirmed via official site and related Unibag Perú listing; founding year and detailed company history not found.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

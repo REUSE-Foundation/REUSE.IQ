@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year (2019) and mall locations confirmed via secondary lifestyle-press coverage; buy-back/reward program confirmed via same sources.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

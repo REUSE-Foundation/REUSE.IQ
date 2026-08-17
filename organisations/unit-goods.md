@@ -43,4 +43,4 @@ Not publicly available.
 ## Verification Notes
 Web search for "Unit Goods Finland refillable food store" returned no matching results; seed also flagged the website as possibly down. Could not confirm this organisation exists as described within the lean research scope of this pass.
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

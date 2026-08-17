@@ -68,4 +68,4 @@ iKasa is a well-documented, multi-city sharing-economy reuse service with substa
 Founding year (2018) is well-corroborated across multiple independent sources. Membership and location figures are company-reported/press-reported rather than independently audited, giving Medium rather than High confidence for those specific numbers.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

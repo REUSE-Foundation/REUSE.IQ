@@ -63,4 +63,4 @@ BAK Packaging is a conventional flexible-packaging manufacturer whose resealable
 The seed data noted the URL was unknown ("search for the actual URL"); this is resolved — the official site is https://bakpackaging.com/. Founding year (2019) and Lahore headquarters were not in the seed data and are added here from the company's own website. The seed data's framing of BAK's focus as "B2B reusable/resealable pouches" is only partially supported: the company's own materials describe general flexible-packaging manufacturing with resealable formats among its offerings, not a company built specifically around reuse; this distinction is reflected in the Circular Economy Activities and Business Model sections above. Public source availability for this company is sparse — beyond its own website, no independent news coverage, directory listings with substantive detail, or industry-report mentions were found in this research pass.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

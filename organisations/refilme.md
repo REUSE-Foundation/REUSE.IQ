@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 Founding date not disclosed on site; business model and named clients confirmed via homepage content.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

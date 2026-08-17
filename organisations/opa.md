@@ -46,4 +46,4 @@ OPA demonstrated a workable reusable-packaging delivery model but ceased Israel 
 ## Verification Notes
 Confirmed operations halted in Israel as of April 1, 2024; current website/active status not publicly available. Status field updated from seed (no status given) to reflect this.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

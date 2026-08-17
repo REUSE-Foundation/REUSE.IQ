@@ -62,4 +62,4 @@ Priority: ★★★ Medium
 No major discrepancies versus seed data; "plastic-free floss" claim strongly corroborated with multiple specific refillable floss products.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

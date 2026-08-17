@@ -58,4 +58,4 @@ Pneedles is a novel, small-scale example of industrial plastic-waste upcycling i
 Founder name and business origin (Ankara footwear pivot) corroborated between the company site and an independent profile article; founding year not found.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

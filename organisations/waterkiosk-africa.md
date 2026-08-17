@@ -58,4 +58,4 @@ WaterKiosk Africa is a well-documented water-access and refill infrastructure op
 - Partnerships (GIZ, UNIDO, Boreal Light GmbH, Kenya Water Institute) and SDG alignment confirmed directly from the official site.
 - Founding year not disclosed on the site; impact figures (CO2, employment) are qualitative claims without published quantitative backing.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

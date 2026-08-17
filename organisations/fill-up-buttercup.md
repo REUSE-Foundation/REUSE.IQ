@@ -51,4 +51,4 @@ Fill Up Buttercup is a genuine, verifiable small independent refill-shop busines
 ## Verification Notes
 Seed did not specify a founding year; verified as August 2020, founded by Jamie Lake with business partner Kristina Guccione (seed said "consumer products" generically — confirmed the business is centred on a physical refill shop plus online store, not purely an online consumer-goods brand).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

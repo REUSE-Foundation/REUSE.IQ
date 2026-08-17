@@ -59,4 +59,4 @@ Pimpant's dilute-at-home powder format is a distinctive, low-logistics-footprint
 Founding year (2020) and founder names corroborated by brand/retail partner descriptions; no independent corporate registry check performed.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

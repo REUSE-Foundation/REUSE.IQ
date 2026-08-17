@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 Founding year could not be confirmed from the website; store locations and product range verified directly.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

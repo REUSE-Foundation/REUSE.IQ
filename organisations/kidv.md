@@ -63,4 +63,4 @@ KidV/Verpact is a relevant Dutch knowledge-institute resource for packaging sust
 Significant finding: the organisation rebranded from "KidV" to "Verpact" in November 2025, per the organisation's own website content accessed during this research pass — the seed tracker's "KidV" name is now outdated. No founding year or partnership details were found in the source accessed; recommend further verification via the Verpact site directly for current details.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

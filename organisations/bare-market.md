@@ -69,4 +69,4 @@ bare market is a small, founder-led Canadian reuse retailer with a genuine multi
 Seed data described bare market only as a Canadian bulk food/body care/home goods retailer in "upcycled containers"; this research confirms the core refill/BYOC and reusable-container-lending model but did not find evidence the company markets itself around "upcycled containers" specifically — its own materials emphasize refill and bring-your-own-container practices. A significant update not reflected in the seed data: the physical Toronto storefront (opened January 2020) closed permanently on May 19, 2024, and the business now operates online-only via delivery and small partner businesses. Founding year (2018, as pop-up concept) and the 2020 permanent-store opening date come from press coverage, not the seed data. No quantitative impact figures were found, so Measurable Impact is marked "Not publicly available."
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

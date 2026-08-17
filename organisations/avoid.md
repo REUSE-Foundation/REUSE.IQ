@@ -66,4 +66,4 @@ AVOID is a genuine, verifiable B2B refill-infrastructure startup addressing a re
 The seed data's description ("B2B refill infrastructure and circular design for retailers") is confirmed as accurate and consistent with verified sources. The company's own website (avoid.net.br) repeatedly returned a connection error during this research pass and could not be fully reviewed; the profile above relies primarily on the company's LinkedIn page, which independently corroborates the country, founding year, and business model. No founding-year discrepancy was found versus the seed data (seed data did not specify a year).
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

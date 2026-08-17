@@ -1,5 +1,5 @@
 """Computes frequency statistics (tags, ownership, country, technology signals, partnerships,
-etc.) across the full REUSE_V4_Master.csv dataset — the evidence base behind
+etc.) across the full REUSE_V5_Master.csv dataset — the evidence base behind
 analysis/feature_analysis.json. Free to re-run as the dataset grows; prints to stdout only,
 does not write any file. Re-run this periodically (per the Feature Analysis prompt's own
 usage instructions) and update analysis/feature_analysis.json by hand if the patterns shift."""
@@ -10,7 +10,7 @@ import re
 from collections import Counter, defaultdict
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CSV_PATH = os.path.join(REPO_ROOT, "data", "REUSE_V4_Master.csv")
+CSV_PATH = os.path.join(REPO_ROOT, "data", "REUSE_V5_Master.csv")
 
 with open(CSV_PATH, encoding="utf-8") as f:
     rows = list(csv.DictReader(f))

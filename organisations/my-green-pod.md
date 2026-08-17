@@ -58,4 +58,4 @@ Priority: ★★★ Medium
 
 Founding year (2013) and founders corroborated on the site's About Us page.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

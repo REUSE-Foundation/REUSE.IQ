@@ -63,4 +63,4 @@ Muji is a major global retailer with a genuine but limited (flagship-store-only)
 1980 founding well-corroborated; refill-station specifics not independently confirmed beyond general knowledge of flagship-store features.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

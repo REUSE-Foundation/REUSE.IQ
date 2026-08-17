@@ -46,4 +46,4 @@ A clear, on-the-ground refill retailer tackling the Philippines' sachet-waste cr
 ## Verification Notes
 Location, product range and "tingi" concept confirmed via official site and Manila Bulletin coverage; exact founding date not found.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

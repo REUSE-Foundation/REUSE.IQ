@@ -58,4 +58,4 @@ Priority: ★★ Low
 
 Could not verify an official founding year; domain registration date (2010) is a weak proxy and not stated as the company's founding year, so left as Not publicly available. Bio-composite/compostable focus (not reuse) confirmed via award history and product descriptions.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

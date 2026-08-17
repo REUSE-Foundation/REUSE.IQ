@@ -47,4 +47,4 @@ Plans (as of Apr 2025 grant announcement) to establish 14 refill-enabled stores 
 Substantially enriched vs. my original single-source candidate entry: 6 independent trade/press sources (Engineering News, Lifestyle & Tech, Bizcommunity, Sustainability MEA, Packaging Europe, and the company's own site) corroborate named CEO (Nevo Hadas) and COO (Marc Wetselaar), specific named retail partners (Unilever, SPAR, UKRI), and a very recent (March 2026) open-sourcing initiative. Precise founding year could not be confirmed — only an approximate inference from a 'four years of R&D' reference. Impact metrics are forward-looking plans/targets from an April 2025 grant announcement rather than achieved, audited results.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

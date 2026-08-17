@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year corrected from seed's 2019 to 2018 based on UK Companies House incorporation date (11 May 2018); original founder has since stepped back, with a new "ReFounders" team since 2023.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

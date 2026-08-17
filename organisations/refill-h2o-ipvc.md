@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 This is an institutional research pilot rather than a company; "Ownership" and "Status" fields reflect its public-sector, project-based nature rather than a corporate structure.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

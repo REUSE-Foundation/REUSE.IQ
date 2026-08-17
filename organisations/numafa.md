@@ -45,4 +45,4 @@ Priority: ★★★★ High
 ## Verification Notes
 "40+ years" of operation confirmed via official site; precise founding year and detailed impact metrics not located in available sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -55,4 +55,4 @@ Guppyfriend is a narrowly scoped but genuinely impactful reuse/waste-reduction p
 ## Verification Notes
 Legal entity confirmed as Guppyfriend GmbH, Berlin, founded 2016 by Oliver Spies and Alexander Nolte (per Tracxn/Crunchbase business-data sources). Seed year (2016) corroborated. No detailed corporate registry/ownership percentage details were found in public sources reviewed.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

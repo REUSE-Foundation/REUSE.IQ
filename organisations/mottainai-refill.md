@@ -62,4 +62,4 @@ Small grassroots Colombian refill startup with genuine reuse mechanism (pay-by-w
 No dedicated website found; no founding year or impact data available.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

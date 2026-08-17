@@ -49,4 +49,4 @@ Cites context that big Vietnamese cities (Ho Chi Minh City, Hanoi) generate up t
 Corroborated across 2 independent sources (Vietnam Circular Economy showcase feature and the company's own detailed About Us page) describing a genuine, distinctive B2B/B2C delivery-based refill model — a good fit for your Packaging-as-a-Service priority gap. Company founding year and a clearly named CEO/founder could not be confirmed; the About Us page names team members by role/background but does not clearly designate a single founder, which may reflect a co-founded or team-led structure rather than a gap in research.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

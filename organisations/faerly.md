@@ -85,4 +85,4 @@ Faerly is primarily a curated sustainable-living e-commerce retailer rather than
 - Professional Network: https://ie.linkedin.com/company/thisisfaerly
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

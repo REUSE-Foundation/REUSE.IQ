@@ -61,4 +61,4 @@ Kinkō's core sustainability angle is ingredient/formulation-based (aluminium-fr
 The seed tracker's official name "KinkoCare" does not match the brand's actual name, which is "Kinkō" per its own website. No refill or reusable-packaging feature was found on the official site content accessed — recommend re-verifying whether this organisation was intended for a reuse-focused library, or whether the seed data conflated it with a different, packaging-reuse-focused brand.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

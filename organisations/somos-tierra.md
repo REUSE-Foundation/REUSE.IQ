@@ -45,4 +45,4 @@ An early Mexican solid-cosmetics pioneer with waste-avoidance intent via solid f
 ## Verification Notes
 Founding year approximate (~2015 origin, first market appearance August 2016) per company "Historia" page.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

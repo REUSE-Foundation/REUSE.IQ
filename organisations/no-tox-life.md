@@ -45,4 +45,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Country corrected from seed's ambiguous "UK/US" to confirmed US (Austin, TX) headquarters; founding year not located in available sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

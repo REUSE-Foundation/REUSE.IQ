@@ -45,4 +45,4 @@ OMO is a large conventional detergent brand; the seed claim of "laundry refills 
 ## Verification Notes
 Could not confirm the seed claim of "refills at dispensers" in Turkey; found only recycled-content packaging and concentrated-formula initiatives. Category/assessment adjusted accordingly.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -46,4 +46,4 @@ A well-documented, award-winning refillable cleaning brand operating across two 
 ## Verification Notes
 Seed data listed "Spruce" (UK) and "Spruce Refill" (US) as separate entries sharing the identical website (wearespruce.co) and contact — confirmed as the same brand selling into both markets and merged into one profile.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

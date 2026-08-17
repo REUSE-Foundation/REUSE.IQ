@@ -46,4 +46,4 @@ Priority: ★★ Low
 ## Verification Notes
 Seed description ("zero-waste shops") only partly confirmed; official site emphasises organic sourcing plus packaging reuse/waste minimisation, not a dedicated zero-waste retail format. Founder identified as Gülten Şen.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

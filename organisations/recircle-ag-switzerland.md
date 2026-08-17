@@ -47,4 +47,4 @@ Priority: ★★★★★ Essential
 ## Verification Notes
 reCIRCLE AG is the Swiss parent/originating entity of the reCIRCLE brand, operating alongside reCIRCLE Denmark (national market entered 2021) and reCIRCLE Ireland (licensed by VOICE Ireland for a UCC campus pilot). Founding year (2016), founder (Jeannette Morath), and Coop partnership (2019) confirmed via reCIRCLE's own press materials.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

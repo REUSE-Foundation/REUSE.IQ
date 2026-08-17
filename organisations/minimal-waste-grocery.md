@@ -62,4 +62,4 @@ Small, credible Irish zero-waste delivery service with organic certification and
 Founding year and founders confirmed via official site; no impact metrics found.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

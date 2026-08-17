@@ -64,4 +64,4 @@ Priority: ★★★ Medium
 
 Founding year, founder identity, and ownership structure not disclosed on the official site or in available press; marked "Not publicly available" rather than estimated. Refill station location (Let's Glow Aesthetics, Las Piñas) independently confirmed across multiple Lana product pages.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

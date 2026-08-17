@@ -63,4 +63,4 @@ Company Website (unverified due to access error): https://www.dispoplastik.com
 Significant discrepancy from seed data: seed described Dispo Plastik as a "B2B reusable plastic plates/microwave-safe containers" manufacturer. Verified public sources (Netetrade listing, Europages directory, general search results) consistently describe the company's core products as **disposable/single-use** plastic tableware (plates, cups, cutlery, food containers, trays), not reusable products. Direct fetch of dispoplastik.com failed repeatedly due to a TLS certificate hostname mismatch (www vs. root domain), so company self-description could not be directly verified — this profile relies on third-party marketplace/directory descriptions. Founding year (2017) appears only in an unverified aggregated search summary and is not confirmed by a primary source, so it is treated as unverified here.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

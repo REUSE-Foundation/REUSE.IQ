@@ -69,4 +69,4 @@ Priority: ★★★★ High
 Founding narrative (concept in 2013, first store opened 2015) and founders (Eunice Maia and husband) corroborated by the official "About" page; the 2015 PÚBLICO feature article is consistent with an early store-opening timeframe. The "1 million plastic bags diverted" figure is a company-reported claim without an independent audit source identified.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

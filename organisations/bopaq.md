@@ -50,4 +50,4 @@ Over 2.4 million reusable containers processed since 2021 launch (as of March 20
 IMPORTANT UPDATE vs. my original candidate entry: this research pass uncovered that Bopaq (now trading as 'Bo') was acquired in May 2026 by Tricentris Coop after nearly folding in late 2024 due to a suspended Quebec funding program. This is a materially different ownership status than my original 'Medium confidence, single trade-press profile' entry reflected. Well-corroborated across 6 independent sources (BetaKit x2, PlasticsToday, GlobalNews, LiveYourPotential, Groupe 3737) with consistent founder name and a very recent, specific acquisition story. Recommend REUSE Foundation record this as 'Active — acquired subsidiary of Tricentris Coop' rather than an independent startup, and verify whether bopaq.com now redirects to a Tricentris-branded page.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: High | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -62,4 +62,4 @@ Priority: ★★★ Medium
 Seed data described a broader "clothes/electronics exchange platform" scope; verified sources describe the business as fashion/clothing-only (no electronics exchange found in any source) — flagged as a likely correction/narrowing of scope.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

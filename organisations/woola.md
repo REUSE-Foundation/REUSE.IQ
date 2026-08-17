@@ -60,4 +60,4 @@ Priority: ★★★★ High
 Seed data listed Year Established as 2018; verified sources (EU-Startups, Packaging Insights, Estonian World) consistently place founding at late 2019/2020, not 2018 — corrected here. Founding year is presented as a range because sources differ on late-2019 vs. 2020 as the operative date.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

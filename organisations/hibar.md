@@ -66,4 +66,4 @@ Priority: ★★★ Medium
 Seed founding year (2018) confirmed via multiple independent sources. HQ confirmed as Saint Paul, Minnesota (seed did not specify location). Direct website fetch (hellohibar.com) returned HTTP 403; information instead drawn from search-result summaries and the CB Insights company profile. Impact figures (9.5M bottles, 2M gallons water) are company self-reported and undated; treated as unverified marketing claims rather than confirmed metrics. No B Corp certification could be confirmed.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

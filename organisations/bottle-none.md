@@ -69,4 +69,4 @@ Bottle None is a small Canadian personal-care brand with a genuinely distinctive
 Seed data (Canada, bottlenone.ca, zero-waste haircare with 3D-printed recycled material travel cases) is confirmed accurate, with the manufacturing location further pinpointed to Kelowna, BC. Precise founding year could not be verified — the company's own marketing states "over a decade" of formulating products, which is not precise enough to confirm a specific year, so this is recorded as "Not publicly available" rather than estimated.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

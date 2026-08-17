@@ -68,4 +68,4 @@ Priority: ★★★ Medium
 Seed data described Matterpieces as providing "reusable construction components (scaffolding/façade systems)"; this could not be verified and is corrected here — verified public sources consistently describe Matterpieces as a construction/demolition-waste-to-cladding materials company (material recovery/upcycling), based in Porto, founded 2021, not a scaffolding or façade-system reuse provider. HQ city (Porto) and founding year (2021) are corroborated across multiple independent sources (PitchBook profile references, Oeiras Campus accelerator announcement, Tocco feature).
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

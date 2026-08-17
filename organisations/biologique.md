@@ -66,4 +66,4 @@ Biologique is a small, founder-led South African refill-model cleaning brand wit
 
 Seed data's description ("toxin-free concentrate cleaners + reusable refill bottles") is confirmed accurate based on the official site. Founding year was not present in seed data and could not be verified from any source found — the About page describes an origin story but omits a specific year; marked "Not publicly available." Founder identity is likewise undisclosed on the official site and could not be independently confirmed, so it is omitted rather than guessed. No independent press or registry sources were found discussing this company, which is consistent with it being a small, low-visibility online retailer.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

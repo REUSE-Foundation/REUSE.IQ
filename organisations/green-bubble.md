@@ -73,4 +73,4 @@ Priority: ★★★ Medium
 Seed data described Green Bubble as a "reused bubble-wrap/foam roll B2B supply" operation in Ireland — corroborated, though the company also serves individual/consumer customers (home movers, artwork shippers), not exclusively B2B. Founder identified as Peter Gregory via Newstalk podcast coverage and a Facebook post naming him "founder of Green Bubble and Repak Green Business Person of the Month." No specific company founding/incorporation year could be verified in any source reviewed, including the company's own "Our Story"/"About" pages, which returned 404 errors during this research pass — recommend a follow-up check once those pages are accessible.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

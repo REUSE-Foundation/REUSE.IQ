@@ -46,4 +46,4 @@ Not publicly available.
 No new information found beyond my original 2021-dated candidate entry in this second pass - could not confirm whether Re-Vita ever launched or is still operating. Given the pattern of several similar Canadian reusable-container startups found to have since closed (see Ekko in this dataset), recommend the Foundation treat this as an unconfirmed/uncertain lead pending direct verification.
 
 ---
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

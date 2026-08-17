@@ -78,4 +78,4 @@ Company Profile: https://www.linkedin.com/company/fillaree
 - Impact figures (trash produced, subscriber counts, bottles-saved projection) are self-reported by the company or its founder in press interviews, not independently audited — flagged accordingly.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

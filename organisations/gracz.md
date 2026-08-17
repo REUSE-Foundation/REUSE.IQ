@@ -70,4 +70,4 @@ Gracz is a compostable single-use foodware manufacturer, not a reuse business �
 - The gracz.my website was found in an "under maintenance" state at time of research, limiting primary-source verification of current operations.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

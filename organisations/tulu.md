@@ -47,4 +47,4 @@ A well-funded ($42M+ raised), rapidly-scaling sharing-economy platform directly 
 ## Verification Notes
 Founding year (2018), founder names, MIT DesignX origin and scale figures (500+ buildings, 60+ cities) confirmed via official site and NoCamels coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

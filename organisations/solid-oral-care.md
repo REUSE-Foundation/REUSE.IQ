@@ -46,4 +46,4 @@ A well-documented, quantified glass take-back and reuse loop for a everyday prod
 ## Verification Notes
 No founding year found in public sources; founder name and reuse-rate statistic confirmed via company site.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

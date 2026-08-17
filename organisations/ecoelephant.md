@@ -68,4 +68,4 @@ Ecoelephant is a credible, multi-year-established (since 2018) South African zer
 
 Seed description ("online/wholesale zero-waste store with refillable eco-products") is broadly accurate; the site's own catalogue emphasises reusable durable-goods retail (bags, bamboo toothbrushes, lunch boxes) more than an in-store liquid/powder refill-dispensing system — "refillable" in seed data appears to refer to the general zero-waste/reusables category rather than a literal refill station model. Founding year (2018) and founder (Tina Beyer) independently confirmed via the official website; no additional independent secondary source (press, registry) was located to further corroborate beyond the company's own site, so confidence in wider details remains moderate.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

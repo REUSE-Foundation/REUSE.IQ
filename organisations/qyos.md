@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year (2020) and Enviu Zero Waste Living Lab origin confirmed via Enviu's own venture page. Current site shows "QYOS by Algramo" branding, suggesting a partnership or acquisition-style integration with Algramo not detailed in seed data.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

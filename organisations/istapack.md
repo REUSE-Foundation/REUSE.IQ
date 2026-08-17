@@ -63,4 +63,4 @@ Priority: ★★ Low
 Seed data described IstaPack as "B2B sustainable cotton tote bags" — this is only partly corroborated; the company's own site emphasizes luxury paper bags and rigid packaging boxes as significant product lines alongside cotton bags, suggesting the seed description may overstate the centrality of cotton totes to the business. Founding year (2005) is sourced only from the company's own website/aggregator listings, not from an independent Turkish company registry, so confidence is moderate-to-low. No independent measurable impact data, named partnerships, or nonprofit/ownership registry detail could be found.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -59,4 +59,4 @@ Reuzi is a verifiable, founder-led Irish zero-waste retailer combining refill re
 Seed founding year (2016) corrected to 2018 based on reuzi's own "Our Story" page, which states the business was "born on May 4, 2018." No impact metrics or named partnerships were found in available sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

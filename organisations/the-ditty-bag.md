@@ -46,4 +46,4 @@ A well-documented independent zero-waste market/café with a clear founder narra
 ## Verification Notes
 2021 opening and founder name (Jason Hine) confirmed via Edible CT East feature and founder's own Substack blog.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -66,4 +66,4 @@ CP Group is a massive diversified conglomerate for which circular-economy/reuse 
 CP Group's founding year is widely cited elsewhere as 1921 but was not independently verified from a primary source in this research pass — marked accordingly. The Mitsubishi Electric partnership is confirmed via multiple independent press sources (Bangkok Post, Business Wire, Mitsubishi Electric's own press release) but is explicitly framed by both companies as an MOU/collaboration-intent announcement, not a report of completed circular-economy outcomes — no impact metrics exist yet by definition.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -51,4 +51,4 @@ Faith In Nature is a strong candidate for the knowledge library on two fronts: a
 ## Verification Notes
 Seed year (1974) confirmed as brand founding by Rivka Rose; added that the registered company (SC068493) was formally incorporated in 1979, five years later — worth distinguishing "brand founded" vs "company incorporated." Confirmed the 2022 "nature on the board" governance story as directly relevant and verified via multiple sources, as the seed note suggested checking. Employee count (~102) sourced from business registry data of unspecified date.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

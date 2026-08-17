@@ -59,4 +59,4 @@ Plaine Products is an early and well-documented US example of a bottle-return re
 Founding year (2017), founders, and B Corp status corroborated across multiple independent sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

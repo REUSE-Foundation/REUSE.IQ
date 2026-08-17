@@ -47,4 +47,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding/pilot year (2017, Orange Warsaw Festival) and business model confirmed via company site and Sustainability Guide profile.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

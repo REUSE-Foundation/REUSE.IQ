@@ -47,4 +47,4 @@ A well-documented, funded pilot directly testing deposit-return and reusable-con
 ## Verification Notes
 No founding year found for Searious Business itself; MOSSUP project details well-corroborated across multiple trade press sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

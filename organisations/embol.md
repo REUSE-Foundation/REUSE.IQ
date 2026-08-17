@@ -67,4 +67,4 @@ Embol is a significant, large-scale example of a returnable-bottle system operat
 - The seed's specific "90%+ return rate" claim could NOT be verified in any source found; the only quantified figures located concern reuse-cycle counts (up to ~20x glass, ~12x PET), not a return-rate percentage. This claim should be flagged as unverified/possibly conflated with a different market's statistic (e.g., Coca-Cola Brazil, Germany or another returnables program) until a primary source is located.
 - Founding year (1995) and company full name were not in the seed and were added from research; treated as reasonably well corroborated (multiple secondary Bolivian business sources) but not from a single authoritative primary source (e.g., company registry), so Medium confidence.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -70,4 +70,4 @@ Good-Practice Recognition Coverage: https://www.cevremuhendisligi.org/index.php/
 Seed URL corrected: seed listed "https://kadikoydukkan.kadikoy.bel.tr" which does not match verified working domain; the correct official site is https://dukkan.kadikoy.bel.tr/. Confirmed municipal ownership (Kadıköy Belediyesi) and added founding date (5 June 2020) and second-location detail (2022, Caddebostan Kültür Merkezi/CKM) not present in seed data.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

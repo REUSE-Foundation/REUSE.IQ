@@ -69,4 +69,4 @@ Crowdfunding Campaign: https://polakpotrafi.pl/projekt/drugi-sklep-kooperatywy-d
 Founding date recorded with some variation across sources: cooperative/association established July 2013; first physical shop opened 2014 (Andersa location per one source, later described as relocated in 2021); second shop opened 2016. "Year Founded" above reflects the 2013 association establishment, which is the earliest verifiable formal founding date, with the caveat that public-facing retail activity began in 2014.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

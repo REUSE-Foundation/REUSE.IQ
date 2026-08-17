@@ -59,4 +59,4 @@ RingKarp is a verifiable, nationwide deposit-return reusable-packaging system wi
 Direct WebFetch of en.ringkarp.ee failed (DNS resolution error); details drawn from independent search sources instead. Founding year (2021) and operating entity (Ökopere OÜ) confirmed via Estonian-language sources (Digitark/Telia). Confirmed as a distinct company from Ringo Eco OÜ, a separate Estonian reusable-packaging operator with a different (centralised) collection model.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

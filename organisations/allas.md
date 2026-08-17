@@ -86,4 +86,4 @@ Priority: ★★★ Medium
 The seed data's LinkedIn URL (linkedin.com/company/allas-returnable) is confirmed as a real, live profile, but Allas's actual/primary official website is allas.id (not the LinkedIn page), and its fullest official description lives on Enviu's Zero Waste Living Lab program pages rather than on a fully independent corporate site — Allas appears to function as a program venture rather than a separately incorporated company, which should be reflected in how it is categorised (e.g., as an NGO-incubated venture rather than a private business service provider in the strictest sense). No precise founding/launch year was found in verified sources; Zero Waste Living Lab itself launched in 2019, and Allas is one of several ventures developed under that program, but the exact date Allas specifically launched was not confirmed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

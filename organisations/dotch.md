@@ -74,4 +74,4 @@ Investor Database: https://app.dealroom.co/companies/dotch
 Seed data confirmed largely accurate. Founding year (2022) and Berlin HQ added/verified from Dealroom and Humboldt Innovation startup-portfolio profiles. Clarified that the reuse system applies broadly to prepackaged oils/vinegars/preserves/sauces, not solely "cooking-oil packaging" as seed description implied — Bio Planète (olive oil) is the flagship named partner.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

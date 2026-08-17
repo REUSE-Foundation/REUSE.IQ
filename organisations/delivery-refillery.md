@@ -65,4 +65,4 @@ Delivery Refillery represents a relevant micro-trend within the reuse space: tak
 Direct access to deliveryrefillery.com failed during this research pass (DNS resolution error), so details are drawn from search-result snippets rather than a full site review — recommend re-verification once the site is accessible. No founding year, specific product range, or delivery-area details were confirmed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

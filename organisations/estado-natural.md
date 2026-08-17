@@ -66,4 +66,4 @@ Estado Natural is a genuine multi-city bulk-retail chain operating since 2017, d
 - Founding year (2017, first store in Roma Norte) confirmed via the company's own official history page and independent lifestyle press (Time Out Mexico, Sabores Mexico Food Tours); this was not specified in the seed.
 - No independent (non-lifestyle-press) sourcing on ownership structure, founders' names, or quantitative impact was found; profile therefore relies primarily on company-published information.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

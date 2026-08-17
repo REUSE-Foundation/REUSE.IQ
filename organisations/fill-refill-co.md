@@ -53,4 +53,4 @@ Fill Refill Co is a strong, verifiable small-scale UK example of a genuine close
 ## Verification Notes
 This profile draws directly on a previously fully-researched, high-confidence entry for this exact company found in the project's reference file (`/Users/martyb/Downloads/reuse_foundation_20_orgs(20 Organisations).csv`), cross-checked against official sources. Key distinction preserved from that research: "incorporated" (2018) vs "closed-loop system launched" (2020) are different milestones and should not be conflated. Impact claims are self-reported (LinkedIn), not independently audited. Instagram handle could not be verified in either this research or the reference file.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

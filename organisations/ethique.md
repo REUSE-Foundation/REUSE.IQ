@@ -52,4 +52,4 @@ Ethique is a well-documented, globally-distributed example of packaging eliminat
 ## Verification Notes
 Seed year (2012) confirmed. Seed did not mention that Ethique is majority-owned by US firm Bansk Group since 2020 (75% stake) — added as material correction/addition, since this affects "Ownership" characterisation as a purely NZ independent company. Impact metric (11 million containers) is self-reported and undated; treat as directional, not audited.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

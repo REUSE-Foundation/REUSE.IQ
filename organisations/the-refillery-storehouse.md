@@ -61,4 +61,4 @@ Priority: ★★ Low
 CORRECTION — seed data listed country as "Canada" and name as "The Refillary Storehouse"; verified official name is "The Refillery Storehouse, LLC" (registered in New York State), physically located in Poughkeepsie, NY, USA, not Canada. Per task instructions: this business is confirmed operationally and geographically distinct from the UK-based "The Refillery" (therefillery.co.uk) — different country, different entity, similar name only.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

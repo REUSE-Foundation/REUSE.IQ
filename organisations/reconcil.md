@@ -47,4 +47,4 @@ Not publicly available.
 Corroborated across 2 independent directory/analyst sources (Takagreen, CBInsights) with a consistent, specific description of the deposit-based reusable-packaging model and a specific Paris address. Founding year, founder name(s), and impact metrics could not be found in this pass — recommend the Foundation search French-language press (Les Echos, Maddyness) directly, as this appears to be a real but under-covered player in a crowded French reusable-packaging market alongside Bibak/La Consigne GreenGo and Pyxo (also noted: Pyxo is a direct competitor already researched in this dataset and flagged as possibly defunct/asset-sold, while Bibak appears to be a larger, better-funded competitor not yet in this dataset).
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

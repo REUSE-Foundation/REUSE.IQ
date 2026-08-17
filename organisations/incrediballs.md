@@ -65,4 +65,4 @@ Priority rating: ★★ Low
 
 Seed data's instruction to "assess if genuinely reuse-relevant" is warranted: Incrediballs is a waste-avoidance/product-substitution innovation (no bottle needed at all) rather than a reuse system, and has been categorized and rated accordingly. Precise founding/incorporation date could not be pinned down exactly — public sources place the announcement in 2023 and product launch in 2024–2025; treat the "Year Founded" field as approximate.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

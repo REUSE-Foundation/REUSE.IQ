@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Seed name "Oakland Farms" corrected to "Oaklands Farm"/"Oaklands Milk" per official site; farm history (since 1842) confirmed via official "Our History" page, but the specific launch date of the glass-bottle vending/swap system was not located.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

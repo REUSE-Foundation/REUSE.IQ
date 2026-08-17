@@ -66,4 +66,4 @@ Izzy Zero Waste Beauty is a notable example of a founder-led attempt to bring ge
 Exact company founding/launch year was not confirmed — product development is documented as beginning in 2019 (per the founder origin story), but the formal company launch date was not independently verified in sources accessed. Founders (Shannon Goldberg, Chris Tarling) and their professional backgrounds are well corroborated across multiple sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

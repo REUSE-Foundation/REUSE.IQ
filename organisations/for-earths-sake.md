@@ -82,4 +82,4 @@ Social Media: https://www.facebook.com/forearthssakeuk
 Social Media: https://www.instagram.com/forearthssakeuk
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

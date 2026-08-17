@@ -45,4 +45,4 @@ A sustainability-minded sunscreen brand with reusable packaging, though its refi
 ## Verification Notes
 2019 founding and founder name confirmed via NZ Herald feature.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

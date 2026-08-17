@@ -68,4 +68,4 @@ Circular Brain is a relevant example of digital infrastructure enabling circular
 All data in this profile comes from a single source (the official website), as this was the only source directly accessed in this research pass — recommend independent verification of the 2024 impact figures via press coverage or a published impact report before treating them as fully confirmed. Founding year (2022) is inferred from the site's copyright notice rather than a company-registration record.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

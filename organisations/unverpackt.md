@@ -46,4 +46,4 @@ Priority: ★★★★★ Essential
 ## Verification Notes
 Seed year (2014) and description (original German zero-waste shop concept) confirmed by multiple independent sources.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

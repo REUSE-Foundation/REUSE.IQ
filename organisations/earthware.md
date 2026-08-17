@@ -64,4 +64,4 @@ Earthware sells compostable single-use tableware rather than reusable or refilla
 Seed description (compostable palm-leaf tableware from fallen areca palm leaves, South Africa) confirmed accurate. Founding year, founders and ownership could not be verified from official site or search results — recorded as "Not publicly available" rather than estimated. Note a similarly named but distinct company "ArecaWare" (arecaware.co.za / arecaware.com) also sells areca palm leaf products in South Africa; care was taken not to conflate the two.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

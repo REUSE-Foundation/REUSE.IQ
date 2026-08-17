@@ -67,4 +67,4 @@ Biotherm/L'Oréal's Blue Fountain is a technologically interesting refill pilot 
 
 CORRECTED per seed data's own flagged concern: Biotherm is confirmed to be a French-founded brand (Molitg-les-Bains, Pyrénées-Orientales, 1952), not Spanish — the biotherm.es domain is a Spanish-market localisation of the global L'Oréal Luxe brand, not the company's headquarters or origin. Country/HQ field updated to France accordingly. Founding year 1952 confirmed. Ownership (L'Oréal subsidiary since 1970) confirmed and added — not fully specified in seed data. Refillable-product-line claim confirmed and detailed: specifically the Life Plankton Elixir "Blue Fountain" in-store refill pilot launched February 2021 at El Corte Inglés, Madrid — this is likely the source of the seed data's Spain association, but it describes a retail pilot location, not brand origin/HQ.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

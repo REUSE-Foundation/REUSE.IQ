@@ -50,4 +50,4 @@ Boulder, first 6 months of operation (~2018-2019): 4,500+ Vessel cups checked ou
 Substantially enriched vs. my original single-source candidate entry: 7 independent sources (Colorado Public Radio, BizWest, Fast Company, CoBiz Magazine, GreenBrownBlue, Daily Cal, and the company's own site) corroborate founder name, founding story, and Boulder/Berkeley markets. One genuine ambiguity: sources differ on whether 'Vessel' launched in 2015 (concept) or 2016 (NYC pilot) — recorded both. The nonprofit/for-profit dual-entity structure (Vessel Works nonprofit funding 'Vessel Revolution' for-profit) comes from a single profile and was not cross-confirmed elsewhere — flagged for direct verification. Impact metrics are specific to early Boulder operations (~2018-19) and may not reflect current multi-city scale.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -59,4 +59,4 @@ Priority: ★★★★ High
 Founding date not disclosed on site; 7-location, multi-province footprint confirmed directly from site content.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

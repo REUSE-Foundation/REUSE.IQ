@@ -77,4 +77,4 @@ Splosh is a clear, purpose-built reuse business: its entire model is a closed-lo
 - Industry report: https://www.recoup.org/wp-content/uploads/2023/09/refill-packaging-case-studies-recoup-1686828075-1-1.pdf
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

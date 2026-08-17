@@ -48,4 +48,4 @@ Priority: ★★★★★ Essential
 ## Verification Notes
 Founding year (2004, as RepaNet) and 2023 rename to Re-Use Austria confirmed via press release (OTS.at) and RREUSE network profile. 2021 impact figures (29,000 tonnes, 620,000 tonnes CO2e) sourced from organisation's own market survey data as reported in search results.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

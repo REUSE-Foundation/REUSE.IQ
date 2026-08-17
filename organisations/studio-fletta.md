@@ -46,4 +46,4 @@ An award-winning, well-documented circular design studio converting industrial w
 ## Verification Notes
 2018 founding date confirmed via ICON Magazine feature; research/founding narrative traces back to 2014.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

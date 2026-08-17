@@ -67,4 +67,4 @@ Babel Siem Reap is a small but genuine example of a hospitality business embeddi
 The seed data's characterisation ("guesthouse offering refill containers for hair/body products... not a standalone reuse company") is confirmed directionally correct: Babel is indeed a guesthouse-embedded initiative, not a standalone company. However, the specific "hair/body products" refill detail could not be verified — the confirmed, documented refill offering is a free water-bottle refill station plus a broader eco-shop of locally made, plastic-free goods, not a specific shampoo/soap refill system. This is presented as an open question rather than a confirmed fact. Founding year of the guesthouse (2008) is confirmed by the official site; no specific launch date for the eco-shop/refill station itself was found.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -72,4 +72,4 @@ by Humankind is a credible, venture-backed US refill/subscription personal care 
 - Impact figures found (plastic-avoidance per refill, annual savings claim) are company/press-stated, not third-party audited — flagged accordingly rather than presented as verified fact.
 - Crunchbase and CB Insights profile pages returned access-restricted (403) errors and could not be directly fetched; funding total figures from these sources are therefore treated as secondary/unverified and attributed accordingly.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -72,4 +72,4 @@ Ekoplaza is a significant, well-documented mainstream retailer notable for a gen
 - Confirmed operation in both Netherlands and Belgium as per seed (ekoplaza.be verified as live Belgian site).
 - The "plastic-free aisle" uses compostable bioplastics and traditional materials (glass/metal/cardboard) as plastic substitutes — this is a waste-reduction/material-recovery initiative, not a reusable-packaging or refill system; categorised accordingly rather than under Reusable Packaging/Refill Systems.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

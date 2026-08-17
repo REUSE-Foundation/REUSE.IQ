@@ -47,4 +47,4 @@ A pioneering, well-documented zero-waste supermarket combining refill retail wit
 ## Verification Notes
 Launch date (July 3, 2021), "Japan's first zero-waste supermarket" claim, and DIGI/Teraoka RFID partnership confirmed via official site and DIGI press release.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

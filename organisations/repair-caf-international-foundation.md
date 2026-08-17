@@ -50,4 +50,4 @@ Repair
 Exceptionally well-documented — a dedicated Wikipedia article exists for both the organisation and its founder, corroborated by iFixit, P2P Foundation, Atlas of the Future, and the Foundation's own site, all consistent on the founding story. Minor date nuance: the first Repair Café event was Oct 2009, but the formal Foundation was registered 2 March 2010 (one older source rounds this to '2011') — I've recorded both dates rather than picking one. Impact metrics (420,000 kg waste, 10M kg CO2) are the Foundation's own published figures for 2019 specifically, not an independently audited or more recent total, hence Medium confidence.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

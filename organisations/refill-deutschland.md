@@ -60,4 +60,4 @@ Priority: ★★★★ High
 Exact founding year of the German chapter specifically was not confirmed beyond "the Refill idea reached Germany in 2017"; treat founding year as approximate.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

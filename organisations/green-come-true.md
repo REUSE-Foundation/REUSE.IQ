@@ -67,4 +67,4 @@ Priority: ★★ Low
 Seed data described Green Come True as a "United States" zero-waste store with "mobile refill + climate activism" — the specific location (Lawrence, Kansas, with Kansas City/Overland Park delivery) is now confirmed via multiple local-business sources, correcting the seed's country-only geography. The "climate activism" framing from seed data could not be independently verified beyond general zero-waste-lifestyle-education messaging common to shops of this type; no distinct activism programme or campaign was documented. Founding year, founder name, and ownership structure remain unconfirmed despite multiple searches of the official site, social media, and business directories.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

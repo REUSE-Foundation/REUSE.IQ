@@ -46,4 +46,4 @@ Priority: ★★ Low
 ## Verification Notes
 IMPORTANT STATUS UPDATE: Company website confirms cessation of all activity effective 26 May 2026 following court proceedings; all washing sites closed. This supersedes the seed's "active" framing — status corrected to closed/in liquidation.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -44,4 +44,4 @@ Could not independently verify this specific organisation beyond its Big Cartel 
 ## Verification Notes
 No independent news coverage or company information found under the name "Teo Straw" specifically; general grass-straw product category (wild sedge, Mekong Delta) is well-documented for similar Vietnamese producers like Ong Hut Co, but this exact company could not be corroborated.
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

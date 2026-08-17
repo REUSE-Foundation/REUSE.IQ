@@ -71,4 +71,4 @@ Priority: ★★★★ High
 Legal/operating entity name is Locaverre; "Ma Bouteille s'appelle Reviens" is the public-facing brand/project name, per the official website and multiple press sources. Founding date of the Locaverre company (November 2017) and washing-unit inauguration (July 2019) are corroborated by press coverage (L'Info Durable, Les Echos de Couspeau). Impact percentages vary slightly between sources citing the same underlying 2018 ADEME study; figures should be treated as indicative rather than precisely audited for this specific organisation's operations.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

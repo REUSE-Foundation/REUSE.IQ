@@ -1,12 +1,12 @@
 # Research Progress
 
 **STATUS: COMPLETE.** All unique organisations from the original 748-row legacy list have
-been fully researched to V4 depth. Final unique count settled at 708 (not the earlier 727
+been fully researched to V5 depth. Final unique count settled at 708 (not the earlier 727
 estimate) as additional in-list duplicates and near-duplicate seed rows were identified and
 merged during research — see `scripts/next_batch.py` `MANUAL_ALIASES` for the full list of
 manually-resolved aliases beyond what the mechanical dedup logic could catch on its own.
 
-- Full V4 profile complete (markdown + sourced + confidence-rated + schema-v2 CSV row): 708
+- Full V5 profile complete (markdown + sourced + confidence-rated + schema-v2 CSV row): 708
 - Remaining: 0
 
 Note: from org #398 onward (~Looping/M-names onward), profiles use a leaner format at the
@@ -19,7 +19,7 @@ Note: 4 completed profiles (Coca-Cola Returnables, Flo Hygiene, Bio-Home, For Ea
 names/spellings vs. the original legacy list (which had typos/wrong countries) — tracked here by their
 corrected slug, not the original list's exact string.
 
-Schema: `data/REUSE_V4_Master.csv` uses the expanded 34-column V4 schema (adds GitHub slug, short summary,
+Schema: `data/REUSE_V5_Master.csv` uses the expanded 34-column V5 schema (adds GitHub slug, short summary,
 logo/featured image URL, SEO description, primary colour, tags, last verified/updated dates, researcher,
 source count, overall confidence score, REUSE priority rating, SDGs — see README for full method).
 Generated mechanically from each org's markdown profile via `scripts/parse_md_to_csv.py` — free to re-run,

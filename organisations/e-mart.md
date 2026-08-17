@@ -73,4 +73,4 @@ Stock/Listing Reference: https://stockanalysis.com/quote/krx/139480/company/
 Seed data confirmed accurate: founding year 1993 and KRX:139480 listing verified via stock-data sources. Added detail not in seed: specific refill-station launch date (September 2020), named partners (SugarBubble, Ministry of Environment, Korea Environment Institute), pilot store locations, and reported pricing/usage figures. No public source found confirming the refill station's current (2026) operational status, so this should be treated as a documented 2020-2021 pilot/expansion rather than a confirmed ongoing programme.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

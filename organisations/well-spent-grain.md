@@ -58,4 +58,4 @@ Well Spent Grain is a clearly verified, recently founded (2022) Irish upcycling 
 - Founding year (2022) confirmed via site footer copyright notice.
 - Retail and programme partnerships (SuperValu, Teagasc, Climate Launchpad, Food Academy, New Frontiers) confirmed directly from the official site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

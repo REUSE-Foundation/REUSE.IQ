@@ -75,4 +75,4 @@ Fuwa3e is a strong, verifiable example of a refill-systems business paired with 
 Seed website URL (fuwa.com.vn/en) confirmed correct. Founding year is ambiguous across sources: eco-enzyme R&D team formed around 2016, but the company was formally incorporated as FUWA Biotech Co., Ltd in 2019; refill stations specifically launched from 2020. Reported refill network size varies between sources (200+ points/13 provinces vs. broader distribution reach cited as up to 46 provinces) — treated as approximate. Official fuwa.com.vn pages returned HTTP 403 on direct fetch; information sourced from search-result summaries and secondary press coverage instead.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

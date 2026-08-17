@@ -46,4 +46,4 @@ A well-documented, newly-launched refillery with a clear founder story and broad
 ## Verification Notes
 April 2023 opening and founder name confirmed via City of Santa Monica business listing and LinkedIn.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

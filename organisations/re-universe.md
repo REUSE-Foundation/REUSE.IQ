@@ -46,4 +46,4 @@ Combined across Blenheim Palace and Eden Project: ~620,000 fewer single-use coff
 Well-corroborated across 6 independent sources (Eden Project's own press release, Museums & Heritage Advisor, Experience Oxfordshire, blooloop, Good Fronds, plus the company's own site) on the Blenheim Palace/Eden Project deployment, partner list, and impact figures. However, I could not find the company's founding year, founder name(s), or any funding/ownership history in this pass — all press coverage focuses on the venue partnerships rather than corporate facts, which is a genuine gap rather than an oversight. Impact figures are self-reported by re-universe/its venue partners, not independently audited, hence Medium rather than High confidence.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

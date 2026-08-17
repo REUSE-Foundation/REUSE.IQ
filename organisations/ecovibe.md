@@ -66,4 +66,4 @@ EcoVibe is a modestly sized but well-established (2018) UK direct-to-consumer re
 Seed data's description ("plastic-free refillable cleaning/care products (sachets + reusable bottles)") is confirmed accurate. Founding year (2018) and HQ location (London, Covent Garden) were not in the seed data but were confirmed via the official website. No founder name, ownership structure, or independently verified/dated company-wide impact figures could be confirmed in this research pass.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

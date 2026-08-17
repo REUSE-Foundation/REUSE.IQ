@@ -49,4 +49,4 @@ Rental
 Very well-corroborated across 9 independent sources (European Cluster Collaboration Platform, BrightVibes, CIRCit Nord, a Danish academic research portal, Marie Claire Australia, FashNerd, Kolding School of Design, Little Scandinavian, and LAUNCH) spanning 2014-2023, all consistent on founder name, business model, and origin story. Most detailed coverage found dates to 2017-2020; no source in this pass confirmed whether Vigga is still actively operating as of 2025-2026 — recommend the Foundation verify current operating status directly via vigga.us, since fashion-rental subscription startups have a documented pattern of high churn (as also flagged for other rental-sector candidates in this dataset).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

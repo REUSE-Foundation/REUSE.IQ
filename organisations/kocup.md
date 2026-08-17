@@ -47,4 +47,4 @@ AEG's specific rollout: ~172,000 ÖkoCups (0.25L/0.3L/0.5L sizes) supplied, with
 Corrects/enriches my original single-source candidate entry: identified the parent company (moBrands GmbH, Berlin) via an independent 2022 ice-hockey trade publication covering AEG Germany's arena rollout, and confirmed a specific, named, large-scale customer deployment (172,000 cups across 3 major German arenas). Company founding year and ownership structure could not be found in this pass. Also noted in passing: this is a crowded German reusable-cup market with several similar competitors (ReCup/ReBowl, reCIRCLE, Relevo, VYTAL, FairCup) — worth checking the master list doesn't already contain ÖkoCup under a near-identical name.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

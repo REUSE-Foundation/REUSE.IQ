@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Regenerates reuse_locations.json from REUSE_V4_Master.csv.
+Regenerates reuse_locations.json from REUSE_V5_Master.csv.
 
 Run this as part of the same build step that already rebuilds the
 REUSE-IQ table/card view, so the map data never drifts out of sync
 with the main CSV.
 
 Usage:
-    python3 generate_locations_json.py REUSE_V4_Master.csv data/reuse_locations.json
+    python3 generate_locations_json.py REUSE_V5_Master.csv data/reuse_locations.json
 """
 import csv
 import json

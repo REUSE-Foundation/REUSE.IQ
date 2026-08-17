@@ -49,4 +49,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year (2021) and Milan HQ confirmed via Bocconi/EIT Food sources; seed description of "reusable packaging for food delivery" confirmed and expanded (also covers takeaway/institutional catering).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

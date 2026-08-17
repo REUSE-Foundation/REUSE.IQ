@@ -46,4 +46,4 @@ A well-documented refillery with a concrete deposit-return mechanism developed u
 ## Verification Notes
 December 2019 opening and founders' names confirmed via Notable Life feature.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

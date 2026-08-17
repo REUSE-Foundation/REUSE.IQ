@@ -47,4 +47,4 @@ Not publicly available.
 Confirmed via a single detailed, dated Bangkok Post feature with a specific address and hours — credible but not independently cross-confirmed by a second source in this pass. Recommend verifying current operating status directly, given the multi-year gap since the 2019 article.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

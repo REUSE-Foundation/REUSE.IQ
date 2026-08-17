@@ -59,4 +59,4 @@ Ringo Eco is a verifiable, centrally-managed reusable-packaging platform with re
 Founding year (2020) and founder names (Janek Balonski, Karla Polli) sourced via Crunchbase, cross-checked against the official site's operating details (Tallinn HQ, M/L/XL return bins). Confirmed as a distinct company from RingKarp/Ökopere OÜ, a separate Estonian reusable-packaging operator using a decentralised, restaurant-washes-its-own-containers model.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

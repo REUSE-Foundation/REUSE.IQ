@@ -56,4 +56,4 @@ Sabon Depot JDG is a verifiable Philippine refill-retail franchise operation, bu
 No founding date, parent-company ownership structure, or quantified impact/franchise-count data was found on the official site; all such fields marked "Not publicly available." "JDG" in the domain/brand name appears to denote a specific franchise operator's branch, though this could not be independently confirmed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

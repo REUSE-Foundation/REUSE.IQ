@@ -69,4 +69,4 @@ Priority: ★★★ Medium
 Seed data did not include a founding year; verified as 2010 (2 July 2010) via the company's own "Our Story" page and corroborated by the B Corp directory and academic case study. Employee count (2–10) and revenue (~$5M) come from third-party data aggregators (LinkedIn, RocketReach), not company disclosures, and should be treated as estimates. No quantified environmental-impact metric (e.g., bottles refilled, plastic avoided) was located despite extensive searching of the company's website and B Corp profile.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

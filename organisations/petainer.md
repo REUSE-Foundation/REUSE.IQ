@@ -49,4 +49,4 @@ Not publicly available.
 Exceptionally well-corroborated across 7 independent sources (CBInsights, ZoomInfo citing a PR Newswire acquisition announcement, Manufacturing Today, Europages, WikiPETia, Next Wave Partners, plus the companys own site) with a detailed, consistent corporate history spanning 1959-2024, including a significant 2022 private-equity acquisition. Substantially upgrades my original candidate entry to High confidence on corporate facts, though this remains fundamentally a B2B industrial beverage-packaging manufacturer, per the category caveat already noted for similar entries.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

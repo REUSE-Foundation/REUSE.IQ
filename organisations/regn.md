@@ -59,4 +59,4 @@ Priority: ★★ Low
 Seed URL regn-wholesale.co.uk 301-redirects to regn.co.uk/pages/wholesale, confirmed live; founding date not disclosed on site.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -66,4 +66,4 @@ Jolly Eco is a small, single-location Singaporean retailer of reusable household
 No founding year was found in any source accessed. The official website could not be directly fetched (DNS resolution failure) during this research pass — information is drawn from search-result snippets and third-party directory listings instead.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

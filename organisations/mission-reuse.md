@@ -71,4 +71,4 @@ Priority rating: ★★★ Medium
 
 Seed data described Mission Reuse as a "B2B reusable packaging system" company; research shows it is actually a non-profit transition/pilot program run by Enviu in coalition with other Dutch NGOs, not a standalone commercial packaging provider. Exact founding date not confirmed on-site; 2020 launch inferred from earliest available program references (Enviu articles from 2022 describe it as an established program by then).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

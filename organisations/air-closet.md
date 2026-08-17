@@ -70,4 +70,4 @@ Financial Data Aggregator (Japanese): https://minkabu.jp/stock/9557
 IPO/Listing Reference (Japanese): https://www.ipokiso.com/company/2022/air-closet.html
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

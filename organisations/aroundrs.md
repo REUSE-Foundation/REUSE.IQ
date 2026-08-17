@@ -73,4 +73,4 @@ Aroundrs is a clear, well-defined example of a reusable-packaging-as-a-service s
 - Crunchbase and ESCP blog sources were inaccessible (403/Cloudflare block) during verification and could not be used to corroborate funding or additional detail.
 - No independently verified impact metrics (CO2 saved, containers in circulation, partner count) were found; company claims of app-based real-time tracking and lifecycle-assessment-based CO2 monitoring are noted but not quantified.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

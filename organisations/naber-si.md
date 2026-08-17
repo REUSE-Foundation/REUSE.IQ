@@ -58,4 +58,4 @@ Priority: ★★ Low
 
 Direct site fetch confirms permanent closure ("trvalé uzavřeno"); founding year and ownership could not be verified from available sources. Note: related Czech package-free store "Bezobalu" also closed multiple locations, indicating a sector-wide trend, but this is a distinct business from Naber si.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -48,4 +48,4 @@ Not publicly available.
 Corroborated across 3 independent South African zero-waste directory sources (2020-2023) with a consistent description and delivery-area detail. No source in this pass confirmed activity more recent than a 2023 directory listing — recommend the Foundation verify current operating status directly, as this is an online-only business with a comparatively thin public footprint.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

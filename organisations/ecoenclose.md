@@ -72,4 +72,4 @@ EcoEnclose is a well-documented, independently verified sustainable packaging bu
 
 Seed description ("B2B sustainable e-commerce packaging solutions") confirmed accurate. Founding year (2010), founder (Erin Kimmett), and 2015 ownership change to Saloni Doshi and Kyle Wente were independently confirmed via multiple secondary sources, none of which were present in the seed data. Direct access to the official website was blocked (403 Forbidden) during this research pass, so some product/technology detail relies on secondary sources (Inc., CompanyWeek) rather than the primary site; this should be re-verified via direct site access when possible.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

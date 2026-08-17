@@ -48,4 +48,4 @@ Not publicly available.
 Corroborated across 2 independent sources (a local pharmacy/business directory citing 36 Google reviews at 5/5, and the company's own site across 2 pages) confirming a real, currently-operating physical shop with a specific address and phone number. This corrects my original candidate entry's vague 'Spain' location to the specific town of Cercedilla, Madrid. Founding year, ownership structure, and impact metrics could not be found — this is a small, low-digital-footprint local business, which is a common and expected pattern for this category rather than a red flag.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

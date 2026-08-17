@@ -70,4 +70,4 @@ Baemin's reusable-container pilot is a verified, well-documented example of a la
 The seed data's characterisation is largely confirmed: Baemin is indeed Korea's largest food delivery app, a Woowa Brothers/Delivery Hero subsidiary, and does run a reusable-container pilot that began in Gangnam. One correction/clarification: the seed data's 2010 founding year is corroborated by most sources (app/service launched 2010 by Kim Bong-jin), though at least one secondary source states the Woowa Brothers company was formally founded in 2011, roughly five months after the June 2010 app launch — both years appear in circulation and are noted here rather than silently resolved. The reusable-container pilot itself launched specifically on 29 August 2022 (not 2010) and is operated in partnership with third-party startup Itgreen/Returnit, a detail not in the seed data but confirmed across multiple independent Korean news sources.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

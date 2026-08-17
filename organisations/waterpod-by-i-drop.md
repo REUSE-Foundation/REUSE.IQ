@@ -58,4 +58,4 @@ Waterpod/I-Drop presents a scalable, no-capital-cost refill model for grocery re
 - Business model (revenue-share, no capital cost to retailer, remote monitoring) confirmed directly from the official site.
 - Founding year, ownership, and named retail partners not disclosed publicly.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

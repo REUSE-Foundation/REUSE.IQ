@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 Seed listed this org as "Replenish Supermarket" but the live site brands itself "Replenish" (General Store); name recorded as seen on-site.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

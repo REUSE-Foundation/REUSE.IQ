@@ -72,4 +72,4 @@ Friendlier is a well-documented, multi-year Canadian deposit-return reuse operat
 Founding year is reported inconsistently across sources — some cite 2019 (founding), others 2020 (business launch) — both noted rather than collapsed into one date. The 400,000+ container and 200+ partner figures are self-reported/press-reported company claims, not independently audited, hence Medium rather than High confidence on impact data despite good source volume.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

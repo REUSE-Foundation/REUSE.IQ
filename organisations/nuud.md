@@ -45,4 +45,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Seed data listed country as Sweden; verified via founder interview and company profiles as Netherlands (Utrecht), founded 2017 by Martijn van Seters. Country field corrected accordingly.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -46,4 +46,4 @@ Priority: ★★ Low
 ## Verification Notes
 Could not confirm the seed's specific "reusable glass jars for takeaway" detail. HappyCow review thread flags the restaurant as reported closed circa March 2022; current operating status uncertain.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

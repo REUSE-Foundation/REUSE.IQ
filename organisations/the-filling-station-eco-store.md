@@ -46,4 +46,4 @@ A well-documented, farming-family-run zero-waste grocer supporting local organic
 ## Verification Notes
 July 2019 establishment and owner name (John Tedders) confirmed via This Is Galway feature.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

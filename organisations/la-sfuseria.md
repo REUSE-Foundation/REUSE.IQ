@@ -64,4 +64,4 @@ Priority: ★★★ Medium
 
 Seed data description (bulk dispenser store, Italy) confirmed via official site fetch. Founding year, legal ownership entity and any impact metrics could not be verified from public sources — marked as not publicly available rather than estimated. Important disambiguation: multiple unrelated Italian shops use the name "La Sfuseria" (Milan, Modena, Arco); this profile is scoped strictly to the Faenza store matching the seed URL lasfuseria.it.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -46,4 +46,4 @@ A well-documented Seoul zero-waste café/refillery within a recognised local zer
 ## Verification Notes
 No founding year found in public sources; operating company (KG Traders Inc.) and representative name confirmed via business registration reference.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

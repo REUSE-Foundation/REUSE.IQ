@@ -74,4 +74,4 @@ Priority: ★★★ Medium (credible, multi-country digital-mapping tool support
 This is a material correction to the seed data, which listed Go Zero Waste's country as Argentina and its website as https://gozerowaste.app/. The website is confirmed correct, but the organisation's actual origin is Barcelona, Spain (founders Martí Morató and Magda Cebrián, developed with UPC-linked Sparsity Technologies), with Argentina being one of nine countries where the app operates rather than its home country. This distinction matters for a research-grade knowledge library attributing organisations to countries of origin. Download and country-coverage figures are from the app's ~2020 launch period; no more recent public metrics were found, so current scale should be treated as approximate.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

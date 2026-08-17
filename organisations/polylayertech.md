@@ -58,4 +58,4 @@ PolyLayerTech supplies materials and equipment enabling multi-use industrial pac
 Location, product focus (PP sheets, up to 6 reuse cycles), and company legal form (SRLS) confirmed via the company's own site and trade-show exhibitor listings; founding year not found.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

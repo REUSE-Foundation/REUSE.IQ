@@ -57,4 +57,4 @@ Grupo Modelo operates what is very likely one of the largest and most mature dep
 ## Verification Notes
 The seed's 96% return rate claim is corroborated by Sustainable Brands/Global Reuse and Recycling Network (GRRN) reporting, though this appears to be a secondary/industry-report figure rather than a Grupo Modelo or AB InBev primary sustainability disclosure — treat as credibly sourced but not company-verified. 2013 acquisition by AB InBev and 1925 founding year are well-established public facts (Wikipedia and multiple business press sources).
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

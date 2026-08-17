@@ -74,4 +74,4 @@ Priority rating: ★★★★★ Essential
 
 Seed data listed IFCO's country as "Turkey," which could not be corroborated by any source; all evidence points to Germany (Pullach/Grunwald, near Munich) as the founding and headquarters location, consistent with the seed's own suggestion to verify. Seed data also listed Brambles as current owner — this is outdated: Brambles sold IFCO to Triton/ADIA in 2019, and a further ownership change (Stonepeak acquiring ADIA's stake, alongside Triton) was announced in July 2025. A duplicate/near-duplicate seed entry, "IFCO systems," listed a Portugal address — this is almost certainly a regional office or subsidiary listing of the same global company, not a separate organisation, and has been merged into this single profile rather than given its own file. Employee count of "1,000+" in the seed appears understated; current public figures suggest ~2,200–2,500 employees globally.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

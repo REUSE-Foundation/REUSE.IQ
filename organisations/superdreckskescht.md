@@ -47,4 +47,4 @@ A foundational, government-institutionalised circular-economy body with nationwi
 ## Verification Notes
 Founding year approximated from "40th anniversary" reference (implies ~1985 origin); exact date not stated on site.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

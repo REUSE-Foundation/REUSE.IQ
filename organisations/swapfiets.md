@@ -47,4 +47,4 @@ A category-defining, large-scale product-as-a-service model extending bike lifes
 ## Verification Notes
 2014 founding and Pon Holdings ownership confirmed via company newsroom and Wikipedia; subscriber count (280,000+) sourced from company press release.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

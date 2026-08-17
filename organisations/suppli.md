@@ -47,4 +47,4 @@ A well-documented reusable-container platform with a major delivery-platform par
 ## Verification Notes
 No founding year found in public sources; fee/return mechanics confirmed via company FAQ page.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

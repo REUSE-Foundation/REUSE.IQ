@@ -59,4 +59,4 @@ Salubata is a well-documented, award-recognised African-founded circular manufac
 Founding year is inconsistently reported across sources (2018 company formation per some outlets vs. 2020 associated with a competition win and broader public visibility per others); both are noted rather than asserting a single date with high confidence. Country listing reflects the seed's "Nigeria" while noting the company's evolution into a multi-country (France-registered, US-based) structure per independent sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

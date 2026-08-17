@@ -53,4 +53,4 @@ everdrop is a solid, well-documented example of refill-based waste reduction in 
 ## Verification Notes
 Seed year (2019) confirmed. Seed employee range (51-200) confirmed and refined: 87 employees as of May 2026. Founders' names corrected/clarified from search transliteration ("David Lowe" likely "David Löw").
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

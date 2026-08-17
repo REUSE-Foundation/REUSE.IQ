@@ -60,4 +60,4 @@ Priority: ★★★★★ Essential
 Founding year/founders confirmed via multiple third-party sources (Fashion for Good, Solar Impulse, Crunchbase summaries); the current repack.com homepage emphasizes refurbished-tech services rather than the original reusable-bag offering, which could indicate a business pivot — flagged for review.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

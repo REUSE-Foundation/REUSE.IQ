@@ -59,4 +59,4 @@ Priority: ★★★★ High
 
 Confirmed per seed instruction that "Neat Essentials" and "neat." are the same company at neatclean.com; both names treated as aliases in this single profile. Founding year not stated on official site.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

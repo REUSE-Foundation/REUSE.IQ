@@ -47,4 +47,4 @@ Not publicly available.
 IMPORTANT — my original batch entry for this organisation understated a real risk flagged in this research pass: the company's Facebook page (facebook.com/CircularShop.cl) is marked 'Closed now', and the most recent activity found (a review and the 2-year-anniversary post) dates to 2021. The website domain circularshop.cl still resolves with an 'about us' page, but no evidence of current (2025-2026) trading activity was found. Recommend the REUSE Foundation independently verify current operating status before treating this as Active — I have downgraded the Status field to 'Uncertain' accordingly and lowered confidence versus my original submission.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

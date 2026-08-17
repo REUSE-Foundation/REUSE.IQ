@@ -60,4 +60,4 @@ Verde Market is a well-documented, operating bulk/refill grocery store with mult
 - Founding year (2018) and co-founders confirmed via independent media coverage (Miami New Times), not seed data alone.
 - Direct WebFetch of verdemarket.co returned a 404 on the root path; information was corroborated via search-indexed subpages and press coverage instead.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

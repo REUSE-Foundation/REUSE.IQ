@@ -46,4 +46,4 @@ Not publicly available.
 Single source (the company's own site, via aggregated customer reviews) but with a specific, credible, and distinctive detail confirming a genuine jar-return incentive programme — this is a stronger reuse-relevant signal than my original candidate entry suggested (which flagged uncertainty about whether a genuine refill mechanism existed versus packaged organic goods only). Recommend a secondary independent source before finalizing, but this pass resolves the original uncertainty in favour of inclusion.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

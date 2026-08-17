@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Seed data listed "Re up Refills" and "Re-up Refill" as separate entries with different contact emails (sam@ vs matt@wastewhat.org) but both pointing to reuprefills.org; treated here as the SAME organisation and merged into one profile per cross-reference instructions. Founding year not found in sources reviewed.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

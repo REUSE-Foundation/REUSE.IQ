@@ -48,4 +48,4 @@ Not publicly available.
 IMPORTANT UPDATE vs. my original candidate entry: the business's own site indicates the zero-waste grocery/café component (the part directly relevant to your database) is described as 'reopening soon' as of an October 2025-dated page snapshot, following a relocation from Greenside to Parktown North — this suggests the reuse-relevant part of the business may currently be paused even though the broader wellness/yoga business is active (confirmed via recent 2026 LinkedIn activity from a studio-affiliated professional). Recommend the Foundation verify directly whether the zero-waste grocer has since reopened before treating this as a fully active refill/reuse entry.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

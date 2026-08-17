@@ -76,4 +76,4 @@ Circular Economy Portugal is a credible, established national NGO with a specifi
 - Year founded could not be verified from official sources reviewed; marked "Not publicly available" rather than estimated.
 - Corrected/added: precise HQ address (Casa do Impacto, Lisbon), governance structure, funding model (membership fees + consultancy + donations), and specifics of the packaging-reuse research (reuse-cycle benchmarks), none of which were in the seed data.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

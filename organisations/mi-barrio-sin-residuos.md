@@ -65,4 +65,4 @@ Mi Barrio Sin Residuos is a modest-scale but methodologically interesting UNDP p
 
 Seed data described this as a UNDP initiative for "at-home recycling/reuse" in Paraguay — confirmed, though the initiative is centrally about source-separated recycling collection and waste-picker integration rather than product reuse per se. This is a program/pilot, not a company, so "Ownership" and "Status" fields reflect its multi-stakeholder governmental/NGO structure rather than corporate ownership.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -69,4 +69,4 @@ Eco Refillery is a legitimate, operating BYOB refill storefront with a clear fou
 Seed location "Canada (Vancouver)" corrected/refined: the physical storefront is in Burnaby, BC, part of Metro Vancouver, not the City of Vancouver proper. Added founder (Matthew Nowak), parent company (Eco Sanitizer Inc., founded 2020) and storefront opening date (June 24, 2022) — none present in seed. No measurable impact metrics were found in official sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

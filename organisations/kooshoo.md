@@ -69,4 +69,4 @@ Blog (Manufacturing): https://kooshoo.com/blogs/zero-waste-sustainable-business-
 Exact founding year could not be pinned down precisely — search sources gave conflicting signals (2010 vs. 2012); 2012 is used here as the most consistently cited year for the product/company's public launch as "the world's first 100% plastic-free hair elastic." Direct WebFetch of the "about us" page returned a 404; company/founder background is based on WebSearch snippets referencing a co-founder ("Rachel") linked to Norfolk Island and Canada. No quantitative impact metrics were found in any source reviewed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

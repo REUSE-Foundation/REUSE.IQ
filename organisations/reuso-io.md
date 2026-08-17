@@ -59,4 +59,4 @@ REUSO is a clear, verifiable reusable-packaging-as-a-service operator directly a
 Seed listed no founding year; search sources (LinkedIn, Chicago Innovation, ABC7) place founding at 2022 with product launch in 2023, and note early concept work from 2020. WebFetch on reuso.io itself failed (SSL handshake error); details drawn from secondary sources instead.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

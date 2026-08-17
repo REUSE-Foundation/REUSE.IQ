@@ -74,4 +74,4 @@ Boox is a genuine, actively operating reusable-packaging company with real brand
 Seed data (United States, boox.eco, B2B/B2C reusable shipping containers, zero waste e-commerce) is confirmed accurate. Additional verified detail added: founding year 2020, HQ Petaluma CA, CEO/co-founder Matt Semmelhack, and named retail customers (Lululemon, REN Clean Skincare, Boyish Jeans, Ouai) via FreightWaves reporting. One fetched source surfaced marketing copy referencing an "X3F" fulfillment partnership and additional named brands (Sephora, H&M, Goop, L'Oréal, Revolve) as clients — this could not be corroborated by other independent sources within the scope of this research and has been treated cautiously/omitted from confirmed customer list pending further verification.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

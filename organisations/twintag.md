@@ -49,4 +49,4 @@ Not publicly available.
 IMPORTANT CORRECTION vs. my original candidate entry: Twintag is based in Belgium, not the Netherlands — confirmed by 4 independent sources (Crunchbase, CBInsights, AIPIA member directory, and the company's own site). Well-corroborated founding year, founders, and funding history. This was originally flagged as identified 'via its own content marketing rather than independent press' — this pass found stronger third-party corroboration (Crunchbase, CBInsights, AIPIA) and multiple named pilot partnerships (Boemerang, Retourpack, OVAM's DDRS pilot), substantially upgrading confidence from my original Low-Medium assessment.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

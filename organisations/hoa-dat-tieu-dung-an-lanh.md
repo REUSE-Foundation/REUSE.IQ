@@ -62,4 +62,4 @@ Priority: ★★ Low
 
 Could not verify most fields beyond the business's existence and general name/translation. The Facebook page yielded no extractable business details (founding date, products, location specifics) via automated fetch. No independent Vietnamese-language press or directory coverage was found in the searches conducted. This profile should be treated as a stub pending direct verification.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

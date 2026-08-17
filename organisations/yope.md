@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Founding year (2013) and founders corroborated via multiple sources (cosmeticsbusiness.com, PAIH). The refill-station initiative is run in partnership with Swapp, a separate technology company, rather than being a proprietary Yope system — clarified here since seed data described it as "via Swapp partnership."
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

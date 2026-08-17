@@ -47,4 +47,4 @@ Priority: ★★★★ High
 ## Verification Notes
 CORRECTION: Seed year (2017) does not match research; the company was launched in 2016, with 2017 marking a Goop-driven publicity milestone rather than founding.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

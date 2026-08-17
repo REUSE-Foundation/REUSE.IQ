@@ -46,4 +46,4 @@ A consumer brand with a genuine refill mechanic for everyday cleaning products, 
 ## Verification Notes
 Product range and refill-packaging claim confirmed on official site; founding year not found in available sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -65,4 +65,4 @@ Instagram: https://www.instagram.com/jentlizerowaste/
 Founding year, ownership/founder name, partnerships, and impact data could not be confirmed via publicly available sources at time of research. Location (Elgin, Illinois / Fox Valley region) was confirmed via marketplace and directory listings referencing the business. Direct WebFetch access to the official website was unavailable (DNS resolution error during research); information is based on WebSearch snippets of the site's product pages and third-party listings.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

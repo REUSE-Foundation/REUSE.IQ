@@ -49,4 +49,4 @@ Not publicly available.
 Well-corroborated across 4 independent sources (Daily Maverick's detailed founder-interview feature, plus 3 South African zero-waste directory listings) with named founders and a specific opening date. This substantially upgrades my original 'Facebook-only, Low-Medium confidence' candidate entry — the Daily Maverick piece is a credible, detailed primary-style interview. No source in this pass confirmed activity more recent than ~2022-2023 directory listings; recommend verifying current operating status via the Facebook page directly.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

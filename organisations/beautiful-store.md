@@ -67,4 +67,4 @@ Beautiful Store is a large, long-established (2002–present) and well-documente
 Seed data's year established (2002) and description as a "non-profit social enterprise" operating "charity resale shops refurbishing/reselling donated items" are confirmed accurate. This research adds detail not in the seed data: the organisation was founded by People's Solidarity for Participatory Democracy, became an independent nonprofit corporation in 2008, operates the "Eco Party Mearry" upcycling brand (since 2006), and runs a Beautiful Fellow social-innovator grant programme (since 2011) funded partly by store profits. Impact figures are sourced to Wikipedia's citation of underlying reporting rather than a single primary annual report, so are presented with that sourcing caveat.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

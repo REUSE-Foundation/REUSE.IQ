@@ -69,4 +69,4 @@ Press Coverage: https://greennetwork.id/unggulan/divers-clean-action-membersihka
 Seed data's URL and general description confirmed accurate. Founding year (2015) and founder name (Swietenia Puspa Lestari) verified via the organisation's own "Our Story" page. Legal registration name (Yayasan Penyelam Lestari Indonesia) added from official source. Direct fetch of the plasticdiet.id Toko Cura article returned a 403 error, so Toko Cura operational details rely on search-result summaries of that source rather than a direct read — flagged as a minor sourcing limitation.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -63,4 +63,4 @@ Battmen cannot be substantively assessed at this time: aside from a one-line sel
 Seed data described Battmen as a "reusable battery pack swap service" in the Netherlands; this research could only confirm the company's own tagline ("the dutch battery swap," battery packs, docking stations, charge- and swap stations) via search-engine indexing, since a direct WebFetch of https://battmen.nl/ failed twice (both https and http) with a self-signed/invalid SSL certificate error. No independent press coverage, company registry record (e.g., Dutch KVK), founder information, or social-media presence was found despite multiple targeted searches. Founding year, ownership, and impact data are all marked "Not publicly available" as a result. This profile should be treated as low-confidence and flagged for re-research if a working method to access the site's full content becomes available.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

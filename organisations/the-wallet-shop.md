@@ -60,4 +60,4 @@ Priority: ★ Low relevance
 Seed data description ("reusable coffee cups") confirmed as one product category; the business's core identity is a general bags/wallets/accessories retailer, not a reuse-focused organisation — flagged as a scope narrowing.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

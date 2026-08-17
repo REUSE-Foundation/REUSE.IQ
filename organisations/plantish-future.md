@@ -58,4 +58,4 @@ Plantish Future is a small plastic-free retail brand focused on product substitu
 Company description and product range confirmed via its own site; founding year and ownership structure beyond "queer-owned small business" not found.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -68,4 +68,4 @@ Envie is a mature, large-scale and well-documented French network combining appl
 - Seed described Envie generally as a "non-profit social enterprise... electronics refurbishment... and refillable packaging collection pilots"; research found strong, well-documented evidence for the appliance-refurbishment and WEEE-collection activities but found no evidence of "refillable packaging collection pilots" specifically — this element of the seed could not be verified and has been omitted from the profile pending further evidence.
 - Founding year (1984, Strasbourg) and current network scale (53 enterprises, 100+ sites, 2024) confirmed via official site and 2024 press release.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

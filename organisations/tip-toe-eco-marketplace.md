@@ -47,4 +47,4 @@ A small community-scale marketplace combining refill retail with consignment and
 ## Verification Notes
 Location, consignor count and refill/resale offerings confirmed via official site and local press coverage; exact founding year not found.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

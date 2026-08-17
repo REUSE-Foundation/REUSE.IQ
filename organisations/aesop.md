@@ -72,4 +72,4 @@ Industry Coverage: https://cosmeticsbusiness.com/aesop-trials-refill-scheme-work
 Reference: https://en.wikipedia.org/wiki/Aesop_(brand)
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

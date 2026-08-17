@@ -66,4 +66,4 @@ Khaadi's packaging sustainability efforts (recycled bags, e-receipts) are a mino
 No specific founding year was confirmed in sources accessed during this pass. The seed tracker's "reusable packaging materials" description is not strongly supported — verified sustainability features are recycled bags and e-receipts, not a formal reuse loop.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

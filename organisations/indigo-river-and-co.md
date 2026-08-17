@@ -69,4 +69,4 @@ Priority rating: ★★ Low
 
 Seed data described Indigo River & Co. generically as "United States" without a specific city; research confirms the business is specifically based in Cedar Rapids, Iowa, with a physical refill-station storefront (not purely online B2B/B2C as the seed brief suggested). No founding year could be verified from available public sources.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

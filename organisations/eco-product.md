@@ -63,4 +63,4 @@ Eco Product is primarily a supplier of single-use, compostable/recyclable packag
 Seed entry provided only "Home - Eco Product" as a clue to the website; confirmed correct site is https://ecoproduct.pk/ (Karachi, Pakistan). Seed description of "reusable food/cosmetics/beverage packaging (pouches)" required correction/nuance: the company's pouch products are predominantly single-use compostable/recyclable kraft packaging sold to businesses (a materials-substitution model), not a reusable packaging or refill system; a smaller separate product range (bamboo/stainless items) is genuinely reusable. Founding year, founders and ownership could not be verified and are recorded as "Not publicly available."
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

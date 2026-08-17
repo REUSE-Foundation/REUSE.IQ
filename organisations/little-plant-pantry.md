@@ -66,4 +66,4 @@ Priority: ★★ Low (verified active single-location refill/bulk grocery store;
 Seed data's description (Netherlands/Amsterdam, package-free plant-based grocery in reusable containers) was confirmed accurate across multiple independent sources. No founding year could be located on the official site or any secondary listing, so it is marked not publicly available. Store address (Bosboom Toussaintstraat 45) and "first plastic-free shop in Amsterdam" positioning were corroborated across Ethical Globe and Barts Boekje listings.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -60,4 +60,4 @@ Priority: ★★ Low
 No major discrepancies versus seed data; refill activity ("Refillery") confirmed as a genuine sub-brand within a larger multi-concept business rather than the company's sole activity.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -58,4 +58,4 @@ Pure North is a strong renewable-energy-powered material recovery facility with 
 Seed description called Pure North a maker of "reusable containers from locally recycled plastic"; verified sources instead describe it as a mechanical recycling facility that sells recycled raw material to manufacturers — corrected accordingly. Founding year (2015) and CO2 savings figure corroborated by independent LCA coverage; ownership structure not found.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

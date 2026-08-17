@@ -48,4 +48,4 @@ Not publicly available.
 RESOLVES my original candidate flag: Cero Residuo is confirmed based in Barcelona, Spain (not elsewhere), operated by legal entity Zero Waste Group S.L. Well-corroborated across 4 independent sources (Facebook with a substantial following, a Barcelona/Catalonia startup directory, and the company's own site across multiple pages).
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -88,4 +88,4 @@ Clubzero is a well-documented, actively marketed B2B reuse-infrastructure provid
 - Seed data listed Seedrs as an investor; Clubzero's own site lists Spinventures, Atomico, Seedcamp and Unreasonable as backers, with no direct mention of Seedrs found in the accessible content. A crowdfunding listing under Republic Europe (which acquired Seedrs) surfaced in search results but could not be fetched (403 error) to confirm details — treat the Seedrs claim as unconfirmed rather than false.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

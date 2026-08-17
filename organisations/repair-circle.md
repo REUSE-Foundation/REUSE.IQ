@@ -49,4 +49,4 @@ Not publicly available.
 Well-corroborated across 6 independent sources (The Berliner, Trustpilot reviews, Facebook, Instagram, plus the company's own site across several pages) with named founders and a specific origin story (2022 hackathon). Note this substantially clarifies my original candidate entry, which mischaracterized Repair Circle as primarily a 'directory/curation platform' — it is that, but also runs an actual B2B repair/refurbishment/ITAD service line, which is a more direct reuse-enabling operation than my original note suggested.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

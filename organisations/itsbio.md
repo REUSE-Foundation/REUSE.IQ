@@ -66,4 +66,4 @@ Priority: ★★ Low
 Seed data described ItsBio as "Estonia — package-free shop for local/organic food" — this is corroborated by the company's own website and third-party listings (Visit Estonia, Suletud Ring). The operating legal entity was identified as Biokaup OÜ (Estonian registry number 16519951) via the website content, but this could not be cross-checked against Estonia's e-Business Register within the scope of this research. No founding year, partnerships, or impact metrics were discoverable in public sources reviewed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

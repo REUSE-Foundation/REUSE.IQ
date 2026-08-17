@@ -49,4 +49,4 @@ At Club Brugge's Jan Breydel stadium (live since July 2025): 26,000 fans and 45,
 Extremely well-corroborated: 7 independent trade/tech-press sources (EU-Startups, BeBeez, IndexBox, Tech.eu, Packaging Insights, Sustainable Packaging News) plus the company's own site, all consistent on founding year, founders, and funding rounds. Corrects the placeholder/uncertain URL from the initial candidate list (borro.one is confirmed, not a '.dev' domain). Impact metrics (Club Brugge case study) are company-published rather than independently audited, hence Medium rather than High confidence.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

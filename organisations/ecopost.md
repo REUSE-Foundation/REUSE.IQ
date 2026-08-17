@@ -70,4 +70,4 @@ EcoPost is a well-established (2009), award-recognised Kenyan social enterprise 
 Seed data's description ("recycled plastic into durable fencing posts/construction materials") is confirmed accurate. Founding year (2009) and founders (Lorna Rutto, Charles Kalama) were not in the seed data but were confirmed via independent biographical sources. Impact metrics (13M kg recycled, 300 direct/12,000 indirect jobs, 4,500 acres forest preserved, 160M kg CO2 avoided) come from secondary press coverage rather than a dated primary EcoPost report, and should be treated as approximate.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

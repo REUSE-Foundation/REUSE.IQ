@@ -72,4 +72,4 @@ Priority: ★★★★★ Essential (verified, scaling digital infrastructure di
 Seed data's description (Norway, platform for reusable building materials) was confirmed and substantially expanded through the official site and Business Norway. Founding year (2018) and founder name (Michael Anthony Curtis, with four co-founders) were corroborated by Business Norway's profile. The specific municipal case study (90 tonnes waste, 230 tonnes CO2, EUR 1.6m saved over 18 months) is a company-reported figure relayed via Business Norway rather than an independently audited third-party study, but the source itself (a government-linked trade promotion body) lends it more credibility than typical self-reported marketing claims.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

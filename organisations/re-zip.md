@@ -47,4 +47,4 @@ Priority: ★★★★★ Essential
 ## Verification Notes
 Founding year (2018) and founders confirmed via Tracxn/company profile data; Amazon pilot and DS Smith/Raja partnership confirmed via industry press (Packaging Revolution, Packaging Journal). Aggregate impact figures are company claims, not independently audited.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

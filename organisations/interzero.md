@@ -76,4 +76,4 @@ Priority rating: ★★★★ High
 
 Seed data's suggestion that Interzero's true HQ is Germany (not Poland) is confirmed: the registered office is Berlin with operational headquarters in Cologne; the interzero.pl domain found in search results is a regional (Polish) subsidiary site, not the group headquarters — consistent with the seed's own caveat. Founding year of 1991 refers to predecessor Interseroh AG; the Interzero brand itself dates to a 2022 corporate carve-out from the ALBA Group. Ownership is the privately held Schweitzer family (Axel Schweitzer), not a public company.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

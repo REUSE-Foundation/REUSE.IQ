@@ -49,4 +49,4 @@ Not publicly available.
 Exceptionally well-corroborated across 7 independent Uruguayan sources (El Observador x2, En Perspectiva/Radiomundo, Portal Medios Públicos, InfoNegocios, LinkedIn, ANDE — Uruguay's national development agency) spanning 2021-2022, all consistent on the founders' names, origin story, and business model. This substantially upgrades my original single-source candidate entry. Founding year is recorded as 2021 per most sources, though the idea/informal WhatsApp catalog phase began in 2020 — both dates are given for completeness. A second, competing zero-waste store (the Argentine franchise 'CERO market') opened in Uruguay in October 2021, per one source — worth checking this isn't already a separate entry in the master dataset under a similar name.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -59,4 +59,4 @@ Priority: ★★★★ High
 Founding date not disclosed on site; "300 single-use containers replaced" figure is a company claim, not independently verified.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

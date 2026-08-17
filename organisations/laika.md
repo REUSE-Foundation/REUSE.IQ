@@ -62,4 +62,4 @@ Priority: ★★ Low
 
 Could not verify the seed claim that Laika offers "refillable products" — no mention of bulk dispensing, container refill, or deposit-return found on the official site, in Bulgarian-language searches, or in press coverage. Founding year and ownership structure not publicly available. This is flagged clearly rather than assumed, per research standard.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

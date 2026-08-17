@@ -47,4 +47,4 @@ Not publicly available.
 Confirmed as a real, multi-location UAE grocery chain via an independent 2025 directory (MyBayut), corroborating existence but not independently re-confirming the specific in-store refill-station detail from my original candidate research in this pass.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

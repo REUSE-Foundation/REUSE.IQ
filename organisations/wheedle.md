@@ -58,4 +58,4 @@ Wheedle is a verifiable, venture-backed Indian resale marketplace with a clear r
 
 - Founding year (2021), founders (Snehal Chaitanya, Harshada Joshi), and funding history (Oct 2023 seed round led by Startup India) confirmed via LinkedIn and third-party company-profile sources (Tracxn), not the official site alone (which showed only template/navigation content on direct fetch).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

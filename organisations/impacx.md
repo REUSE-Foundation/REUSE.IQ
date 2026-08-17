@@ -69,4 +69,4 @@ Priority rating: ★★ Low
 
 Seed data description ("Bluetooth-connected smart reusable bottles") is confirmed accurate. Important correction: the company legally renamed itself from Impacx.Io Ltd to Water.Io Ltd around October–November 2023, also changing its Tel Aviv Stock Exchange ticker from IMPC to WATR, while the impacx.io website/brand name remains in use for its consumer-facing IoT platform. It is a publicly traded company, not a private startup as the seed's brief description might imply.
 
-Confidence — Name: Medium (brand vs. legal name discrepancy: ImpacX vs. Water.io Ltd) | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium (brand vs. legal name discrepancy: ImpacX vs. Water.io Ltd) | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

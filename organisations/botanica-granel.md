@@ -68,4 +68,4 @@ Botánica Granel is a credible, operating example of the zero-waste bulk-store r
 Seed data (Mexico, botanicagranel.mx, zero-waste bulk store for food/personal care/cleaning, Condesa store + online) is confirmed accurate. Additional detail added: a second physical location in Nápoles, the founder's name (Silvana Huicochea), the store's positioning as Mexico City's first zero-waste mini-supermarket, and the ~95% local-sourcing claim. Exact founding year could not be verified from available public sources and is recorded as "Not publicly available."
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

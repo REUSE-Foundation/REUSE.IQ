@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 5L refill product formats and Portugal origin confirmed directly on official site; founding year not located.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

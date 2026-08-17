@@ -68,4 +68,4 @@ Cleancult is a well-documented, venture-backed example of refill-based reuse in 
 Corrected the organisation name from the seed tracker's "Clean Cult" (two words) to the verified single-word "Cleancult" used consistently by the company and press. Founding timeline is reported inconsistently across sources — R&D/founding activity from 2016, public launch in 2019 — both are noted rather than collapsed into one date. No independently audited impact metrics were found despite good business-press coverage of the company's funding and market position.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

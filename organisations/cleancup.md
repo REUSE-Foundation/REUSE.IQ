@@ -63,4 +63,4 @@ CleanCup addresses a well-defined and large-scale reuse opportunity (institution
 Seed data linked to a LinkedIn company page and a Facebook page for "CleanCup," but no dedicated, independently verifiable company website was found or successfully accessed. Direct access to the one substantive source found (economiecirculaire.org) was blocked (403 Forbidden); information here is drawn from that page's indexed search-result snippet only, not a full page read — treat all details as lower-confidence pending direct verification. IMPORTANT: this is NOT related to "Urnex CleanCup," an unrelated Keurig-machine cleaning product from a US coffee-equipment company of the same product name — verified these are two distinct, unconnected things during this research pass.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

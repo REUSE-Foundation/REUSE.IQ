@@ -48,4 +48,4 @@ Not publicly available.
 Upgraded from my original single-blog-comment source: now corroborated across the company's own site and an independent Chilean sustainability directory (Directorio Sustentable), confirming a genuine returnable-container model for olive oil/olives specifically.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

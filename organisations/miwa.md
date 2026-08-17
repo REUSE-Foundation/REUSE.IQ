@@ -99,4 +99,4 @@ MIWA is a directly relevant example of business-to-business reuse and refill inf
 - Company Profile: https://www.linkedin.com/company/miwa.eu/
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

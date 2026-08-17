@@ -47,4 +47,4 @@ Priority: ★★★★★ Essential
 ## Verification Notes
 reCIRCLE Denmark operates under the same reCIRCLE brand as reCIRCLE AG (Switzerland, founded 2016 by Jeannette Morath) and reCIRCLE Ireland (licensed via VOICE Ireland); Denmark was added to the network in June 2021 alongside the Netherlands, Estonia and Italy, per the reCIRCLE European network site. Written as a separate profile per instructions since it operates as a distinct national market entity with its own site (recircle.eu/dk).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

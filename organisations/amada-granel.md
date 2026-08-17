@@ -47,4 +47,4 @@ Not publicly available.
 Corroborated across the company's own active site and a Chilean bulk-shopping directory blog listing a working phone number, confirming this is a real, contactable business. Specific city/region within Chile, founding year, and impact metrics could not be confirmed in this pass.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

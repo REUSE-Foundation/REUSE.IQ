@@ -70,4 +70,4 @@ Circolution is a relevant example of the "packaging-as-a-service" model applied 
 Founding year is inconsistent across sources — some cite the idea's origin in late 2019, others cite official incorporation in 2021; both are noted rather than reconciled into a single figure, hence Medium rather than High confidence. Employee count (1-10) is sourced from Crunchbase aggregator data, not a primary company disclosure. The official homepage URL used in seed data (circolution.com/en/homepage/) returned a 404 during this research pass; the working root domain (circolution.com) was used instead.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

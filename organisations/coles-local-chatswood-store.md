@@ -64,4 +64,4 @@ Coles Local Chatswood is a notable example of a major national supermarket chain
 All details in this profile are drawn from a single official Coles Group press release describing the store's 2020 opening — no independent press coverage or later reporting was accessed to confirm whether the refill station remains operational or has been expanded to other locations as of 2026. Recommend verifying current status.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

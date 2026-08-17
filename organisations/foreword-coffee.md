@@ -70,4 +70,4 @@ Priority: ★★ Low (strong social enterprise with a minor, unquantified reuse-
 Seed data described Foreword Coffee sourcing from "4 Asian countries" and "6 farms." Verified sources confirm direct sourcing from at least 4 Asian countries (China, Laos, Thailand, Indonesia) but no source specified an exact farm count of 6 — this detail is unverifiable and should be treated as unconfirmed. Founding year (2017) and co-founder names (Lim Wei Jie, Nadi Chan) are corroborated across multiple independent press sources (Mothership, The Ridge/NUSSU, Vulcan Post). The CupCycle reusable-cup programme is confirmed via the official website but without usage metrics.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

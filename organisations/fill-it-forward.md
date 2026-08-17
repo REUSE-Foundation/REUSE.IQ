@@ -52,4 +52,4 @@ Fill it Forward is a strong, well-documented example of digital tracking applied
 ## Verification Notes
 Founding year (2012) is sourced from press coverage referencing "since the company launched in 2012," but the official homepage did not state a founding date directly, so this is marked medium (not high) confidence pending direct confirmation from a primary/official source or business registry. HQ location (Guelph, Ontario) and founder (Matt Wittek) confirmed via multiple sources. Impact figures are self-reported/company-published, not independently audited.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

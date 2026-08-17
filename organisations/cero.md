@@ -74,4 +74,4 @@ Cero was a small, community-scale zero-waste retail store illustrating the refil
 - Full name/branding confirmed as "Cero" (Tucson), also referred to as "Cero Tucson" in press and directories.
 - No impact metrics or named partnerships were available in any public source reviewed.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

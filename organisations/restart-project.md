@@ -61,4 +61,4 @@ Priority: ★★★★★ Essential
 Direct WebFetch to therestartproject.org returned HTTP 403; founding year (2013), impact figures, and coalition role confirmed via web search summarizing site and third-party sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

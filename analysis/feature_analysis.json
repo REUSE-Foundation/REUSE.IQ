@@ -1,5 +1,5 @@
 {
-  "methodology_note": "This analysis was run computationally against the full REUSE Foundation Knowledge Library dataset (708 organisations, data/REUSE_V4_Master.csv) rather than manual review: tag/ownership/country/status/priority-rating frequencies were tallied directly from structured CSV fields, and technology, customer-segment, and partnership signals were extracted via keyword search across each organisation's core-model and summary text. All prevalence percentages and examples below are drawn from that computed output, not estimated.",
+  "methodology_note": "This analysis was run computationally against the full REUSE Foundation Knowledge Library dataset (708 organisations, data/REUSE_V5_Master.csv) rather than manual review: tag/ownership/country/status/priority-rating frequencies were tallied directly from structured CSV fields, and technology, customer-segment, and partnership signals were extracted via keyword search across each organisation's core-model and summary text. All prevalence percentages and examples below are drawn from that computed output, not estimated.",
   "key_common_features": [
     {
       "feature": "Refill and reusable-packaging systems are the dominant activity",

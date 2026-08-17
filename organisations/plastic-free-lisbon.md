@@ -58,4 +58,4 @@ Plastic Free Lisbon is one of several small zero-waste e-commerce stores in Port
 Business description and reused-packaging shipping practice confirmed via the company's own site; founding year and ownership not found in available sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

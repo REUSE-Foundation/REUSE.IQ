@@ -46,4 +46,4 @@ Not publicly available.
 No new information found beyond my original candidate entry in this second pass. The operator-vs-media distinction remains unresolved; recommend the Foundation contact the site directly to clarify its business model before finalizing categorisation.
 
 ---
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -70,4 +70,4 @@ Bottle Factory is a genuine, long-running (since 2016) small-scale social enterp
 Seed data (South Korea, bottlefactory.co.kr, zero-waste café + eco detergent refill station + bottle club scheme) is confirmed largely accurate — "Bottle Lounge" is the café brand and "채우장" is the refill-retail concept. The seed data's "bottle club scheme" could not be independently corroborated as a currently active named program under that exact term; the company's own materials refer to a "Bottle Club" concept but details were not confirmed from primary sources within research scope, so this is flagged rather than asserted as fact. Founding year (2016) and founder (Jeong Da-woon) were added via Korean-language business registry and press sources not present in the seed data.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

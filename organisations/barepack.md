@@ -70,4 +70,4 @@ barePack is a well-documented, multi-year reusable-packaging operator with genui
 Seed data noted only a Facebook page and asked to verify whether a proper site exists — confirmed: barePack has an official website at https://www.barepack.co/ (a direct fetch attempt hit an SSL certificate error, but the content was independently verified via a third-party source, plasticfree.com, that profiles the company in detail, plus multiple press citations). A major update not present in seed data: barePack was acquired by Swedish circular-packaging company &Repeat in February 2022 and is no longer an independent company; &Repeat subsequently merged with Kamupak (Finland) in 2023. Founding year (2019) and founder names were not in the seed data and are added from press sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

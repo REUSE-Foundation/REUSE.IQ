@@ -74,4 +74,4 @@ Everist is a well-known "waterless beauty" brand whose environmental value propo
 - Confirmed co-founders as Jayme Jenkins and Jessica Stevenson via press coverage (Create & Cultivate, Canadian Business).
 - No official annual/impact report with independently audited figures was found; the two headline impact percentages are company-published, third-party-measured (by Bluebird Climate) but not independently audited.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

@@ -78,4 +78,4 @@ Circular City Labs is a relevant but non-commercial reference point: it is a bil
 - Added project timeline (Jan 2023–Dec 2025), a detail absent from seed data.
 - Ownership/ status corrected to reflect that CCL is a publicly funded project, not a company with equity ownership.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

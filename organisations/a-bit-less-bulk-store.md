@@ -66,4 +66,4 @@ A Bit Less Bulk Store is a small but genuine example of grassroots, community-sc
 No dedicated company website or official registration record was found — all information is sourced from the store's Facebook page and third-party "best zero-waste stores" directory listicles, none of which are primary financial/legal sources. The 2018 founding year appears consistently across directory listings but is not independently corroborated by a registry record. Recommend future verification via Malaysia's Companies Commission (SSM) registry if a formal entity name can be confirmed.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

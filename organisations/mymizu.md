@@ -59,4 +59,4 @@ Priority: ★★★★★ Essential
 
 Founding/launch year 2019 corroborated by mymizu's own press release and multiple independent sources; concept/origin traced to a 2018 trip referenced in coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: High | Last Verified: 2026-07-19 | Research Version: V5

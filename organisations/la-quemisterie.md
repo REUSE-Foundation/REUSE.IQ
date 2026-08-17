@@ -69,4 +69,4 @@ Feature: https://coolturaba.com/bien-estar/la-quemisterie/
 Founding year (2016) confirmed via multiple secondary sources referencing the founders' 2014 initial conversations and 2016 public store opening; not directly confirmed on the company's own website during this research pass (WebFetch of the homepage/company page was not attempted a second time after the founding-year detail was already corroborated via search). Founder names and backgrounds (Nobili, Abbiati, Oblitas) confirmed via the El Cronista feature.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

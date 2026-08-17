@@ -44,4 +44,4 @@ Seed data mischaracterised this organisation as a "zero waste grocery delivery w
 ## Verification Notes
 Seed data description did not match the actual company at sustenir.com — no zero-waste/refill grocery delivery service by this name found in the UAE; corrected category and description to reflect the real (unrelated) vertical-farming business.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

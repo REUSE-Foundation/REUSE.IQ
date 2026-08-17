@@ -68,4 +68,4 @@ Beauty Kitchen is a well-documented, B Corp-certified UK beauty manufacturer wit
 Seed data's founding year (2014), Return for Reward scheme name, and B Corp certification are all confirmed. The Reposit partnership named in seed data is confirmed and detailed further (QR-code app, £2-per-bottle reward mechanism). The One Tree Planted partnership named in seed data could not be independently re-confirmed with a primary source in this research pass and is flagged accordingly rather than dropped, since it may simply not have surfaced in the limited searches performed. A data discrepancy was found between two company-communicated impact figures (20,000+ empties returned vs. 4 million bottles saved) which could not be reconciled from available sources; both are reported with this caveat rather than presenting either as a settled figure.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

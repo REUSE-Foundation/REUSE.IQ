@@ -96,4 +96,4 @@ Dizzie is a directly relevant case study for the REUSE Foundation library: a UK 
 - Company Profile: https://uk.linkedin.com/company/getdizzie
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

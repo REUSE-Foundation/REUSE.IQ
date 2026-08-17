@@ -67,4 +67,4 @@ Priority: ★★ Low (verified, community-rooted multi-location refill store; no
 Seed data's description (Switzerland/Bern, community-run unpackaged bulk store) was confirmed accurate. Founding year (2017) was corroborated by the Blasercafé blog post, which specifically states the store has offered unpackaged goods "since summer 2017" and was "the first store in Bern to do so." The existence of two locations (Lorraine and Mattenhof) plus an online shop and community fridge were independently corroborated across local.ch, Yelp and search.ch listings. Precise legal ownership/governance structure ("community-run" as stated in seed data) could not be further verified beyond its community-oriented practices (e.g., shared fridge).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

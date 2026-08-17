@@ -45,4 +45,4 @@ A limited, single-retailer refill pilot for a major global brand rather than a w
 ## Verification Notes
 Only one confirmed Pakistan refill location found (Carrefour Karachi); seed's claim of "refill stations in malls" (plural) not independently corroborated for Pakistan specifically.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

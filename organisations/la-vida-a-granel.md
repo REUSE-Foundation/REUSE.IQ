@@ -48,4 +48,4 @@ Contextual data (not company-specific): in Ecuador, 53% of waste goes to open-ai
 Well-corroborated across 4 independent sources (Instagram with an active, substantial following, a review/directory site confirming physical address, MIT Solve's detailed project profile, and the company's own site) confirming this is a genuine, active business — an upgrade from my original single-source (MIT Solve only) candidate entry. Note: a separate, unrelated 'lavidaagranel.com' domain exists (appears to be a Spain-based bulk store) — flagged to avoid confusing the two in the final database.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

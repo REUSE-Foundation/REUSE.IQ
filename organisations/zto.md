@@ -60,4 +60,4 @@ Priority: ★★★★ High
 
 Seed data listed "Nasdaq: ZTO"; corrected — ZTO Express ADSs trade on the New York Stock Exchange (NYSE), not Nasdaq, confirmed via IPO press coverage and SEC filings. Reusable-packaging figures sourced from company 6-K filing (FY2025/2026 disclosures).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -69,4 +69,4 @@ Priority: ★★★★ High
 Founding year (2017) and founder name confirmed via company "About Us" page. Ownership structure is not fully disclosed publicly (private company); Norselab is confirmed as an investor via its own portfolio page and press coverage, but full cap table/ownership percentage is not publicly available. Impact metrics (100 tonnes, 8,000 covers) are company-published figures without an independent third-party audit identified.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

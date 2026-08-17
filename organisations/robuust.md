@@ -58,4 +58,4 @@ Robuust is a well-documented pioneer packaging-free retailer — one of Belgium'
 Direct WebFetch of berobuust.com failed on a certificate hostname mismatch; founding details (August 2014, founder Savina Istas, "Belgium's first packaging-free shop") confirmed via independent secondary sources instead.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -68,4 +68,4 @@ Industry Coverage (Departure): https://www.globalcosmeticsnews.com/clean-beauty-
 Founding year (2010) and founder identity confirmed across multiple independent sources (brand's own "Our Story" page, Scandinavia Standard interview, industry press). Ownership change (Waldencast Ventures majority stake, 2021) and founder departure (January 2025) confirmed via industry trade press (BeautyMatter, Global Cosmetics News, WWD headlines); the primary WWD article was paywalled and could not be directly fetched, so departure details rely on secondary corroborating sources. No impact/technology data found in public sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

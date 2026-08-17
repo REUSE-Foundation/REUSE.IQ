@@ -76,4 +76,4 @@ Ecocitex is a strong, well-documented example of textile circularity combined wi
 
 Seed description ("social enterprise, textile waste converted to recycled yarn without water/dyes") confirmed accurate. Founding year clarified: concept originated September 2019, but the operating mill was acquired January 2020, so 2020 is used as the founding year with the 2019 origin noted. Co-founders (Rosario Hevia and Daniela Ehijo) and the social employment programme for formerly incarcerated women were not in the seed data and are added here as independently verified detail.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

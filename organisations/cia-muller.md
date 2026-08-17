@@ -68,4 +68,4 @@ Cia Muller is a strong example of industrial-scale returnable-packaging logistic
 The company's own homepage (accessed directly) does not itself describe the returnable-bottle system in detail — that information comes from multiple independent Brazilian trade-press sources, which is why Impact Data confidence is Medium rather than High despite good source volume. Reported returnable-packaging percentage varies by source and year (95% in 2020 reporting, 90% in other reporting, ~57% overall packaging in more recent coverage) — likely reflects genuine year-over-year change plus a distinction between the Cachaça 51 line specifically and overall company packaging; both figures are reported rather than reconciled into one. Founding year not found in sources accessed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

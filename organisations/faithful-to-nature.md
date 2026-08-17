@@ -48,4 +48,4 @@ Not publicly available.
 Well-corroborated across 4 independent South African lifestyle sources spanning 2020-2024 (Nourish'd Café, CrushMag, Cape Town Today, plus multiple directory listings), confirming this is a well-established, currently operating retailer with both online and physical (V&A Waterfront) presence as of a February 2024 feature — a strong recency signal. This upgrades my original candidate entry's confidence level given the consistent, recent corroboration.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

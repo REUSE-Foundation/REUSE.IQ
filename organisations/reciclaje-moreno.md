@@ -44,4 +44,4 @@ Priority: ★ Low relevance
 ## Verification Notes
 AIM2Flourish hosts numerous Venezuela/Latin America recycling innovation profiles, but none located matched "Reciclaje Moreno" specifically; distinct from unrelated Argentine "Moreno" municipality recycling directory listings that also surfaced in search. Per instructions, unverifiable facts are marked "Not publicly available."
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -50,4 +50,4 @@ As of 2018: 45 million PLPs (plastic layer pads) in operation with 140+ million 
 Exceptionally well-documented across 8 independent sources (Packaging Connections, EmpackMadrid, RocketReach, Grokipedia, Karton S.p.A.'s own history page, plus Cartonplast's own site across multiple pages) spanning a detailed, consistent 60-year corporate history. This is a long-established, credible B2B industrial reusable-packaging pooling operator — high confidence on the corporate facts, but recommend the Foundation explicitly assess whether pure supply-chain transport packaging (unrelated to consumer single-use plastic) fits their mission scope before finalizing inclusion.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

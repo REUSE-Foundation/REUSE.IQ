@@ -70,4 +70,4 @@ ecostore is one of the longest-running and most geographically extensive refill-
 Seed year (1993) confirmed. Founders (Malcolm and Melanie Rands) and ownership transition to the Kraus family (reported variously as 2013 or completed by 2015–2016 across sources) were not in the seed data but are well corroborated across independent business press. As instructed, this profile establishes ecostore NZ as the parent brand; ecostore Japan and ecostore papalagi are treated in separate profiles — ecostore Japan is confirmed as a licensee (ecostore JAPAN Co., Ltd., est. ~2017), while ecostore papalagi was found to be an unrelated, independently operated Japanese cooperative store (see that profile's Verification Notes for detail).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

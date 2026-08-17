@@ -61,4 +61,4 @@ Priority: ★★★ Medium
 Seed data flagged that infogreen.lu looks like a directory listing rather than an official company site — confirmed: no independently operated YourGreenKit website was found in this pass. Legal entity "Your Green Kit A.s.b.l" (Steinsel, Luxembourg) identified via a Luxembourg business registry aggregator (pappers.lu) but not cross-checked directly against the official Luxembourg Business Registers (lbr.lu) filing. Founding year, founders and current operational status could not be confirmed within the lean research budget for this pass.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

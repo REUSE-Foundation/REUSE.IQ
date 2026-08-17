@@ -68,4 +68,4 @@ Cupable is a genuine reuse-system operator combining a lower-impact material bas
 The official website (cupable.in) could not be directly accessed during this research pass (DNS resolution failure) — all information is drawn from third-party startup/sustainability directories rather than the company's own site. Founding year (2019) and "unfunded" status are per Tracxn's company database. Recommend direct verification via the official site if it becomes accessible.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

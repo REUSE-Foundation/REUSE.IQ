@@ -65,4 +65,4 @@ MMP e.V. is a structurally important example of an industrial-scale reuse poolin
 
 Seed data described this as a "non-profit/cooperative national milk/dairy glass-bottle pooling system" — confirmed, with the important nuance that the original 1980s pool was disbanded in 2008 and only revived in 2022 under the MMP e.V. name, now covering food products beyond just dairy. Precise founding date of the original pool (specific year in the 1980s) was not pinned down in available sources beyond "established in the 1980s."
 
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -61,4 +61,4 @@ Priority: ★★★★ High
 Seed description ("repair/upcycling/rental/resale") is broader than what current sources confirm; verified core business is B2B deadstock fabric marketplace plus recommerce platform-as-a-service, with upcycling as an added service. No evidence found of a repair or rental offering.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

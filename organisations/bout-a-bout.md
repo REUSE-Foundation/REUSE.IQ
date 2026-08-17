@@ -78,4 +78,4 @@ Bout' à Bout' is a well-documented, operating example of regional-scale industr
 Seed data (France, boutabout.org, B2B glass bottle washing and reuse logistics support) is confirmed accurate. Added detail: founding year 2016, Nantes origin with washing facility in Carquefou, non-profit association legal status (confirmed via Nantes Métropole's official association directory), and named institutional/retail partners. One fetched source suggested the organisation might not be association-status but the primary official municipal directory source confirms association status, which is treated as the more authoritative source.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

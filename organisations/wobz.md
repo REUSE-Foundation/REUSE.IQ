@@ -60,4 +60,4 @@ Wobz is a credible French reusable-packaging-as-a-service provider with a distin
 - Business model, technology (MagicLoop®), and network memberships (Vrac & Réemploi, CEC, New ERA) confirmed directly from the official site.
 - Quantitative 2024 impact figures were present on the page as placeholders/graphics not extractable as text; exact numbers could not be confirmed and are recorded as unavailable rather than guessed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

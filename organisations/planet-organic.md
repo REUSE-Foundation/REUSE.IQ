@@ -58,4 +58,4 @@ As the UK's original organic supermarket with a long-running bulk refill offerin
 Founding year (1995) and 2023 administration/reacquisition confirmed via Wikipedia; sources differ slightly on named founder (Renée Elliott vs. Jonathan Dwek), noted as an open discrepancy.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

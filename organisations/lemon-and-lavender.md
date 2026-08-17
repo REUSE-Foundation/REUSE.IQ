@@ -64,4 +64,4 @@ Priority: ★★★ Medium
 
 Correction to seed data: the seed listed the organisation generically as "United States" with domain lemonandlavendermadison.com; verified location is Madison, Alabama (not Madison, Wisconsin, which has an unrelated eco-goods retailer, Green Life Trading Co.). Founding year (2021) and founders confirmed via WHNT news coverage and the official site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -70,4 +70,4 @@ Priority: ★★ Low
 Seed data's core model ("food waste transformed into sustainable packaging materials") is confirmed accurate. However, seed data's Focus Area label "Eco-friendly product" understates that this is a single-use-replacement material, not a reusable/refillable system — important distinction for REUSE Foundation categorisation, consistent with the seed comment flagging this concern. No evidence found of Alterpacks operating any reuse, refill, deposit-return, or take-back scheme. No news or funding activity found after early 2023; current operating status (2026) could not be independently confirmed beyond the still-live company website.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

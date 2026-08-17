@@ -46,4 +46,4 @@ Packoorang is a well-defined reusable packaging operator for e-commerce with a c
 ## Verification Notes
 100+ reuse claim and recycled-material sourcing confirmed via company site and Business Norway profile; founding year and ownership not publicly available.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

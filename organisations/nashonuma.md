@@ -58,4 +58,4 @@ Priority: ★★ Low
 
 Founding year not stated on the official site; company self-describes as "Pakistan's first" eco e-commerce store but this claim is unverified against competitors.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

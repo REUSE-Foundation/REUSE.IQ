@@ -58,4 +58,4 @@ Plastic Free Life is a small national eco-retailer serving a niche but growing B
 Physical store opening (September 2022) corroborated via Bulgarian press coverage; founding year of the underlying business and ownership were not found.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

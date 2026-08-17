@@ -49,4 +49,4 @@ Not publicly available.
 IMPORTANT CORRECTION: my original candidate entry listed this company's country as Austria, which is incorrect — 8 independent sources (Tracxn, PitchBook, Dealroom, StartupIntros, Startbase, Crunchbase, Signalbase, and the company's own site) consistently place circuly in Bielefeld, Germany. Also flagged a genuine founding-year and co-founder discrepancy: the company's own 'About' page names only Nick Huijs as founder in 2020, while every independent source names both Victoria Erdbrugger and Nick Huijs as co-founders in 2019 — recommend the Foundation treat the independent-source version (2019, two co-founders) as more reliable, but verify directly. This is a strong, well-documented B2B enabling-technology candidate for the rental category once the country field is corrected.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

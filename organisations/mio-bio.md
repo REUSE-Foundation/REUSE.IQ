@@ -64,4 +64,4 @@ Priority rating: ★ Low relevance
 
 Seed data listed country as "Denmark" but flagged the .ro domain as suspicious — this research confirms the company is Romanian (Bucharest-based), not Danish. Founding year (2009) and founder names sourced from web search summaries of the company's About page and third-party profile (Spotted by Locals); could not independently WebFetch the About page directly, so founding-year confidence is Medium.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

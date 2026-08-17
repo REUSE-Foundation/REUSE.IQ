@@ -71,4 +71,4 @@ GAIA Seoul Report: https://www.no-burn.org/wp-content/uploads/Korea.pdf
 Seed data provided no founding year; 1997 was found via the GAIA/no-burn.org member profile and is treated as the best-available verified figure, though an older archived source (archive.grrn.org) refers to the network under the name "Korean Waste Management Network," suggesting possible historical rebranding — this could not be fully reconciled from public sources. All quantitative impact figures are self-reported by the organisation via its GAIA profile and have not been independently corroborated by outside audit; presented as such.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

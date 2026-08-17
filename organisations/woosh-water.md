@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Founding year is inconsistently reported across sources (2010 vs. 2013); Tel Aviv street pilot confirmed for 2013. Current operational status (2024-2026) could not be confirmed within the lean research budget for this pass — flagged for future re-verification rather than assumed active or defunct.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

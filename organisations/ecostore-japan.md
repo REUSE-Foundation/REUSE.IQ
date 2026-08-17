@@ -66,4 +66,4 @@ ecostore Japan is a well-documented example of a refill-station network scaled t
 Seed data described ecostore Japan as "licensee, in-store bulk refill stations" — confirmed accurate. The precise founding year of the Japan entity (~2017) comes from secondary press coverage rather than an official company statement and should be treated as approximate. Store/partner counts vary by source and year (8 stations at August 2020 launch; 45 by 2021; "40+" in more recent descriptions) reflecting genuine network growth and churn over time rather than a factual error — treat any single figure as a snapshot, not a current total.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

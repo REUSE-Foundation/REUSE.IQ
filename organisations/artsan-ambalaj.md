@@ -69,4 +69,4 @@ Artsan Ambalaj is a legitimate, scaled B2B flexible-packaging manufacturer with 
 - Parent group structure (Sanat Group, including Sanat Packaging, Artpack Packaging, Ecoriver Recycle) was newly identified and added.
 - The 134.17% sales growth and 197-employee figures come from an EMIS business-data listing surfaced only via search snippet; the EMIS page itself was not directly fetched/confirmed, so this figure is flagged as unverified/secondary rather than confirmed.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

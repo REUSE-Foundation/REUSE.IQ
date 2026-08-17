@@ -66,4 +66,4 @@ Companies House Registry: https://find-and-update.company-information.service.go
 Corrected/clarified from seed data: KM Packaging Services Ltd. (UK, kmpackaging.com) is a distinct company from the similarly named KM PACKAGING GmbH (Germany, part of the ALPLA Group, maker of caps/closures) — care was taken not to conflate the two. No evidence of a "reusable packaging system" (returnable/reusable containers) was found for KM Packaging Services Ltd.; its verified activities are paper-based, compostable and recyclable flexible packaging, which has been reflected accurately above rather than the seed's "reusable" framing. Ownership confirmed as Employee Ownership Trust via the company's own announcement and Companies House record.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

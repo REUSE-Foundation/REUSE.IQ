@@ -78,4 +78,4 @@ Brabantia is a well-documented, long-established manufacturer with substantial, 
 Seed data (Netherlands, Year Established 1919, family-owned, durable long-life household goods, 501-1000 employees) is confirmed accurate on all points — 1919 founding, van Elderen family ownership across four generations, and employee count of approximately 1,000 across four production units (consistent with the seed's 501-1000 band). Significant additional verified detail was added beyond the seed data, including B Corp certification (March 2023), Cradle to Cradle certification figures, the WeForest tree-planting partnership since 2014, and detailed 2024 circular-design pillar metrics — none of which were present in the seed data.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

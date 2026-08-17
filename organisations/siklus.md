@@ -78,4 +78,4 @@ Siklus is a strong fit for the REUSE Foundation library: refill and reusable pac
 - Accelerator profile: https://unreasonablegroup.com/ventures/siklus
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

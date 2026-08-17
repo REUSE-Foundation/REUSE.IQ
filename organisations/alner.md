@@ -81,4 +81,4 @@ Alner (formerly Koinpack) is a well-documented, purpose-built reusable-packaging
 - App Store Listing: https://apps.apple.com/us/app/alner/id6450244478
 
 ---
-Confidence — Name: High (rebrand well-documented by Enviu and multiple independent press sources) | Founding Year: High (March 2020, consistent across Enviu and press sources) | Impact Data: Medium (figures are self-reported by Enviu/company, but specific and dated; 2024 figures are stated targets, not confirmed achieved) | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High (rebrand well-documented by Enviu and multiple independent press sources) | Founding Year: High (March 2020, consistent across Enviu and press sources) | Impact Data: Medium (figures are self-reported by Enviu/company, but specific and dated; 2024 figures are stated targets, not confirmed achieved) | Last Verified: 2026-07-17 | Research Version: V5

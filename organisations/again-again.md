@@ -72,4 +72,4 @@ Crowdfunding Platform: https://www.pledgeme.co.nz/investments/425
 Press: https://concreteplayground.com/auckland/food-drink/coffee-cup-lending-system-again-again-has-launched-in-auckland
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

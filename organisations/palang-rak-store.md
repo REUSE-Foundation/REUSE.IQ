@@ -46,4 +46,4 @@ Not publicly available.
 Only a single source (Root the Future blog) was found in this second research pass, with no additional independent corroboration — consistent with my original candidate assessment. No dedicated website or additional press coverage found; recommend direct verification via the Santi Asoke community network.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

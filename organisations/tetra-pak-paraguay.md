@@ -44,4 +44,4 @@ A material-recovery facility for beverage cartons rather than a reuse/refill ope
 ## Verification Notes
 Limited independent verification found beyond seed data; no dedicated public source for the Paraguay-specific 1,500 tons/year figure was located during this search.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

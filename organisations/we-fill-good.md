@@ -60,4 +60,4 @@ We Fill Good is a modest, locally-scoped refill/reuse retailer with a clear low-
 - Business model, product range, and delivery/shipping terms confirmed directly from the official site.
 - Founding year and ownership not disclosed publicly.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

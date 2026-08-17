@@ -49,4 +49,4 @@ Not publicly available.
 Corroborated across a named-founder Daily Maverick feature plus 3 independent South African zero-waste directory listings, with a specific founding date, founder name, and inspiration story (Nude Foods Cape Town). This upgrades my original 'Low-Medium confidence, Facebook-only' entry substantially.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -45,4 +45,4 @@ Paptic's material is designed for recyclability and single-use plastic replaceme
 ## Verification Notes
 Corrected framing: sources consistently describe Paptic as a recyclable (not reusable) plastic-replacement material; category changed from Reusable Packaging to Material Recovery to reflect actual use case.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -77,4 +77,4 @@ Priority: ★★★★ High (venture-backed, technology-enabled refill/reverse-l
 Seed data's description ("e-commerce for refillable bulk essentials via micro-fulfillment hubs") is fully confirmed and well-corroborated across multiple independent sources (Disrupt Africa, Dabafinance, Madica, Praxis). Founding year (2019) and founders (Peter Ndiang'ui, Lesley Mbogo) are consistently reported. All quantitative growth metrics (5x revenue growth, near-break-even, customer doubling, repeat-customer rate) are self-reported by the company via press interviews rather than independently audited, and expansion targets (30 African cities, Kinshasa, Lusaka) are stated ambitions rather than confirmed current operations — GoBEBA appears to still operate primarily in Nairobi as of the most recent verified reporting (2024).
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

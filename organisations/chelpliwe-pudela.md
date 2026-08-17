@@ -68,4 +68,4 @@ Chełpliwe Pudeła is a small, grassroots example of packaging reuse embedded di
 Corrected the organisation name from the seed tracker's "Chelpliwe Pudela" to the verified "Chełpliwe Pudeła" (with Polish diacritics), as used consistently across the official site and third-party directories. Founding year and any impact metrics were not found in any source accessed during this research pass.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -68,4 +68,4 @@ Ecotutu is a genuine shared-infrastructure/rental-access model — farmers pay t
 Seed data described Ecotutu's units as "refillable solar-powered cold storage units for agricultural use." Verified sources consistently describe a "pay-as-you-chill," cooling-as-a-service/rental model rather than a refillable product — no source used the term "refillable" in connection with Ecotutu. This is flagged as a probable mischaracterisation in the seed record; the activity is more accurately classified under Sharing/Rental of durable cold-storage assets. Founding year (2020) and founders (Babajide Oluwase, Michael Akinsete) were not in the seed data but are well corroborated across multiple independent sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

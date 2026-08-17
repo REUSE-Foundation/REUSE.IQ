@@ -60,4 +60,4 @@ Priority: ★★★★★ Essential
 Skubu is a brand/retail concept operated by technology company Sonke; no independent Skubu website was found — verified via CSIR and multiple press sources instead.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

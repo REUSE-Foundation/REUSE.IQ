@@ -67,4 +67,4 @@ CupClub is primarily of historical interest as the origin brand of what is now C
 Confirmed via multiple independent sources (company's own news archive, Design Week press coverage) that CupClub and Clubzero are the same legal entity/organisation under different brand names across time (2018 founding as CupClub, rebranded circa 2021 as Clubzero). This profile is deliberately kept brief and historical to avoid duplicating current operational details, which are covered in the separate Clubzero profile — including that profile's flagged 2026 Companies House insolvency/liquidation filing for the legal entity Acet Circular Solutions Ltd.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

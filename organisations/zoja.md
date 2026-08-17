@@ -58,4 +58,4 @@ Priority: ★★ Low
 
 Confirmed as an active bulk/organic grocery store in Buenos Aires via Instagram, Facebook, and EcoRed directory listings; a website (zojamarket.com) surfaced in search but could not be independently confirmed as live/official during this check.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

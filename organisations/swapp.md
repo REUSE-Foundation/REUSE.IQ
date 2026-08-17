@@ -46,4 +46,4 @@ A well-documented refill vending system embedded in major retail chains — soli
 ## Verification Notes
 No founding year found in public sources; seed's claim of Sweden operations not corroborated — only Polish retail locations confirmed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

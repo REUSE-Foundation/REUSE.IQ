@@ -52,4 +52,4 @@ Excess Materials Exchange is a credible, well-documented B2B industrial-reuse pl
 ## Verification Notes
 Seed provided no founding year; confirmed as 2017 (founded) / June 2020 (public platform launch) — both dates included for clarity. Founders confirmed as Maayke-Aimée Damen and Christian van Maaren. City confirmed as Amsterdam (one source referenced Rotterdam in error; Amsterdam is the consistently corroborated HQ across multiple sources).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -49,4 +49,4 @@ Not publicly available.
 Corroborated across 3 independent sources (Bangkok Post, Khaosod English, plus an active Facebook page) with consistent detail on the Thai Freedom House charitable mission — confirms and enriches my original candidate entry.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

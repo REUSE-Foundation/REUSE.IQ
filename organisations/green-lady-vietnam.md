@@ -65,4 +65,4 @@ Priority: ★★★ Medium
 Seed data described Green Lady Vietnam as offering "reusable cloth sanitary pads + eco essentials" — corroborated and further detailed via Tuoi Tre News coverage, which additionally confirmed the founding year (2017) and founder identity (Bui Thi Minh Ngoc), neither of which was in the seed data. Direct WebFetch of the Facebook page returned only a truncated snippet ("Green Lady Vietnam [Content truncated due to length...]"), so most verified detail comes from the Tuoi Tre News feature rather than the company's own page; treat social-media-only presence as a limiting factor for ongoing monitoring of current operations.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

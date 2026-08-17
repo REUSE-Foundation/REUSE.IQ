@@ -76,4 +76,4 @@ Alchemy is a substantial, verifiable player in industrial-scale electronics reus
 - Press: https://www.wearealchemy.com/news/alchemy-opens-new-device-refurbishment-facility-in-miami-county
 
 ---
-Confidence — Name: Medium (trading name "Alchemy" confirmed; formal legal entity name not confirmed on official site) | Founding Year: High (2017, consistent across sources) | Impact Data: Low (self-reported, inconsistent across company's own pages, no independent audit found) | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium (trading name "Alchemy" confirmed; formal legal entity name not confirmed on official site) | Founding Year: High (2017, consistent across sources) | Impact Data: Low (self-reported, inconsistent across company's own pages, no independent audit found) | Last Verified: 2026-07-17 | Research Version: V5

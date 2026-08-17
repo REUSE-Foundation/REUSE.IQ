@@ -47,4 +47,4 @@ A well-established, clearly-documented independent refillery with a straightforw
 ## Verification Notes
 2018 founding and owner name (Eniko Olah) confirmed via St Pete Greenhouse feature.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

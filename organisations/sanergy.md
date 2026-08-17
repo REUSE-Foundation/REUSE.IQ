@@ -46,4 +46,4 @@ Sanergy demonstrates a scaled, franchise-based circular sanitation model convert
 ## Verification Notes
 Founding year (2011) and scale figures corroborated by Finnfund and Berkeley Haas case study sources.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

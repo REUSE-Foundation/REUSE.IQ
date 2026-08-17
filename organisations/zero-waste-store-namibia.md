@@ -49,4 +49,4 @@ Not publicly available.
 Well-corroborated via a detailed dated Jan 2024 Xinhua news feature naming the founder, plus the companys own site and Facebook page. Substantially upgrades my original candidate entry to High confidence.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

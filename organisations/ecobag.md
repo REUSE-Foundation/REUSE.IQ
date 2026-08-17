@@ -69,4 +69,4 @@ EcoBag is a small, long-established (25+ years) French manufacturer of reusable,
 
 Seed description ("reusable shopping bags manufacturer/retailer") confirmed accurate, though the company's actual specialisation is personalised/branded B2B packaging (jute, cotton, kraft paper) rather than generic consumer retail shopping bags. Founding year (2000) and legal status (SARL, SIREN 432086437) independently confirmed via French company registry, correcting the seed's lack of a founding date. No consumer-facing retail storefront was identified; the business is exclusively B2B custom manufacturing.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

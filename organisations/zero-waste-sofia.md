@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Seed data described this as a "non-profit" — sources found describe it as an individual-led initiative (founder Simona Stiliyanova-Pavlova) rather than confirming formal non-profit registration; "non-profit" status could not be independently verified in this pass.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

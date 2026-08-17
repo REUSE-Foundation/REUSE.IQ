@@ -57,4 +57,4 @@ Roots Collective is a genuine, well-established marketplace supporting Philippin
 Founding year (2016) matches seed data and is confirmed on the official site. No quantified impact metrics or named individual brand partners were found in this pass; "Impact Map" referenced but not detailed.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

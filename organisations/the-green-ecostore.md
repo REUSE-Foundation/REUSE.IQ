@@ -46,4 +46,4 @@ Not publicly available.
 No new independent corroboration found beyond my original single-source candidate entry (Time Out Dubai). Recommend the Foundation verify directly via a UAE business directory or the company's own site before finalizing.
 
 ---
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

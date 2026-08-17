@@ -46,4 +46,4 @@ A foundational, decades-old global player in reusable transit packaging — esse
 ## Verification Notes
 Company merged into "IPL Schoeller" in 2025 per its own site; original Schoeller Allibert entity formed 2012-2013.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

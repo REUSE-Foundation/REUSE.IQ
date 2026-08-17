@@ -48,4 +48,4 @@ Priority: ★★★★ High
 ## Verification Notes
 This profile covers Unilever's Philippines/global refill initiative specifically (distinct from the separately profiled Sedal-Mexico and Colombia FAB/Dirt Is Good regional programs), per instruction to keep the three country/brand-specific Unilever entries as separate profiles.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -63,4 +63,4 @@ Kilogram S.I.S. is a relevant example of applying a returnable-container/deposit
 No founding year or founder information was found in the source accessed during this research pass. The "up to 90% of waste" avoidance claim is self-reported by the company with no independent audit or specific year attached — treated as a marketing claim rather than a verified metric.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

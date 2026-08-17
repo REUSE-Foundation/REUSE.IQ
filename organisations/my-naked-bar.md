@@ -57,4 +57,4 @@ Priority: ★★ Low
 
 Founding year not stated on official site or in press coverage found; left as Not publicly available rather than guessed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

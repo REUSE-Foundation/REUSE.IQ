@@ -46,4 +46,4 @@ A genuine, EU-backed community recycling and social-empowerment initiative with 
 ## Verification Notes
 Cooperative name, 2023 founding, parish coverage and COOPI/Tinta Violeta/EU partnership confirmed via COOPI's own site; membership figures vary between two COOPI sources (45 vs. 72).
 
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

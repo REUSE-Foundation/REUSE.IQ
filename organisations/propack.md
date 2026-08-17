@@ -58,4 +58,4 @@ Propack is a relevant Latin American industrial example of closing the PET/PP lo
 Recycled-content claims and Ecopet/Cristalpet partnership sourced from the company's own announcements; founding year not found and no independent third-party verification of recycled-content percentages was located.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

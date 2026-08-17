@@ -67,4 +67,4 @@ Elamise Kergus is a small, low-visibility Estonian retailer whose core activity 
 - Business registry data raises a material caveat not present in the seed: reported turnover has declined sharply since 2021 and is forecast at €0 for 2026, with VAT registration lapsed since April 2024 — this suggests the business may no longer be actively trading, despite the website remaining online. This should be treated as an open verification flag rather than a confirmed closure.
 - Founding year corrected/specified as 2018 (registry date), which was not present in the seed.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

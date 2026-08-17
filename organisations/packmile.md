@@ -49,4 +49,4 @@ Not publicly available.
 Well-corroborated across 7 independent sources (Tracxn, Business India, IndiaMART, ZoomInfo, Crunchbase, Inc42, Internshala) with consistent founder name, founding year, and a detailed 2020 feature naming major enterprise clients. Category-fit nuance flagged: core products (paper bubble wrap, tape, pallet covers) are eco-friendly single-use alternatives more than a true multi-cycle reusable system — recommend the Foundation verify directly whether Packmile's offerings meet a strict 'reusable packaging' bar.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

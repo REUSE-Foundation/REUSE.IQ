@@ -44,4 +44,4 @@ Priority: ★★ Low
 ## Verification Notes
 Could not verify the "community bulk refill" component from seed data; only food-relief/redistribution activities are documented on the official site.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

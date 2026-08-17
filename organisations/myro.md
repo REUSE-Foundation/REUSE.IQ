@@ -57,4 +57,4 @@ Priority: ★★ Low
 
 Shutdown in 2022 corroborated by multiple independent sources; no evidence found of an acquisition (contradicts any assumption of continued operation under new ownership).
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

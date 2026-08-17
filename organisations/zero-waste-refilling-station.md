@@ -48,4 +48,4 @@ Not publicly available.
 Corroborated existence via an independent Philippine lifestyle blog (VillagePipol, 2022) confirming a real Bogo City, Cebu location and household-sanitation refill model, distinct from the company's own self-reported claims. However, I was not able to independently verify the specific impact figures (1.3M sachets, 17 locations) cited in my original candidate research via a second source in this pass — recommend the Foundation treat those figures as company-reported pending further verification.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

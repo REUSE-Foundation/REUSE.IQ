@@ -47,4 +47,4 @@ A long-running, well-documented closed-loop B2B refill pioneer with genuine reve
 ## Verification Notes
 2006 founding confirmed via company "About Us" and third-party retailer feature (Harriet's of Hove).
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

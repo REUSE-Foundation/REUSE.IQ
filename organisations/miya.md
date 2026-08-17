@@ -67,4 +67,4 @@ Priority rating: ★ Low relevance
 
 Seed data described Miya as a "cosmetics refill service"; this could not be verified — available sources (TDJ case study, brand website search results) describe Miya as a natural cosmetics product brand with recyclable/ecological packaging, with no confirmed dedicated refill-station or refill-service program. Ownership and founding details sourced from TDJ's own case study page (2021 acquisition); pre-2021 founding year (2014-2015) is based on secondary search-result summaries and carries medium confidence. A conflicting secondary reference ("Bielenda Group adds Miya Cosmetics") was found but not corroborated as authoritative; TDJ's own case study was treated as the primary source for ownership.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

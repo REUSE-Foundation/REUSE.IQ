@@ -71,4 +71,4 @@ Fussy is a legitimate, verifiable refill-based personal-care brand with a clear 
 Seed data's year (2020) is confirmed by multiple independent sources (Kickstarter launch October 2020, company "About" page). Seed description ("refillable deodorant subscription, compostable refills") is accurate. Country is confirmed as United Kingdom, not stated in seed but consistent with sourcing. Specific founders' full names and precise ownership/equity structure were not disclosed in verified public sources beyond named investors Deborah Meaden and Peter Jones.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

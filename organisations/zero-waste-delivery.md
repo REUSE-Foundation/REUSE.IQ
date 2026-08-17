@@ -48,4 +48,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Electric-van delivery model, London/South East coverage, and NHS discount confirmed via official site; founding year not published.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -45,4 +45,4 @@ A well-funded, internationally recognised compostables innovator, but its core a
 ## Verification Notes
 Founding year (2010), founders and funding history confirmed via NoCamels and Times of Israel coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

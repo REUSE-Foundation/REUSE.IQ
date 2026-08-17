@@ -66,4 +66,4 @@ Conatural is a well-documented, funded Pakistani natural-beauty brand, but the s
 Could not verify the seed tracker's specific claim of "refill vending machines" — this feature was not found on the official website or in press coverage accessed during this research pass. Founder names are reported inconsistently across sources (Rema Taseer plus either Shehrbano Taseer or Myra Qureshi) — both variants noted rather than resolved. Recommend re-verifying the refill-vending claim directly with the company before treating it as confirmed.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

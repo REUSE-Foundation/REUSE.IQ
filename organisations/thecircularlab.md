@@ -47,4 +47,4 @@ A well-established, well-funded non-profit innovation hub squarely focused on pa
 ## Verification Notes
 2017 opening and "first in Europe" claim, and non-profit/Ecoembes ownership, confirmed on official site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

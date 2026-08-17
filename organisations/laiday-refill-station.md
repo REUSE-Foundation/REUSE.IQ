@@ -66,4 +66,4 @@ Priority: ★★★★ High
 
 Seed data (Vietnam, bulk refill store) confirmed. Founding year (2018) and founder name (Quyen Nguyen) corroborated by RKC-MPD/ERIA case study. No verified quantitative impact metrics found; marked accordingly rather than estimated.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

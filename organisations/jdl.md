@@ -68,4 +68,4 @@ Priority: ★★★ Medium
 
 Official website confirmed as jdl.com (redirects/aliases with jdlogistics.com exist commercially but www.jdl.com is JD Logistics' branded domain per search results). Impact figures (500K boxes, 300 reuse cycles, 80% by 2030 target) are sourced from JD corporate blog and industry trade press, not an independently audited sustainability report — treat as company-reported. HKEX listing (2618) confirmed via Wikipedia; NASDAQ ticker refers to parent JD.com, not JDL specifically.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

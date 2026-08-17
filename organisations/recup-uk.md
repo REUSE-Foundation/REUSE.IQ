@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 CROSS-REFERENCE: This is a distinct entity from RECUP GmbH (Germany, recup.de, founded 2016 by Fabian Eckert and Florian Pachaly) — see separate profile recup-rebowl-germany.md. Both independently claim a 2016 founding and use near-identical branding ("Recup" / reusable cup deposit systems), but Recup UK's own About Us page makes no mention of Germany, Munich, or the German founders, and no evidence of common ownership, licensing, or franchise relationship was found. Treat as coincidental name/date overlap between two unrelated companies, not confirmed as the same brand's UK market entry.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

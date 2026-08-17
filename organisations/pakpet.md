@@ -43,4 +43,4 @@ The seed description of Pakpet as a "durable reusable/refillable" bottle produce
 ## Verification Notes
 Could not confirm "reusable/refillable" positioning from seed; sources describe standard single-use PET bottle manufacturing for third-party brands. Category downgraded accordingly.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

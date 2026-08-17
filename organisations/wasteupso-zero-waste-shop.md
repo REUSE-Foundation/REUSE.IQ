@@ -61,4 +61,4 @@ Wasteupso is a well-documented, long-running (since 2018) package-free retailer 
 - Founding year (2018) and founder (Kychele Boone) corroborated by independent press coverage (Korea Times), not seed data alone.
 - Seed listed no website; official domain wasteupso.com confirmed via search and press sources.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

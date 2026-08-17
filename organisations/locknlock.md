@@ -73,4 +73,4 @@ Priority: ★★★ Medium (large, verified, publicly listed manufacturer with a
 Seed data's founding year (1978) was confirmed as accurate (established 11 November 1978, per Wikipedia). The seed data's claim of a KOSDAQ listing (115390) could not be precisely confirmed — Wikipedia lists the stock as traded on the Korea Exchange (KRX) under ticker 115390; whether this specific ticker sits on the KOSDAQ or KOSPI market tier was not independently confirmed in this research, so the exchange tier is noted with lower confidence while the ticker itself is corroborated. The "Love for Planet" campaign and its named partners (Hanwha TotalEnergies, Ujoolove, CJ Logistics) were independently verified via both LocknLock's own official news/CSR pages and third-party trade press (The Asia Business Daily), giving reasonably high confidence in this specific claim.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

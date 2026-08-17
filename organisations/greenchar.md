@@ -72,4 +72,4 @@ Priority: ★★ Low
 Seed data flagged GreenChar for assessment on whether "reuse" is the right framing versus alternative-fuel/recycling — this research confirms the concern: GreenChar is fundamentally a clean-cooking/alternative-fuel manufacturer using agricultural waste as feedstock, not a reuse, refill, or reusable-packaging business. It has been retained with "Other" as its primary category and flagged with a Low priority rating to reflect this categorical mismatch, per the assessment requested in the seed brief. Founding year (2013) and founder age (17–18) are well corroborated across CSMonitor, Echoing Green, and Quartz Africa. No verifiable information was found confirming GreenChar's operational status in 2026; most substantive coverage dates to 2014–2016, and the Clean Cooking Alliance directory listing itself could not be fetched directly (403 error) to confirm current listing status.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

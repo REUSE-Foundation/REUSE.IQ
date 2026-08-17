@@ -48,4 +48,4 @@ Priority: ★★ Low
 ## Verification Notes
 Seed URL and category confirmed via search; founding year and ownership structure beyond "part of Clark & Main shops" could not be verified.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

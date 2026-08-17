@@ -78,4 +78,4 @@ Priority: ★★ Low (credible, fast-growing compostable single-use brand; only 
 The task brief asked for an honest assessment of whether Get Joni represents "reuse" or simply compostable single-use packaging — verification confirms the latter is the accurate characterization for its core pad/tampon product line; only the Model V institutional dispenser has a legitimate, if narrow, tie to reuse/circularity concepts (reusable hardware providing repeated access). Founders were confirmed as Linda Biggs and Jayesh Vekariya (not other names initially considered during research), founding date March 2020, HQ Victoria, BC — all cross-confirmed across Victoria News (2020), Capital Daily, and the co-founder's own Medium post. All impact metrics are company-self-reported on its own website; no independent/third-party audit of these figures was located.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

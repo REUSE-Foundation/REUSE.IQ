@@ -69,4 +69,4 @@ Ecodis is a long-established (25+ years), reasonably substantial French ecologic
 
 Seed data provided only the name "ecodis" without a website; the correct official site was identified as ecodis.info (with an associated consumer-facing sub-brand site, la-droguerie-eco.com). Founding year (2000) and location (Saint-Nolff, Morbihan) independently confirmed. Seed's description ("distributor of organic/ecological refillable cleaning/personal care") is accurate but incomplete — refillable formats are one part of a much broader multi-brand ecological product catalogue, and the primary business model is B2B distribution to shops rather than direct-to-consumer refill retail.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

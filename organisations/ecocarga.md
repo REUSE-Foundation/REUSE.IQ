@@ -49,4 +49,4 @@ As of Nov 2019 (first ~8 months of operation cited in one source; full-year 2019
 RESOLVES my original candidate flag (previously 'Low confidence, Facebook-comment-only source'): EcoCarga is confirmed via 4 independent, detailed Chilean business-press sources (Diario Financiero, País Circular, El Mostrador x2) with named founders, a clear QR-tracked refill model, and specific impact figures. This substantially upgrades confidence from my original entry. Note the company name coincidentally collides with an unrelated Chilean government EV-charging app of the same name — flagged to avoid confusion.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

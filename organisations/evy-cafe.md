@@ -64,4 +64,4 @@ Directory Listing: https://www.local.ch/fr/d/yverdon-les-bains/1400/evy-cafe-9Hh
 Delivery Platform Listing: https://www.ubereats.com/ch-fr/store/evy-cafe/Ht9pgHUhQ3ydv7a9QqoA3g
 
 ---
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -47,4 +47,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year 1982 and 2024 Noppes merger confirmed via RataPlan's own news pages; specific annual impact/tonnage data not located in sources reviewed.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

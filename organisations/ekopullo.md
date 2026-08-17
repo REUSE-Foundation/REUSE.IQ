@@ -63,4 +63,4 @@ Ekopullo is a strong, well-documented example of a functioning multi-brand depos
 - Seed described Ekopullo as "non-profit (PALPA — Finnish Beverage Container Recycling Ltd)"; research clarifies this is imprecise — Ekopullo is Ekopulloyhdistys ry, a legally distinct non-profit association that draws staff and premises from Palpa but is not simply a Palpa program or subsidiary. Corrected accordingly.
 - Founding year (2004) and impact statistics (97% return rate, 33 average refills) both sourced directly from the official site; no independent third-party corroboration was found within the search scope, so impact-data confidence is rated Medium rather than High.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

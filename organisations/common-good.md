@@ -68,4 +68,4 @@ Common Good is a well-established (15+ year) refill-focused cleaning brand with 
 Seed data's specific "About Us" URL (commongoodandco.com/pages/about-us) returned a 404; the correct working URL is commongoodandco.com/pages/about (no "-us" suffix) — noted for future reference. The "100+ refill stations" figure is a company-reported claim without an independent audit found; treated as Medium rather than High confidence for that specific number, though the broader refill-network business model is well corroborated across multiple independent press sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

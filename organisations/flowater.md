@@ -66,4 +66,4 @@ FloWater is a credible, multi-location refill-station operator addressing bottle
 No specific founding year or founder was found — company materials only reference operating for "seven years" without an anchor date. Seed data's "(via Pure Water Technology)" qualifier was not independently clarified — it may refer to a parent company or product-line name; not confirmed in sources accessed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

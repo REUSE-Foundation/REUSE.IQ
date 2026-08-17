@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Seed flagged possible closure — no closure evidence found; current site is live and describes active delivery-area service plus retail refill-station partnerships, though it is unclear if a physical Melbourne storefront still operates separately.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

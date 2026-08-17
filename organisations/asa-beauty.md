@@ -72,4 +72,4 @@ asa Beauty is a well-documented, India-based example of refillable premium cosme
 - A cosmeticsdesign-asia.com article referenced in search results returned an HTTP 410 (Gone) error on direct fetch and could not be used as a primary source; other sources were used instead to corroborate details.
 - No quantified impact metrics or partnership information could be verified; both are recorded as "Not publicly available."
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

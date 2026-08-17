@@ -62,4 +62,4 @@ Established (18+ year) Pakistani industrial packaging manufacturer with durable,
 2007 founding confirmed via official site; distinct from an unrelated "Multipack Logistics" contract-packing company noted in seed data — this profile covers the plastics manufacturer.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

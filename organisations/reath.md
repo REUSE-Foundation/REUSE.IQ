@@ -46,4 +46,4 @@ Priority: ★★★★★ Essential
 ## Verification Notes
 Founding year (2019) and founders confirmed via Happyporch Radio interview and company news pages; UK Research and Innovation grant and reuse.id standard confirmed via EU-Startups and Reath's own news page.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

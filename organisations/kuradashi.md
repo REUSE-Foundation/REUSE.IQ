@@ -70,4 +70,4 @@ Tokyo Metropolitan Government Feature: https://www.tokyoupdates.metro.tokyo.lg.j
 Founding date (July 7, 2014) and headquarters address confirmed directly via the company's official corporate site (corp.kuradashi.jp). Leadership named as Chairman Tatsuya Sekido (founder) and President/CEO Kohei Kawamura per the same source — note "Sekito" vs. "Sekido" spelling varies slightly across sources; "Sekido" is used here as it appears on the official corporate page. Impact figures (20,000+ tons, 515,000 members, 1,600+ partners) are drawn from third-party case-study/press sources (CircularX) rather than directly verified on the company's own site during this research pass.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

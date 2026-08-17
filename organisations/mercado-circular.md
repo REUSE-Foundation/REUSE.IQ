@@ -64,4 +64,4 @@ Mercado Circular is a genuine reuse-infrastructure innovator bringing refill ven
 
 Seed data listed country as Mexico; verified research shows the company originated and is headquartered in Chile (Valparaíso, founded 2017), with Mexico as an international expansion market via a Walmart/Sam's Club and P&G partnership. Founding year (2017) corroborated across multiple independent sources (company blog, press coverage). No official company registry record was located to confirm legal entity name/status.
 
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

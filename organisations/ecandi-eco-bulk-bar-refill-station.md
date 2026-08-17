@@ -49,4 +49,4 @@ Not publicly available.
 Well-corroborated across 6 independent sources (LinkedIn, Instagram, Facebook, TechMoran, BusinessGhana, and a Nairobi ClimAccelerator programme page, plus the company's own site) confirming this is a genuine, currently-operating business — Facebook shows activity as recent as April 2025, and the company was selected for a 2025 circular-economy accelerator cohort, both strong recency signals. This upgrades my original candidate entry from 'Medium-High' to a more firmly evidenced High confidence on the core facts, though founding year and impact metrics remain unconfirmed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

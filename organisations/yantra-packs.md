@@ -49,4 +49,4 @@ Company messaging cites that each corrugated box generates ~4,500 grams of green
 Well-corroborated across 3 independent sources (Tracxn, Crunchbase, Industrial Automation India) plus the company's own site, all consistent on founding year, founders, legal entity name, and funding total. This is a B2B industrial packaging-pooling company (pallets/crates/totes for automotive, retail, logistics) rather than a consumer-facing single-use-plastic-reduction operator — recommend the Foundation weigh this against the same category-fit consideration flagged for other B2B industrial reusable-packaging entries in this dataset. Impact metrics are limited to a generic industry statistic rather than company-specific results.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

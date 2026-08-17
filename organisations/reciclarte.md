@@ -44,4 +44,4 @@ Priority: ★ Low relevance
 ## Verification Notes
 A website at reciclarte.org exists (women-led, recycling/art/social-inclusion focused) but returned a 403 error on fetch and its country/Venezuela link could not be confirmed. Separately, general Venezuelan recycled-art press coverage (individual artists, exhibitions) was found but did not name a "Reciclarte" collective. Per instructions, unverifiable facts are marked "Not publicly available."
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

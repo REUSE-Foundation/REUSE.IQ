@@ -12,7 +12,7 @@ A researched database of 708 circular economy / reuse / refill organisations wor
 ```
 organisations/*.md  (one file per org, the real source data)
         ↓  scripts/parse_md_to_csv.py
-data/REUSE_V4_Master.csv  (full 34-column dataset)
+data/REUSE_V5_Master.csv  (full 34-column dataset)
         ↓  scripts/build_site.py
 docs/  (the live website)
 ```
@@ -20,7 +20,7 @@ To change something permanently: edit the relevant file in `organisations/`, the
 
 ## Two things to know before touching this
 1. **The ★ priority rating (Essential/High/Medium/Low) is a judgment call**, made by claude for each org during its research — not a formula. Don't try to reverse-engineer or "correct" it against other fields; it just reflects the researcher's read on relevance at the time.
-2. **The Google Sheet is one-way.** Editing it does *not* update the website. To make an edit stick, it needs to go back into `organisations/*.md` (or `data/REUSE_V4_Master.csv`) and get rebuilt.
+2. **The Google Sheet is one-way.** Editing it does *not* update the website. To make an edit stick, it needs to go back into `organisations/*.md` (or `data/REUSE_V5_Master.csv`) and get rebuilt.
 
 ## Still open / unresolved
 - **Hosting on reusefoundation.org**: not yet decided. Depends on whether whoever manages that Wix site has DNS access — options range from a simple link, to a subdomain, to an embed, to a full rebuild inside Wix.

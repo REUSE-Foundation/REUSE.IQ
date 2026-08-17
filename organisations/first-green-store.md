@@ -65,4 +65,4 @@ The First Green Store's core products are plantable/recycled single-use writing 
 No founding year was found in sources accessed during this research pass. The core business (plantable pencils, recycled paper products) does not match a reuse/refill model — classification and priority rating reflect this honestly rather than force-fitting it into "reuse" categories.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

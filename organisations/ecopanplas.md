@@ -66,4 +66,4 @@ Eco Panplas is a credible, B Corp-certified industrial recycler solving a genuin
 Seed data described EcoPanplas as producing "reusable containers from recycled plastic" with a "Refillcycle" programme for businesses. No evidence of either a reusable-container product line or a programme called "Refillcycle" was found on the official website or in independent coverage (WIPO, B Corp profile). Verified activity is industrial recycling of oil-contaminated HDPE lubricant containers into recycled resin — a material-recovery/reverse-logistics business, not a reuse/refill packaging business. This is flagged as a significant correction to the seed record. Founding year could not be confirmed in this pass.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

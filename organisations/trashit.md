@@ -46,4 +46,4 @@ A credible, growing composting/organic-waste enterprise with independently-cited
 ## Verification Notes
 Founding year (2018), operating cities, composting capacity and WWF Pakistan trial results confirmed via official site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

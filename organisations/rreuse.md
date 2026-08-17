@@ -58,4 +58,4 @@ RREUSE is the pre-eminent EU-level advocacy and coordination body for the reuse 
 Founding year (2001) and non-profit network status confirmed via the organisation's own website content. No standalone quantified impact metric (e.g., total tonnage reused/repaired across the network) was found in this pass; the site emphasises policy research and member services rather than aggregate impact reporting.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

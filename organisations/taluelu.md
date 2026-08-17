@@ -44,4 +44,4 @@ Limited independent documentation was found beyond brief mentions in Estonian ze
 ## Verification Notes
 Direct company site (taluelu.eu) could not be independently corroborated with detailed founding/product information beyond third-party mentions; founding year not found.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

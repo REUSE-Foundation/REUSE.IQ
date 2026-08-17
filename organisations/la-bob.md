@@ -71,4 +71,4 @@ Volunteer Listing: https://www.benevol-jobs.ch/en/organisation/la-bob
 Precise founding year could not be confirmed from public sources; a local press article ("La Bibliothèque d'objets de la Broye a trouvé un écrin" / "found a home") suggests the Avenches premises were secured relatively recently (circa 2023), but this refers to a physical location move/opening rather than a confirmed association founding date, so "Year Founded" is recorded as not publicly available rather than inferred. Note there is also an unrelated, separately operating "La BOB" object library in Besançon, France — this profile concerns only the Swiss Broye-region organisation at labob.ch, and care was taken not to conflate the two.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -68,4 +68,4 @@ Eco Blocks and Tiles is a well-documented, internationally recognised (UNEP Youn
 Seed description (social enterprise, Kenya, houses/construction materials from recycled plastic bottles, "industrial material reuse not packaging") is confirmed accurate, including the seed's own honest caveat about category fit. Added founding year (2016, with commercial production from 2018) and founder names (Hope Mwanake, Kevin Mureithi), not present in seed. No quantified company-level impact metrics (tonnes recycled, units sold, houses built) were found in official sources; general Kenya waste statistics on the company website should not be mistaken for company performance data.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

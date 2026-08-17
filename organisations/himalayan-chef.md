@@ -63,4 +63,4 @@ Priority: ★★ Low
 
 Seed listing's title was malformed; confirmed actual brand and correct website (himalayanchef.pk, with a separate himalayanchef.com for US market). Founding year could not be verified from an official/registry source — only inferred from marketing copy ("25 years"). No evidence found of formal reuse/refill infrastructure beyond packaging format choice.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

@@ -61,4 +61,4 @@ Priority: ★★★★ High
 Confirmed as distinct from "Zerooo" (Germany, zerooo.com) per prior project note — different country, domain and business model. Founding year (2023) and ownership structure (The Loop Co. / Loja do Zero) corroborated across official site and Portuguese press coverage (Hipersuper, unidoscontraodesperdicio.pt).
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

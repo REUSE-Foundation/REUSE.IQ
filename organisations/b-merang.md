@@ -50,4 +50,4 @@ Packaging-as-a-Service / Deposit-return
 Strong multi-source corroboration (7 independent Spanish trade/sustainability outlets, 2021-2025) with a named founder and specific investor. Founding year genuinely varies by source depending on whether 'founding' refers to the consultancy's start (2019) or the returnable-packaging product launch (Feb 2020) — this is a real ambiguity in the source material, not a data error. Impact figures are company-reported (via press interviews), not independently audited, hence Medium confidence.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

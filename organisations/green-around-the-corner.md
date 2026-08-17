@@ -48,4 +48,4 @@ Not publicly available.
 Corroborated via a detailed, recently-dated (2025) Vietcetera feature naming the founder and specific refill/reuse offerings (BYOB shampoo refills, beeswax wrap workshops) — a strong recency signal confirming this is a currently active business, upgrading confidence from my original entry.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

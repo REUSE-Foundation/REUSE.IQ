@@ -60,4 +60,4 @@ Priority: ★★ Low
 Business appears to have rebranded to "The Well Market + Refillery" as of 2026; original name and website still resolve to the same operation. Founding year not found.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

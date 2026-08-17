@@ -64,4 +64,4 @@ ECO EGO is a genuine, certification-backed example of recycled-content, design-f
 Seed description ("sustainable reusable cleaning products + refills") required correction: ECO EGO does not operate a bulk-liquid refill retail model; its products are durable cleaning tools (mops, brooms, buckets) made from recycled plastic, with "refill" referring to replaceable mop-head components, not liquid refills. Legal entity identified as YORK PL Sp. z o.o. sp. k. (not stated in seed). Founding year and founders could not be verified from available sources and are recorded as "Not publicly available."
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

@@ -47,4 +47,4 @@ A national, regulation-aligned reusable cup system backed by an established pack
 ## Verification Notes
 Launch date (17 April 2023) confirmed via Valorlux's own announcement and Chronicle.lu coverage; RFID tech not explicitly confirmed for this specific system despite seed data claim.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

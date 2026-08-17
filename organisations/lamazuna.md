@@ -66,4 +66,4 @@ Priority: ★★★★ High
 
 Seed year (2009) corrected to 2010 based on multiple consistent independent sources (Andromée, CJD, Natexbio interviews) all stating Laëtitia Van de Walle founded the company in 2010 at age 25. Impact metrics are company-reported (as of Oct 2021) and not independently audited; presented as such.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

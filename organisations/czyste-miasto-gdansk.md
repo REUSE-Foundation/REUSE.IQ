@@ -73,4 +73,4 @@ CMG is a legitimate, currently active municipal programme with a genuine circula
 - No measurable impact data (tonnage diverted, participants reached, repair-shop referrals made, etc.) was found on the pages reviewed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

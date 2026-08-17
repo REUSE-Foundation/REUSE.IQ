@@ -71,4 +71,4 @@ Bare Necessities is a credible, long-running (since 2016) Indian zero-waste soci
 Seed data described operations in "Delhi + Bangalore"; this research confirms a Bengaluru headquarters and in-person refill counter, but could not independently verify a dedicated Delhi refill location — the company does list stockists across multiple Indian cities, which may be the basis for the Delhi reference in the seed data, but this was not confirmed as a company-operated refill point. Founding year is clarified as a two-stage process: brand launched in 2016, company formally registered in 2019 (seed data did not specify a year). Impact figures (68 million plastic units, 155,000 kg waste) are press-reported and not sourced to an independently audited report, so are flagged as self-reported in this profile.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

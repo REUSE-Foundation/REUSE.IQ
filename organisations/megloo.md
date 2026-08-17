@@ -71,4 +71,4 @@ Priority: ★★★★ High
 Seed data described Megloo generically as a "borrow-and-return takeaway container system for cafés/events"; verified sources confirm this and add that the operating company is named Kaman, with the pilot launching in Kamakura in November 2022 before expanding to Tokyo/Shibuya and other locations, and with direct funding/support from the Alliance to End Plastic Waste. Impact figures (3,100+ uses, 88 venues, 50-tonne 2025 target) are sourced from AEPW project reporting, a credible third-party programme partner, though not independently audited beyond that reporting.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

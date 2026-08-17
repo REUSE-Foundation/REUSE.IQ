@@ -64,4 +64,4 @@ Miniml is a strong, well-documented UK refill brand with genuinely substantial r
 Impact figures (500+ tonnes plastic, 1M+ customers) are self-reported by the company without independent audit — treated as Medium rather than High confidence for those specific numbers, though the overall business model and scale claims are internally consistent and corroborated by named mainstream press features.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

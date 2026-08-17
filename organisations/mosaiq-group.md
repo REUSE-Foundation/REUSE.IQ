@@ -64,4 +64,4 @@ Well-documented, well-capitalized luxury packaging consolidation with major veri
 2024 formation, revenue/employee figures, and client list corroborated across official site and Wikipedia.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

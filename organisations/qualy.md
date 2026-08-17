@@ -46,4 +46,4 @@ Priority: ★★ Low
 ## Verification Notes
 Founding year (2004) and OEM origin story confirmed via WIPO Magazine feature and brand's own About Us page. No evidence found that Qualy operates a refill or deposit system as seed data suggested; its role is as a housewares product designer/manufacturer.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

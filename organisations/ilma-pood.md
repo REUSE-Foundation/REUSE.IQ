@@ -69,4 +69,4 @@ Priority rating: ★★ Low
 
 The seed entry listed the website as ilmapood.ee, which resolved in search indexes but failed to load via direct fetch during this research session (DNS lookup failure), consistent with registry data showing the company has wound down operations. Estonian company registry (Inforegister.ee) data is the strongest available source for current status: it shows 0 employees as of Q2 2026, unpaid 2025 tax obligations, a January 2026 consumer-protection "blacklist" finding, and 2026 revenue forecast at €0 — together indicating the shop has effectively closed even though the legal entity remains on the register. Founding year (2020) is corroborated by the registry, correcting the seed data which provided no year.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

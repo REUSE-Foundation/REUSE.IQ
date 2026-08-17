@@ -45,4 +45,4 @@ Package Free Shop is a well-known consumer-facing zero-waste retailer and educat
 ## Verification Notes
 Founding date corrected: multiple sources confirm April 22, 2017 (popup launch), not 2018 as in seed data.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

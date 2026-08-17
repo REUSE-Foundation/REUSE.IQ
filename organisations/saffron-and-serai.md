@@ -57,4 +57,4 @@ Saffron & Serai is a small, verifiable Malaysian handcrafted-goods enterprise of
 No founding date was found on the official site; business registration number (MA0259522-D) and Kuala Lumpur location are confirmed directly from the site.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

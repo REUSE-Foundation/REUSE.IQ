@@ -67,4 +67,4 @@ Priority: ★★★ Medium
 Seed data described Green Pear Eco as a "mobile bulk cleaning product delivery service" in the UK — corroborated, though research found the business is broader than mobile delivery alone, also encompassing a physical shop ("The Pear in Clare") and nationwide online bulk-refill sales, not solely a mobile delivery operation. Founding year is reported as 2019 for the online shop with the mobile refill van specifically launched in 2020 during the COVID-19 pandemic (per search-aggregated company-origin coverage); both dates are treated as medium-confidence since they derive from secondary summaries rather than a single authoritative "About" page fetch (the official site's own founding-year statement could not be directly retrieved).
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

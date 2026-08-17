@@ -81,4 +81,4 @@ Priority: ★★★★ High (verified deposit-return/refill model directly addre
 Seed data correctly described the pay-and-weigh bulk food model and reusable containers with deposit; both are independently confirmed, with the deposit-based reusable-container system specifically documented via the GIZ Circular City Labs partnership (with Plastics SA as local implementer). Founding narrative is somewhat split across sources: Wakanda Food Accelerator was founded in 2020, and Gcwalisa is described as a COVID-era pivot from Kubheka's earlier ventures, but the first physical outlet did not open until April 2022 — both dates are presented above for clarity. Outlet-count figures (originally "opening 25 others" as a plan, later "5 additional outlets" as of 2025) come from different points in time and should not be conflated as the same claim.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

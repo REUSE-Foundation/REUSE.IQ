@@ -44,4 +44,4 @@ Priority: ★★ Low
 ## Verification Notes
 Founding year (2012) and Lahore location confirmed via company profile sources; the "reusable" packaging angle from seed data confirmed only as one pouch-closure option among a general flexible-packaging product range.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

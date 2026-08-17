@@ -47,4 +47,4 @@ Deposit-return (enabling technology) / Reverse logistics
 Well-corroborated across 7 independent sources (Circular Online, Towards Packaging, Retail Times, GS1 UK x2, Packaging News, Retail Technology Innovation Hub, Sustainable Packaging News, Collateral Good) with a named founder/CEO and specific, consistent partnership/scale figures. Company founding year could not be identified — only that public activity/pilots date to 2022 onward. Worth flagging a category nuance: Polytag is fundamentally a recycling-traceability and consumer-engagement technology layer rather than a literal deposit-handling operator, though it is explicitly marketed (with GS1 UK) as infrastructure for future 'Digital Deposit Return Schemes' — recommend the Foundation confirm this fits their deposit-return criteria as an enabling technology rather than a direct DRS operator.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

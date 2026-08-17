@@ -49,4 +49,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Confirmed "ZERO PC" is a project of People Port Inc. (not itself an independent legal entity name); refugee employment and refurbishment model verified across multiple sources.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

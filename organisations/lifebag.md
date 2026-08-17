@@ -63,4 +63,4 @@ Priority: ★★ Low (plausible reusable-packaging manufacturer, but public info
 Seed data's description (Kazakhstan, non-woven spunbond eco-bags) was confirmed by the company's own website, the only source found. No independent secondary sources (press, registries, review sites) referencing this specific company were located during search — search results for "LifeBag Kazakhstan" returned mostly unrelated spunbond-bag manufacturers in other countries (Ukraine, Uzbekistan). Founding year, ownership structure, and any impact/partnership claims could not be verified and are marked "Not publicly available" per research protocol rather than estimated.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

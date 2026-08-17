@@ -46,4 +46,4 @@ A well-documented, founder-led pioneer among Saigon's zero-waste refill shops �
 ## Verification Notes
 2018 founding and founder name confirmed via Saigoneer feature article.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

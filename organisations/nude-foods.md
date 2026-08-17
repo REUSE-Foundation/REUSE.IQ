@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Founding year (2017) and founder (Paul Rubin) confirmed via secondary press coverage (Cape Town Magazine/Insider SA) and official site.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

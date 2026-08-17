@@ -74,4 +74,4 @@ Carrefour is relevant to the REUSE Foundation library primarily as a major distr
 Founding date (11 July 1959) and HQ (Massy, France) are well-corroborated across multiple independent sources (Wikipedia, Britannica, company history page) — High confidence. Loop/reuse-specific operational details are sourced from a single industry publication (Trellis) without independent corroboration or specific measurement years — Low confidence on impact-adjacent figures. No official Carrefour sustainability/ESG report was directly accessed (official packaging page returned an access error during this research pass) — recommend future verification via Carrefour's own annual/CSR report for authoritative Loop participation figures.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

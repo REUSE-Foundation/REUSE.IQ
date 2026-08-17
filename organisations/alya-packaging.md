@@ -66,4 +66,4 @@ Priority: ★★ Low
 Seed data's core-model description ("B2B reusable organic material shopping bags for retailers") is not well supported — Alya's primary business is custom paper/box packaging manufacturing, with reusable cotton/PP bags as one secondary product category, not the company's defining activity. Founding year is unresolved: company marketing claims "over 30 years" (implying founding in the late 1980s to mid-1990s), while an independent directory states 1982 — these are not reconcilable from sources available in this pass and no primary Turkish trade-registry (Ticaret Sicil) record was located. No employee count, named partners, or impact metrics were found in any source.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -65,4 +65,4 @@ Anew is a materials-innovation consumer brand rather than a reuse-infrastructure
 Founding year (2015) and founder (Jayden Klinac) are sourced from the company's own About page — a primary source, but not independently corroborated by a registry or third-party record, so founding-year confidence is Medium rather than High. No company registration/incorporation record was checked (New Zealand Companies Office not consulted in this pass) — recommended for future verification. No impact metrics were found anywhere in public sources.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -62,4 +62,4 @@ Clicko-Brick represents a distinctive industrial-reuse concept — repurposing u
 All information in this profile is drawn from a single source (the official product page) — no independent press, funding, or customer coverage was found in this research pass. Recommend further verification of current operating status, given the 2015 founding date and lack of visible recent activity in sources accessed.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

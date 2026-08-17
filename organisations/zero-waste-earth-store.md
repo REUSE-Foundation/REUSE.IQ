@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Seed data (BYOC bulk refills, social enterprise) confirmed via official website content surfaced in search; founding year and quantitative impact data not found in public sources during this pass.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

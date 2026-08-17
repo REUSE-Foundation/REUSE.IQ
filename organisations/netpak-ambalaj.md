@@ -58,4 +58,4 @@ Priority: ★★★ Medium
 
 Incorporation date of 1998 (per EMIS company profile) conflicts somewhat with the company's own marketing claim of "nearly 40 years" of experience — noted as a discrepancy. Could not confirm "organic cotton" bags specifically; company's own materials describe nonwoven/woven/laminated bag products instead.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

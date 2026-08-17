@@ -50,4 +50,4 @@ Not publicly available.
 Well-corroborated across 9 independent sources (Tracxn, Techweek, Built In LA, LA Business Journal, Crunchbase, Fashion Mamas, Women on Topp, LinkedIn, plus the company's own site) with a consistently named lead founder (Sheena Jongeneel). Two genuine discrepancies found and flagged rather than silently resolved: (1) the identity of the co-founder varies between sources (Kim Kreuzberger vs. Gemma Cox), and (2) the founding date/idea-origin timeline varies (2018 vs. a 2020 MBA-era origin story) — recommend the Foundation verify directly via a founder interview or company registration records.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

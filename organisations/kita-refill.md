@@ -64,4 +64,4 @@ Kita Refill is a credible Malaysian bulk-refill operator with an interesting B2B
 No founding year or founder information was found in the source accessed during this research pass. The legal trading entity ("Cleancycle Enterprise") and the BYOB-to-Kita-Refill rebrand history are both confirmed via the official website content reviewed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

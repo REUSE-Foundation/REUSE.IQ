@@ -47,4 +47,4 @@ At the 2026 IIHF U18 World Championship: 23,000 reusable cups in circulation acr
 Well-corroborated across 6 independent/company sources (Waste Management World trade press, Reverse Logistics Group, plus the company's own site across 4 pages) with specific, detailed, and consistent impact figures from a named, dated (2026) real-world deployment. This corrects my original candidate entry's 'unconfirmed country' flag — Smart DRS is built on Slovak company Sensoneo's technology, and its flagship documented deployment was in Slovakia. Impact metrics here are unusually specific and cross-confirmed between two independent pages, warranting High confidence — an exception to the more typical self-reported/unaudited caveat seen elsewhere in this dataset, though these figures still originate from the company/event organisers rather than a fully independent auditor.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: High | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: High | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

@@ -66,4 +66,4 @@ Priority: ★★★ Medium
 Seed data described Green Revolucia simply as "an online zero-waste shop" in Bulgaria — corroborated as its founding concept (2017, Bulgaria's first zero-waste shop), but current operations are more specifically focused on sustainable menstrual products and natural cosmetics than a general bulk/household zero-waste store; this evolution should be noted rather than treated as a contradiction. Founder identified as Vera Markova via search-aggregated coverage of the company's "About Us" page; this was not independently cross-checked against a second source and should be treated as medium confidence.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

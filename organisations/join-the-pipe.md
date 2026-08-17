@@ -64,4 +64,4 @@ Join The Pipe is a relevant example of a hybrid commercial/non-profit model that
 Founding year and specific named partnerships were not found in the source accessed during this research pass — only the "our story" page was reviewed. Recommend further verification via press coverage or the organisation's annual report if one exists.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

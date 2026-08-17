@@ -64,4 +64,4 @@ Migros is a large, financially established public retailer whose OMO refill disp
 
 Seed data's 1954 founding year, BIST:MGROS listing, and OMO refill dispenser claim are all confirmed by independent Turkish-language sources and Unilever's own press release. The refill program is limited to a small number of pilot stores (Ataşehir launch 2022; Ankara and İzmir added 2024) rather than a chain-wide rollout — this scale detail is important context not in the seed data.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

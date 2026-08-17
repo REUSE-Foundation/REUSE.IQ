@@ -59,4 +59,4 @@ Priority: ★★ Low
 
 Seed data incorrectly listed country as Pakistan; verified via website and search results that Zeropolitan is an Australian business (domain zeropolitan.com.au, product shipped/made in Melbourne). Founding year could not be confirmed from available pages.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

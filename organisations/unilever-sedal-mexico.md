@@ -46,4 +46,4 @@ Priority: ★★★★ High
 ## Verification Notes
 Distinct, separate profile from the Philippines/global Unilever entry and the Colombia FAB/Dirt Is Good entry, per instruction — this is Unilever's Sedal-brand, Mexico-specific refill program, part of the company's broader global refill/reuse push.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

@@ -47,4 +47,4 @@ Not publicly available.
 Single dated source (Bangkok Post, 2019) found in this pass with no additional independent corroboration. Recommend the Foundation verify current operating status directly, given the multi-year gap since the only source found.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

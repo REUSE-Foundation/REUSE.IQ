@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Founding year could not be confirmed from public sources; incubation link to AIC-IIIT Hyderabad and Kerala Startup Mission listing confirmed. Expansion targets (100 kiosks by 2025, 1,000 by 2030) are stated goals, not verified achieved results.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

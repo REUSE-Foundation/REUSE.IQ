@@ -70,4 +70,4 @@ Bulle Verte is a long-established (since the late 1980s), family-owned French ma
 - Business model corrected: this is fundamentally a B2B manufacturer/supplier of bulk cleaning products and refill dispensing systems to retailers and professional clients, not a B2C household refill retail shop.
 - Could not access the official bulle-verte.bio website directly via automated fetch (returned empty content); relied on independent French trade press and retailer listings instead, which is a limitation on primary-source verification.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

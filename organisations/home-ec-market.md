@@ -64,4 +64,4 @@ Priority: ★★★ Medium
 
 Confirmed as a zero-waste refillery located in Presque Isle, Maine via Instagram bio and search results; an "About Us" page returned a 404 error so founding year, ownership structure, and detailed history could not be verified from primary source content.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

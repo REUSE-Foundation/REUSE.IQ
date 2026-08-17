@@ -70,4 +70,4 @@ Press Release: https://www.globenewswire.com/news-release/2022/11/08/2550862/0/e
 Reference: https://en.wikipedia.org/wiki/AG_Hair
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

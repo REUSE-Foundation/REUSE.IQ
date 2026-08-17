@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Builds docs/ as a static GitHub Pages site from organisations/*.md and data/REUSE_V4_Master.csv.
+"""Builds docs/ as a static GitHub Pages site from organisations/*.md and data/REUSE_V5_Master.csv.
 Free to re-run — no API calls needed, matching the project's CSV-generation cost philosophy."""
 
 import csv
@@ -14,7 +14,7 @@ import generate_locations_json
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORG_DIR = os.path.join(REPO_ROOT, "organisations")
-CSV_PATH = os.path.join(REPO_ROOT, "data", "REUSE_V4_Master.csv")
+CSV_PATH = os.path.join(REPO_ROOT, "data", "REUSE_V5_Master.csv")
 DOCS_DIR = os.path.join(REPO_ROOT, "docs")
 PROFILES_DIR = os.path.join(DOCS_DIR, "organisations")
 
@@ -166,9 +166,9 @@ INDEX_TEMPLATE = """<!doctype html>
 </div>
 
 <footer class="site-footer">
-  <p>Data generated from <a href="data/REUSE_V4_Master.csv">REUSE_V4_Master.csv</a>. Last built: {build_date}.</p>
+  <p>Data generated from <a href="data/REUSE_V5_Master.csv">REUSE_V5_Master.csv</a>. Last built: {build_date}.</p>
   <p class="footer-note">Help us keep this database accurate and complete. Use the links above to report corrections or suggest organisations we've missed — every submission is reviewed before being added.</p>
-  <p class="footer-version">Version: 1.0.01, last updated 5 August 2026</p>
+  <p class="footer-version">Version: 1.0.02, last updated 17 August 2026</p>
 </footer>
 <script src="assets/data.js"></script>
 <script src="assets/site.js"></script>
@@ -942,7 +942,7 @@ def main():
     rows = load_rows()
     os.makedirs(DOCS_DIR, exist_ok=True)
     # Copy CSV for direct download/browse
-    shutil.copyfile(CSV_PATH, os.path.join(DOCS_DIR, "REUSE_V4_Master.csv"))
+    shutil.copyfile(CSV_PATH, os.path.join(DOCS_DIR, "REUSE_V5_Master.csv"))
     # .nojekyll so GitHub Pages serves files as-is (avoids Jekyll processing conflicts)
     with open(os.path.join(DOCS_DIR, ".nojekyll"), "w") as f:
         f.write("")

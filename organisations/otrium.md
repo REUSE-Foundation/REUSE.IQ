@@ -45,4 +45,4 @@ Otrium is primarily an off-price resale marketplace; its refurbishment/repair in
 ## Verification Notes
 2016 founding year and founder names confirmed by multiple sources; refurbishment partnership with The Renewal Workshop/Bleckmann independently confirmed.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

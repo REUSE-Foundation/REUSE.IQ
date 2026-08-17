@@ -66,4 +66,4 @@ Priority: ★★★★ High
 
 Founding year (idea 2013, pilot store opened December 2014) and founder names corroborated across FashionUnited, Holland Circular Hotspot and the official site. "10 years" framing in a March 2025 FashionUnited article is consistent with a 2014/2015 launch.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

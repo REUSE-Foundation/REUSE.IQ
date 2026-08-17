@@ -72,4 +72,4 @@ Brush Naked is a small, single-product Canadian company focused on biodegradable
 - Year founded could not be verified from any public source and is recorded as "Not publicly available" rather than estimated.
 - Assessed the product as primarily a biodegradable-material-substitution product rather than a reuse/refill/circular model — no reuse mechanism (refill, take-back, rental, sharing) was found, which materially affects the Circular Economy Activities classification and priority rating.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

@@ -60,4 +60,4 @@ Priority: ★★★ Medium
 Origin story (COVID-19 self-isolation launch) confirmed via Kent Online local press coverage; exact founding date not stated precisely in sources found.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

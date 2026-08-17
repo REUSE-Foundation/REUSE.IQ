@@ -45,4 +45,4 @@ Ong Hut Co is a genuine plastic-alternative innovator, but its product is biodeg
 ## Verification Notes
 Seed listed straws as "reusable"; sources consistently describe them as single-use/biodegradable/compostable (short shelf life, not designed for repeat washing/reuse), so category was corrected.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

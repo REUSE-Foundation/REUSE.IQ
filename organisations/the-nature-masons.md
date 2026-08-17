@@ -60,4 +60,4 @@ Priority: ★★ Low
 Seed data's "aluminium refill containers" claim appears incorrect/outdated — company sourcing indicates they tested and rejected aluminium packaging due to quality and humidity-related oxidation issues in Goa; actual packaging is tin-based with reusable/refill bars. Flagged as a correction.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

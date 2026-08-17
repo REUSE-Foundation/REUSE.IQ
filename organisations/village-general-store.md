@@ -60,4 +60,4 @@ Village General Store & Refillery is confirmed as an operating physical refiller
 - Direct WebFetch of villagegeneralstore.co returned a 404; existence and details were instead confirmed via Yelp, Instagram, and local business-directory listings under the full name "Village General Store & Refillery."
 - Founding year and online refill-fulfillment claim from seed data could not be independently confirmed.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

@@ -61,4 +61,4 @@ Priority: ★★★★★ Essential
 Founding date (28 August 2015) and 2018 sales figure (SEK 11.7M) confirmed via third-party sources (Wikipedia, Smart City Sweden); not stated on the official site page fetched.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

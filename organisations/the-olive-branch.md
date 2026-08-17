@@ -61,4 +61,4 @@ Priority: ★★★ Medium
 The seed entry names "The Olive Branch" for zero-waste groceries/refills, but the dedicated refill operation trades under the distinct name "Twig Refill Station," a sister store/brand of the same founder (Olive Finn). Both are physically/operationally linked. Flagged as a brand distinction.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

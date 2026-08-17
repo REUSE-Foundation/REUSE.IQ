@@ -67,4 +67,4 @@ Kinfill is a well-documented, design-forward refill brand for household cleaning
 Corrected the seed tracker's country listing from "Norway" to the verified Netherlands (Rotterdam) — multiple independent sources consistently place the company and founder (Reda Jouahri) in Rotterdam. The company's own website (kinfill.com) returned a 503 Service Unavailable error during direct fetch attempts in this research pass; information is drawn from search-result aggregation and third-party retail/press sources instead.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

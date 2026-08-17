@@ -46,4 +46,4 @@ An independent, community-focused refillery with modest documented scale — gen
 ## Verification Notes
 No founding year found in public sources; owner's first name (Jamie) confirmed via company "About" page.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

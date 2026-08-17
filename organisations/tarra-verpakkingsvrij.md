@@ -46,4 +46,4 @@ A well-documented, award-recognised independent refillery integrated with local 
 ## Verification Notes
 2017 founding and founder name confirmed via COSH! and Voedsel Anders features.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

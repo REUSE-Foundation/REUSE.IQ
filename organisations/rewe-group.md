@@ -58,4 +58,4 @@ REWE Group is a large, well-established cooperative retailer whose core business
 Direct WebFetch of rewe.de returned HTTP 403; founding year (1927), Cologne headquarters, and cooperative structure confirmed via independent search sources (Wikipedia, REWE Group's own "Company" page). Refill-station details are based on general knowledge of REWE's sustainability initiatives; no dedicated refill-program page was directly verified in this pass.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

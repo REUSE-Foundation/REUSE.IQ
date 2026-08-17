@@ -69,4 +69,4 @@ Day by day is a well-established, multi-year (13+ years) French bulk-retail fran
 Store-count figures vary meaningfully by source and date (44 in 2024 vs. 59+ vs. 76 more recently) — likely reflects genuine network growth over time rather than a discrepancy; the range is noted rather than collapsed into a single figure. Seed tracker's website URL for "about us" (daybyday-shop.com/pages/qui-sommes-nous) returned a 404 during this research pass; company history was sourced via Wikipedia and franchise trade press instead.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

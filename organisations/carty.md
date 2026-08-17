@@ -49,4 +49,4 @@ Company claims 44% lower CO2 emissions vs. glass packaging manufacturing, and a 
 Exceptionally well-corroborated across 7 independent sources (PagesJaunes, Societe.com official company registry, LinkedIn, CBInsights, plus the company's own site across 6 product pages) confirming a long-established (1959), legally registered French manufacturer with detailed, consistent product specifications. This substantially upgrades my original candidate entry to High confidence on core facts.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

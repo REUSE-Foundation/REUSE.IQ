@@ -47,4 +47,4 @@ A well-documented, expanding zero-waste general store with an educational Sustai
 ## Verification Notes
 2020 founding and founder names confirmed via Evanston RoundTable and WBEZ Chicago coverage.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

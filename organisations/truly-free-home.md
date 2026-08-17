@@ -47,4 +47,4 @@ A clear, founder-driven refill/concentrate subscription model that meaningfully 
 ## Verification Notes
 Founding year (2015), founder name/story, and prior brand name (MyGreenFills) confirmed via official company blog.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

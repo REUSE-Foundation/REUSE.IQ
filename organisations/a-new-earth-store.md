@@ -65,4 +65,4 @@ A New Earth is a long-running (since 2009), independently owned organic and eco-
 - Social: https://www.instagram.com/anewearthstore/?hl=en
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

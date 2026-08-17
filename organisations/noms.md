@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 Country, business model and organic certification confirmed via official site and secondary zero-waste directories; founding year not located.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

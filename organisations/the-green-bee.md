@@ -46,4 +46,4 @@ A well-documented, sister-founded regional first-mover in zero-waste retail — 
 ## Verification Notes
 January 2023 opening and founders' names confirmed via Yahoo News feature (originally local press).
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

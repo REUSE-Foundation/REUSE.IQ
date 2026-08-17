@@ -50,4 +50,4 @@ Since 2018, Ridwell has helped divert more than 21 million pounds of plastic and
 Exceptionally well-documented across 9 independent sources (GeekWire, Packaging Digest, My Ballard, Twin Cities Business, In Good Taste Denver, PCC Community Markets, Forbes, Northwestern University Magazine, RecyclingMonster) spanning 2019-2025, all consistent on founder names, founding story, and business model. This is a large, well-established, high-confidence company — but note the corrected core model description: it is more a mixed recycling/reuse household-pickup subscription than a specifically B2B reusable-packaging logistics provider as my original entry suggested. Impact figures are self-reported by the company (audited internally per their own transparency practices) rather than third-party verified, hence Medium rather than High confidence.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

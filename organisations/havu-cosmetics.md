@@ -56,4 +56,4 @@ HAVU Cosmetics offers a genuinely distinctive reuse innovation: a refill system 
 ## Verification Notes
 Seed data (Finland, zero-waste makeup, refillable lipstick inserts) confirmed accurate. Precise founding year not confirmed in sources reviewed (company was operating and covered in Finnish/Nordic press by at least 2018-2019, with references to Aalto University student origins). Recent search snippets note the online shop has at times been listed as closed pending reopening — current operational status should be reconfirmed before relying on this profile for time-sensitive purposes.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

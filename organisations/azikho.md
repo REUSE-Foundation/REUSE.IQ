@@ -49,4 +49,4 @@ Not publicly available.
 Corroborated via a detailed, named-founder Daily Maverick feature. IMPORTANT CORRECTION: this research found Azikho is located in Ballito, not Durban as my original candidate entry stated — recommend updating the Country/Geographic scope fields accordingly. Also worth noting per the founders' own account, Azikho is 'not an exclusively zero-waste shop' but a natural/organic retailer with a growing plastic-free range — a softer fit for a strict refill/reuse category than some other candidates.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

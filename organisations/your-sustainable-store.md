@@ -60,4 +60,4 @@ Priority: ★★ Low
 Founding year (2018) and founder (Dawn Chen) sourced from the company's own "Our Story" page; the seed description's framing as "refills + sustainable goods" is only partly accurate — the store sells reusable products but does not itself appear to operate a refill/refillery service based on available sources.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

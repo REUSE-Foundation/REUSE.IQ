@@ -46,4 +46,4 @@ This organisation's relevance to reuse/circular-economy activity could not be ve
 ## Verification Notes
 IMPORTANT: The seed website (hearthandharvestfl.com) returned a DNS resolution failure ("getaddrinfo ENOTFOUND") on multiple fetch attempts during this research session, meaning primary-source verification was not possible. Search-engine snippets indicate the site is associated with "Evelyn & Co." branding and a monthly "Heritage Harvest Farmers Market," which does not clearly match the seed's description of "a local store with reusable consumer goods." This may indicate: (a) a temporary outage, (b) the business has closed or rebranded, or (c) a DNS/registration issue. This profile should be treated as low-confidence and re-verified directly (e.g., by phone, social media, or a later site-access attempt) before publication.
 
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

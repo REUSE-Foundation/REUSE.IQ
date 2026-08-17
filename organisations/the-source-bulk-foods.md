@@ -61,4 +61,4 @@ Priority: ★★★★ High
 Seed data's "Year Established: 2011" is not corroborated by available sources; most sources point to predecessor "Eden's Landing" being acquired in 2007 and rebranded/founded as The Source Bulk Foods around 2012. Treat founding year as unresolved between 2011-2012.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

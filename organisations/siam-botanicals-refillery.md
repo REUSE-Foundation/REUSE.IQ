@@ -47,4 +47,4 @@ Not publicly available.
 The company is confirmed real and currently active (2025-dated shop-locations page), but this pass could not re-confirm the specific 'refillery' service at the Sukhumvit location described in my original candidate entry — current company materials focus on its Chatuchak retail store and production facility rather than a refill programme. Recommend the Foundation verify directly whether the refill offering is still operating before treating this as a confirmed refill/reuse entry, since the brand may have evolved primarily into a packaged skincare retailer.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Overall: Low | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

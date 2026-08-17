@@ -66,4 +66,4 @@ Circular&Co. is a well-established (20+ year) UK reusable-drinkware brand with a
 Founding year (2003) and founder (Dan Dicker) are corroborated by an independent case study (Exeter Centre for Circular Economy) as well as general search results, giving reasonable confidence. No independently audited impact metrics were located in this research pass — recommend checking for a published sustainability/impact report.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

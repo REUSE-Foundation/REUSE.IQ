@@ -60,4 +60,4 @@ Priority: ★★ Low
 Limited independent coverage found beyond the company's own website; founding year and ownership details not publicly available.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

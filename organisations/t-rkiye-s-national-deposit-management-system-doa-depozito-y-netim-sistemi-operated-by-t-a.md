@@ -50,4 +50,4 @@ Targets ~25 billion containers/year recovered and an estimated ₺30 billion/yea
 Major, very recent (July 2026) national scheme, corroborated across 5 independent Turkish sources (government site, TRT, CNN Türk, Yeni Şafak, and an industry blog) with consistent dates and figures. Impact metrics are government PROJECTIONS/targets, not yet-measured outcomes, since the scheme only reached full national coverage on 1 July 2026 — flagged Low confidence for impact_metrics specifically for that reason, not because the projections themselves are disputed. Note this is a government scheme rather than a company; several standard schema fields (ownership_status, estimated_company_size) don't map cleanly and are annotated accordingly.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

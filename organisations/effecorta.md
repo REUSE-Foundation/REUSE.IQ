@@ -69,4 +69,4 @@ Effecorta is a small but historically significant early mover in Italy's bulk/re
 - Founding year corrected/expanded: the Effecorta concept dates to 2009 (Capannori), not solely to the Milan opening (2013).
 - No verifiable claim of a franchise network beyond these two locations was found.
 
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

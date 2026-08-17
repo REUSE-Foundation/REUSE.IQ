@@ -61,4 +61,4 @@ This entry cannot be substantively assessed. The only located reference is an In
 
 Seed data provided only an Instagram handle (@ecoamigos.ve) with no website. Direct fetch of the Instagram page returned only image-encoded content with no readable bio or posts. Web searches surfaced many similarly named but geographically and organisationally distinct "EcoAmigos" groups in other Latin American countries (El Salvador's Eco Amigos del Plástico/Asiplastic, Mexican and Bolivian accounts, etc.) — none of these should be conflated with the Venezuelan seed entry, and none were confirmed as the same organisation. No corrections to seed facts can be made because no independent facts were found to compare against.
 
-Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Low | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

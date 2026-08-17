@@ -57,4 +57,4 @@ Grove Collaborative is a large, publicly listed retailer whose core business mod
 ## Verification Notes
 Seed data confirmed: founded 2012 (as ePantry, rebranded Grove 2016), publicly listed via SPAC in 2022 (NYSE: GROV), B2C natural household products. SPAC backer identified as Virgin Group. HQ confirmed as San Francisco with a Portland, Maine office.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

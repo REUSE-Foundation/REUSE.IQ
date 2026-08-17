@@ -49,4 +49,4 @@ Not publicly available.
 Exceptionally well-corroborated across 6 independent sources (Jakarta Post, NOW! Jakarta, Flokq x2, Waste4Change, Going Green in Jakarta) spanning 2020-2022, all consistent on founder name, founding date, and specific address. This is one of the better-documented Indonesian candidates, substantially upgrading confidence from my original entry.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

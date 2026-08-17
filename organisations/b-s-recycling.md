@@ -50,4 +50,4 @@ Not publicly available.
 Well-corroborated across 8 independent sources (Bottle Bill Resource Guide, LinkedIn, RecycleInMe, RocketReach, FindYello x3, Barbados Digital, plus the company's own site) with consistent founder names and founding year. Same important category caveat as Recycling Partners Jamaica: this operation centers on recycling/scrap export rather than returnable-container reuse, and handles a very broad range of materials (including used vehicles) well beyond beverage packaging — recommend the Foundation weigh whether this fits a reuse-focused mission or is better classified as a general recycling operator.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

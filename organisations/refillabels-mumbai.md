@@ -60,4 +60,4 @@ Priority: ★★★★ High
 Seed name "Refillabels Mumbai" and seed URL refillable.store do not exactly match; the verified operating name is "Refillable" / "Refillable Store." No exact founding year was located in sources reviewed.
 
 ---
-Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

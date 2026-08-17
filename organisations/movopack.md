@@ -64,4 +64,4 @@ Credible B2B reuse-as-a-service platform with named major clients (Decathlon) an
 Impact percentages are company-reported, no independent audit found; client names (Decathlon etc.) sourced from official site.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

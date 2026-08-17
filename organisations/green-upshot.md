@@ -70,4 +70,4 @@ Priority: ★★★ Medium
 Seed data noted the seed URL for Green Upshot was malformed and asked for the actual website to be located — confirmed as https://greenupshot.co/ (not a ".com" or other variant) via search. Seed data described it as an "e-commerce for sustainable/reusable items" business in Pakistan — corroborated, with founding year (2023) and Lahore headquarters confirmed via the company's own About Us page. Founder's full name is not disclosed on the public-facing About Us content (described only as "an environmentalist"); this should be treated as a data gap rather than an error.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

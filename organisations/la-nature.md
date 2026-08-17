@@ -69,4 +69,4 @@ Retail Directory Listing: https://consumaconciencia.com/tienda/la-nature/
 Seed data listed only an Instagram handle as the organisation's web presence; research identified an apparent official website (lanature.com.mx) and a more detailed Facebook page, both used here in addition to independent press coverage (local.mx, revistacambio.com.mx) that substantiates founding year (2016) and the deposit-return business model in more depth than the seed data indicated. Founder/owner names could not be confirmed from public sources — WebFetch of one press article (revistacambio.com.mx) returned a 403 error blocking full-content retrieval, so some detail relies on WebSearch snippet summaries of that source plus the local.mx feature.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

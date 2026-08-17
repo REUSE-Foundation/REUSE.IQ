@@ -72,4 +72,4 @@ Priority: ★★★ Medium
 Seed data's characterisation as a "cosmetics refill bar (coconut-based refillable containers)" is confirmed accurate. Seed data correctly flagged this as a specific store-level initiative rather than the whole Amorepacific company — this profile is scoped accordingly, with "Official Name" reflecting the parent listed entity (Amorepacific Corporation) alongside the specific branded initiative. No evidence found of the refill station's continued operation status being publicly reported in recent (2023–2026) sources; treat "Active" status as based on the most recent available confirmation rather than a current-year check-in.
 
 ---
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-17 | Research Version: V5

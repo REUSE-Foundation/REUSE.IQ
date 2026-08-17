@@ -66,4 +66,4 @@ Priority: ★★★ Medium (verified reusable-packaging manufacturer with a clea
 The seed data's URL was malformed/unspecified ("search GAIA Bags Pakistan"); the correct official website was identified as https://gaiapk.com/. The registered company name (GAIA International (Private) Limited) and founding year (2017) were sourced from the company's LinkedIn profile rather than a government registry, so confidence on the exact legal name and year is medium rather than high. No independent press coverage of GAIA Bags was found during this research, which is unusual for a company of its claimed size and limits the ability to verify impact or market-reach claims beyond the company's own website.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

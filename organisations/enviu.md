@@ -51,4 +51,4 @@ Enviu is relevant to the REUSE Foundation primarily as the originating organisat
 ## Verification Notes
 Corrected seed misspelling "Eviu" to "Enviu." Founding year (2004) and non-profit/incubator status confirmed via official site. Seed correctly identified this as the parent organisation behind other researched ventures (Cupkita, Alner/Koinpack) — confirmed. Impact figures (60 jobs, 200+ tonnes) are undated/self-reported; treat as directional only.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

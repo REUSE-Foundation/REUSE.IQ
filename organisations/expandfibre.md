@@ -52,4 +52,4 @@ ExpandFibre is a large, credible, publicly co-funded industrial R&D consortium r
 ## Verification Notes
 Material correction: seed described the consortium as "Metsä Group and Metsä Fibre." Sources instead show the consortium partners as Metsä Group and Fortum (with Business Finland as public co-funder); Metsä Fibre is a subsidiary/business area of Metsä Group and participates within that structure but is not one of the two named lead consortium partners. Also material: the programme concluded in August 2024, which was not reflected in the seed's present-tense description as an active consortium.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-18 | Research Version: V5

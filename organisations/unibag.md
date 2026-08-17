@@ -46,4 +46,4 @@ Priority: ★★★ Medium
 ## Verification Notes
 CORRECTION: Seed listed country as Peru, but research confirms Unibag was founded and headquartered in Chile in 2013 (by Marco De la Cerda and Eliana Moreno), later expanding into Peru (unibag.com.pe) and Mexico (unibag.com.mx) — consistent with the seed's noted .cl contact email discrepancy.
 
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

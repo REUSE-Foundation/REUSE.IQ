@@ -72,4 +72,4 @@ Startup Directory: https://thehub.io/startups/kleen-hub-aps
 Founding year given inconsistently across sources as 2019 (origin story/founding) vs. 2020 (formal registration in one search summary) — reported here as founded 2019 with company formalisation shortly after, per the most detailed source (Forbes/social tech projects). Impact metrics (CO2 savings, cost-per-cup, reuse uptake rate) are self-reported by the company via press interview, not independently audited — flagged accordingly. Direct WebFetch of the official homepage returned only footer/contact content; founder and business-model detail was sourced via WebSearch summaries and the Forbes feature.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

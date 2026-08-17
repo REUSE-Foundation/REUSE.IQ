@@ -57,4 +57,4 @@ Rustic Strength is a verifiable, fast-growing US supplier directly enabling the 
 No precise founding date or exact headquarters city/state was found (site references "the Ozarks" and a family-run factory); marked accordingly. The Inc. 2026 Midwest fastest-growing companies ranking (No. 11) was found in company site content and treated as a self-reported business metric, not independently verified impact data.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

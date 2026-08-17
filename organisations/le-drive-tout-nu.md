@@ -68,4 +68,4 @@ Priority: ★★★★ High
 
 Founding year and founders corroborated across multiple independent French sources (official site, Heinrich Böll Stiftung, franchise directories). The reverse-deposit (€0.10 credit) mechanism is specifically documented in company/press sources. No independently audited impact metrics located.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

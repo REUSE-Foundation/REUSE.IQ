@@ -46,4 +46,4 @@ A scaled, well-documented national refill network for personal care with over a 
 ## Verification Notes
 2013 founding and 130+ refill station count confirmed via company site and Switzerland Tourism feature.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

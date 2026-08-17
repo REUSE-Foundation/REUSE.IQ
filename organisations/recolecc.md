@@ -61,4 +61,4 @@ Priority: ★★★ Medium
 Seed data described "electronics/component reuse partnered with Petroperu" — no evidence of a Petroperu partnership was found in available sources; Recolecc's confirmed partner is Epson. Core activity is RAEE/e-waste collection and EPR compliance, not component reuse.
 
 ---
-Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: Medium | Founding Year: Medium | Impact Data: Medium | Last Verified: 2026-07-19 | Research Version: V5

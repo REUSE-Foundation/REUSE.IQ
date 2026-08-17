@@ -66,4 +66,4 @@ Priority: ★★★★ High
 Founding year could not be confirmed from the official website or independent sources within the search budget for this profile; marked "Not publicly available." Parent entity "Graine de Malice SRL" and Odoo-based deposit-tracking system were confirmed via the official Impact page. No named clients or dated impact metrics were found in available sources.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

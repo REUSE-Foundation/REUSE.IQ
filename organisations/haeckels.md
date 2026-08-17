@@ -53,4 +53,4 @@ Haeckels/Dulcie operates a genuine, consumer-friendly in-store refill model nota
 ## Verification Notes
 IMPORTANT UPDATE: As of the current rebrand process (announced November 2024), the Haeckels brand name is being phased out in favor of "Dulcie" over a 12-month transition; the official website now redirects from haeckels.co.uk to dulcie.world. This profile is filed under "Haeckels" per the seed organisation name, but researchers/library maintainers should be aware the operating brand name has changed. Seed founding year (2012) confirmed, though the operating lab dates to 2013. HQ, refill-station model, and marine skincare focus all confirmed accurate.
 
-Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: Medium | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

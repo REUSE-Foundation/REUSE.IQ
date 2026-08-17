@@ -66,4 +66,4 @@ Priority: ★★ Low (verified active multi-location refill retailer; no public 
 Seed data's description (US/Florida, refill station + organic raw materials store) was confirmed accurate. The business has expanded to two physical locations (South Tampa and Wesley Chapel), which was not reflected in the seed data. Founder name (Sheila Haque) confirmed via the official About page. No founding year could be located on the official site or in secondary listings, so it is marked not publicly available rather than estimated.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

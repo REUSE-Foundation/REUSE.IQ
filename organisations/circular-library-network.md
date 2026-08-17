@@ -50,4 +50,4 @@ Reykjavik pilot project results: 42 tools lent, borrowed 254 times in the first 
 Exceptionally well-corroborated across 7 independent sources (Shareable, a Substack circular-economy newsletter, DEFINITE-CCRI, F6S, Reykjavik Grapevine, Karolina Fund, plus the company's own detailed founder blog post) with a consistent, richly-detailed founding story spanning the 2018 Munasafn Tool Library origin through the 2020 CLN pivot. Impact metrics are specific and detailed but self-reported by the organisation from its own Reykjavik pilot, not independently audited, hence Medium rather than High confidence.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

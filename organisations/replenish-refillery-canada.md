@@ -59,4 +59,4 @@ Priority: ★★★ Medium
 Cross-reference check performed: this Canadian entity (replenishrefillery.org, Summerland BC) is a distinct domain, country, and address from the US "Replenish Refillery" (replenishrefillery.com, Dover NH). No evidence of shared ownership found; treated as a separate, independent business per instructions.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

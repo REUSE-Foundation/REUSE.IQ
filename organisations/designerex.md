@@ -49,4 +49,4 @@ One illustrative example cited (2020): a single $400 dress from LA brand For Lov
 MAJOR UPDATE vs. my original candidate entry: the company's own current homepage reveals a recent 'pause in trading' followed by a resumption — this is exactly the kind of recent operational disruption the research protocol is designed to catch, and I could not determine in this pass when the pause occurred or whether it reflects financial distress, a technical migration, or something else. Well-corroborated founder names (Kirsten Kore, Costa Koulis) across 6 independent sources (SmartCompany, Startup Daily, Inside Retail x2, Tracxn, LinkedIn), though founding year varies 2015 vs 2016 between sources. Recommend the Foundation mark Status as 'Active — recently resumed after a trading pause, verify current stability' rather than a simple 'Active'.
 
 ---
-Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Medium | Impact Data: Low | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

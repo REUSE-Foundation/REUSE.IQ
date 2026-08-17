@@ -64,4 +64,4 @@ Milly & Sissy represents the powder-refill niche of the reuse economy — a ligh
 
 Seed data described "powder-format refills for home mixing" — confirmed. Founding year (2019) verified via UK Companies House record (company number 12159977, incorporated 16 August 2019), which is a high-confidence official registry source, correcting the ambiguity in the seed data (which did not specify a year).
 
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

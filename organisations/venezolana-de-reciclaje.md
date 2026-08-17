@@ -59,4 +59,4 @@ Venrecicla is a legitimate industrial recycler with verifiable physical infrastr
 - Confirmed company existence, location (Barquisimeto/Cabudare), and general solid-waste-to-secondary-raw-material business model via the official website.
 - Could not confirm the seed's specific claim that the material stream is "plastic waste" — site describes solid waste recovery generally; founding year and ownership are undisclosed.
 
-Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V4
+Confidence — Name: High | Founding Year: Low | Impact Data: Low | Last Verified: 2026-07-19 | Research Version: V5

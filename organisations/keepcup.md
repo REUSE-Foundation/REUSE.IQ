@@ -65,4 +65,4 @@ KeepCup is one of the most well-established and globally recognised reusable-cup
 Founding year (2009) and founders (Abigail and Jamie Forsyth) are well-corroborated across multiple independent sources including Wikipedia and business press. No independently audited environmental-impact metrics were found in this research pass despite extensive general press coverage of the brand.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Low | Last Verified: 2026-07-18 | Research Version: V5

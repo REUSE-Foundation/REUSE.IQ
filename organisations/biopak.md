@@ -68,4 +68,4 @@ As the seed data itself flags, BioPak's core activity — single-use compostable
 
 Seed data's founding year (2006) confirmed via multiple independent sources (official site, press profiles). Added founder names (Richard Fine, Gary Smith), not in seed data. Seed data's operating markets (Australia/NZ/UK) confirmed but incomplete — current official site also lists Singapore and US operations. Confirmed and reinforced the seed data's own caveat: compostable packaging is adjacent to reuse, not reuse itself; this assessment is reflected in the Low priority rating and in the Circular Economy Activities section, which excludes "Reusable Packaging"/"Refill Systems" as they do not apply to BioPak's core product line.
 
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5

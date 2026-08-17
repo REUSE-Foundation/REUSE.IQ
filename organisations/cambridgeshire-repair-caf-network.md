@@ -49,4 +49,4 @@ University of Cambridge's first year of repair cafes (2025, at the West Hub and 
 Well-corroborated across 8 independent pages/sources (University of Cambridge news, Cambridge Carbon Footprint's own site across multiple pages, The Restart Project, and event-listing pages) with specific, recent (2026) figures for the new University of Cambridge partnership. The network's own founding date could not be pinned down precisely — the parent charity states '15+ years' of general operation, and individual village groups report decade-plus histories, but no single founding date for the coordinated 'network' itself was found. Impact metrics are specific to the new University partnership's first year, not the full Cambridgeshire-wide network, which likely has much larger cumulative impact not quantified in the sources reviewed.
 
 ---
-Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: Low | Impact Data: Medium | Overall: Medium | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

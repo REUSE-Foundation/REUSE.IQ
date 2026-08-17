@@ -49,4 +49,4 @@ Pizza boxes reported to make up 22% of German takeaway waste and are typically n
 Exceptionally well-corroborated across 7 independent sources (PMQ Pizza trade magazine, interpack trade show's own editorial feature, Scott's Pizza Tours, plus the company's own site across multiple pages) spanning 2022-2026, all consistent on founders, origin story, and product design. This substantially upgrades my original single-source (industry roundup) candidate entry to High confidence, with a named Domino's Germany pilot partnership and government recognition adding strong credibility.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V4 (batch add)
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Overall: High | Last Verified: 03/08/2026 | Research Version: V5 (batch add)

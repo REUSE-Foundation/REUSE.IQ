@@ -89,4 +89,4 @@ Priority: ★★★ Medium
 The seed data listed "Philippines" as the country for this entry, but L'Occitane is a global French-founded, Switzerland-headquartered group; there is no verified evidence of a distinct, independently reporting L'Occitane Philippines legal subsidiary — the Philippine market appears to be served through e-commerce (ph.loccitane.com) and third-party retail/distribution partners (Rustan's, Adora.ph, Zalora), with Rustan Marketing Corp itself having been acquired by SSI Group in March 2025. This profile therefore documents the global L'Occitane en Provence reuse programme, which is what actually appears on the Philippines storefront, and flags that Philippines-specific reuse metrics were not found in verified public sources.
 
 ---
-Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V4
+Confidence — Name: High | Founding Year: High | Impact Data: Medium | Last Verified: 2026-07-17 | Research Version: V5
